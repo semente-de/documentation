@@ -1,2 +1,2 @@
-# documentation
-documentation of the semente toolkit
+# Documentation
+Documentation of the development and usage recommendations of the semente toolkit.
