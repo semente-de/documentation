@@ -1,2 +1,15 @@
-# Documentation
-Documentation of the development and usage recommendations of the semente toolkit.
+# semente documentation
+
+Documentation of the [semente toolkit](https://semente.de), its development history and how to use it.
+
+- [About semente](about)
+- Releases
+  - [0.1](0.1-2022/) (2022)
+  - [0.2](0.2-2023/) (2023)
+  - [0.3](0.3-2024/) (2024)
+
+See also:
+
+- [semente Canvas](https://github.com/semente-de/canvas)
+- [presentations](https://github.com/semente-de/presentations)
+- [Seeds of digital reforestation](https://is.efeefe.me/stuff/seeds-digital-reforestation), chapter of the book Driving Design II (2024).
