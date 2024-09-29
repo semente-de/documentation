@@ -1,6 +1,6 @@
-# Semente 0.1
+# semente 0.1
 
-This folder stores documentation of the first stages of development for semente, conducted by the semente team with [Instituto Neos](https://coletivoneos.org/instituto-neos/) and supported by the University of Bristol. It was created on a distributed way, and featured a series of online [workshops](workshops) and in-person sessions during the [tropixel](tropixel) festival in Ubatuba (Brazil), July 2022.
+This folder stores documentation of the first stages of development for semente, conducted by the semente team in partnership with [Instituto Neos](https://coletivoneos.org/instituto-neos/) and supported by the University of Bristol. It was created through design exploration and meetings. In particular a series of online [workshops](workshops) as well as in-person sessions during the [tropixel](tropixel) festival in Ubatuba (Brazil), July 2022.
 
 ## Contents
 
