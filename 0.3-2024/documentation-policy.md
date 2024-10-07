@@ -1,6 +1,8 @@
-Documentation Policy
+# Semente 0.3
 
-1. Project development data: store in GitHub repository
+## Documentation Policy
+
+1. Project development data: store in [GitHub repository](https://github.com/semente-de/documentation).
 
 - Meeting minutes (anonymised participant data, when relevant)
 - Concept notes
@@ -8,10 +10,10 @@ Documentation Policy
 - Wireframes
 - Reflections
 
-2. Public documentation: fonte.wiki semente section
+2. Public documentation: [fonte.wiki semente section](https://fonte.wiki/projetos/semente)
 
 - fonte.wiki
-	- semente (summary + links)
+	- projetos / semente (summary + links)
 		- current version
 		- previous iterations, development history
 		- reference links (as fonte.wiki resource list)
@@ -20,5 +22,4 @@ Documentation Policy
 
 Hotsite / simple site. Experiment with hugo + GHP - FF to create repos, document process. Define structure / architecture and contents.
 
-
-Notes and files with sensitive information won't be published or shared openly. 
+Notes and files with sensitive information won't be published or shared openly.
