@@ -19,15 +19,16 @@ For semente 0.3, we're working to achieve the following:
 
 ## Outputs
 
-- [Documentation policy](documentation-policy.md)
+- [Documentation policy](documentation-policy.md).
+- [GAIATO residency outline](gaiato/2024-09_outline.md) (September 2024).
 
 ## Team
 
 The semente team is composed of:
 
-- Bernardo Schepop
-- [Felipe Schmidt Fonseca](https://is.efeefe.me)
-- Maira Begalli
+- Bernardo Schepop.
+- [Felipe Schmidt Fonseca](https://is.efeefe.me).
+- Maira Begalli.
 
 ## Network
 
