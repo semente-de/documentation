@@ -7,7 +7,11 @@ Documentation of reflections and conceptual explorations based on semente.
 
 ## Videos
 
-- To start version 0.3, FF recorded two videos about the earlier phases of semente. Available (in Portuguese) on [archive.org](https://archive.org/details/2024-semente-02) and YouTube ([1](https://www.youtube.com/watch?v=835XcMYHLgg&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=3), [2](https://www.youtube.com/watch?v=XlBeTCCfTnc&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=4)).
+To start version 0.3, FF recorded a series of videos. 
+
+The first two of them were about the earlier phases of semente. Available (in Portuguese) on [archive.org](https://archive.org/details/2024-semente-02) and YouTube ([1](https://www.youtube.com/watch?v=835XcMYHLgg&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=3), [2](https://www.youtube.com/watch?v=XlBeTCCfTnc&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=4)).
+
+A third video documents insights about a potential alternative shape of the canvas.
 
 ### See also
 
