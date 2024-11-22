@@ -15,6 +15,7 @@ A third video, also in Portuguese, documents insights about a potential alternat
 
 To better explain the image of spirals and its potentialities, FF made another video, this one more conceptual. It's [here](https://www.youtube.com/watch?v=3FVgJoglx7g).
 
+Maira, Bernardo and Felipe had a workshop about the semente principles: communities, circularity and regeneration. The video is available [here](https://www.youtube.com/watch?v=QZ5N1hMrrU4). The conversation was summarised in the blog post [Community Ways](https://semente.de/lab/community-ways).
 
 ### See also
 
