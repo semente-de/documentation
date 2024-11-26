@@ -7,15 +7,15 @@ Documentation of reflections and conceptual explorations based on semente.
 
 ## Videos
 
-To start version 0.3, FF recorded a series of videos. 
+To start version 0.3, we recorded a series of videos. 
 
-The first two of them were about the earlier phases of semente. Available (in Portuguese) on [archive.org](https://archive.org/details/2024-semente-02) and YouTube ([1](https://www.youtube.com/watch?v=835XcMYHLgg&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=3), [2](https://www.youtube.com/watch?v=XlBeTCCfTnc&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=4)).
+- In the first two videos, FF talked about earlier phases of semente. Available (in Portuguese) on [archive.org](https://archive.org/details/2024-semente-02) and YouTube ([1](https://www.youtube.com/watch?v=835XcMYHLgg&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=3), [2](https://www.youtube.com/watch?v=XlBeTCCfTnc&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=4)).
 
-A third video, also in Portuguese, documents insights about a potential alternative shape of the canvas. It can be seen on [YouTube](https://www.youtube.com/watch?v=KMt-VVZk9-o).
+- A third video, also in Portuguese, brainstorms on a potential alternative shape of the canvas. It can be seen on [archive.org](https://archive.org/details/semente-cycles) and [YouTube](https://www.youtube.com/watch?v=KMt-VVZk9-o).
 
-To better explain the image of spirals and its potentialities, FF made another video, this one more conceptual. It's [here](https://www.youtube.com/watch?v=3FVgJoglx7g).
+To better explain the image of spirals and its potentialities, FF made a more conceptual video. It's here on the [Internet Archive](https://archive.org/details/linhas-circulos-espirais) and [YouTube](https://www.youtube.com/watch?v=3FVgJoglx7g). Some of the arguments here are also present in writings for [Future Beyong Repair](https://fbr.efeefe.me).
 
-Maira, Bernardo and Felipe had a workshop about the semente principles: communities, circularity and regeneration. The video is available [here](https://www.youtube.com/watch?v=QZ5N1hMrrU4). The conversation was summarised in the blog post [Community Ways](https://semente.de/lab/community-ways).
+Maira, Bernardo and Felipe had a workshop about the semente principles: communities, circularity and regeneration. The video is available [here](https://archive.org/details/workshop-semente_11-24) and [here](https://www.youtube.com/watch?v=QZ5N1hMrrU4). The conversation was summarised in the blog post [Community Ways](https://semente.de/lab/community-ways).
 
 ### See also
 

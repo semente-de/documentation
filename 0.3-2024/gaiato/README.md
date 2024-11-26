@@ -17,5 +17,6 @@ Translated from [their website](https://www.gaiato.org/):
 - Residency [planning - July 2024](residency_planning.md).
 - Minutes from [Project call - September 2024](2024-09-13_call.md) (Portuguese).
 - Partnership [Outline - September 2024](2024-09_outline.md).
-- First Workshop: [conversation with GAIATO](2024-11-11_workshop.md) on 11.11.2024. 
-- Second Workshop: semente team design discussion. Available on [YouTube](https://www.youtube.com/watch?v=QZ5N1hMrrU4).
+- First Workshop: [conversation with GAIATO: mapping](2024-11-11_workshop.md) on 11.11.2024. 
+- Second Workshop: [semente team design discussion](2024-11-19_workshop.md) on 19.11.2024.
+- Third Workshop: [conversation with GAIATO: elaborating](2024-11-25_workshop.md) on 25.11.2024.
