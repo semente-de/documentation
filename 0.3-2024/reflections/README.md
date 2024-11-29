@@ -17,6 +17,8 @@ To better explain the image of spirals and its potentialities, FF made a more co
 
 Maira, Bernardo and Felipe had a workshop about the semente principles: communities, circularity and regeneration. The video is available [here](https://archive.org/details/workshop-semente_11-24) and [here](https://www.youtube.com/watch?v=QZ5N1hMrrU4). The conversation was summarised in the blog post [Community Ways](https://semente.de/lab/community-ways).
 
+Felipe made another video to document the experimentation with spiralled and cyclical shapes, this one in English. The video is available from the [internet archive](https://archive.org/details/semente-spiral-shaped-communities) or [YouTube](https://www.youtube.com/watch?v=cjYhaq-wibQ), and a slightly edited automated transcription is [here](spiral-shaped_video_transcription.txt). 
+
 ### See also
 
 - [Seeds of digital reforestation](https://is.efeefe.me/stuff/seeds-digital-reforestation), published as a book chapter of the book Driving Design 2.
