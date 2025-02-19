@@ -4,9 +4,9 @@ Documentation of the [semente toolkit](https://semente.de), its development hist
 
 - [About semente](about)
 - Releases
-  - [0.1](0.1-2022/) (2022)
-  - [0.2](0.2-2023/) (2023)
-  - [0.3](0.3-2024/) (2024)
+  - [0.1](0.1) (2022)
+  - [0.2](0.2) (2023)
+  - [0.3](0.3) (2024)
 
 See also:
 
