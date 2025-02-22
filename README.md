@@ -11,6 +11,4 @@ Documentation of the [semente toolkit](https://semente.de), its development hist
 See also:
 
 - [semente LAB blog](https://semente.de/lab)
-- [semente Canvas](https://github.com/semente-de/canvas)
-- [presentations](https://github.com/semente-de/presentations)
 - [Seeds of digital reforestation](https://is.efeefe.me/stuff/seeds-digital-reforestation), chapter of the book Driving Design II (2024).
