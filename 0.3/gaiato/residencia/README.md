@@ -20,4 +20,4 @@ A residência semente aconteceu na sede do [GAIATO](https://gaiato.org.br) entre
 ## Comunicação
 
 - [GAIATO residency](https://semente.de/lab/gaiato-residency/), post (em inglês) no blog semente.
-- [Podcast gerado por AI](semente_GAIATO_GNLM_Podcast.wav) com base nas entrevistas e conversas.
+- ["Podcast" em inglês gerado por IA](semente_GAIATO_GNLM_Podcast.wav) com base nas entrevistas e conversas.
