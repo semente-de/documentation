@@ -1,0 +1,6344 @@
+1
+00:00:00,280 --> 00:00:05,480
+gravando gravando eh bom para quem tá
+
+2
+00:00:03,800 --> 00:00:06,960
+para quem acessar essa gravação depois
+
+3
+00:00:05,480 --> 00:00:10,960
+se é que a gente vai publicar né a gente
+
+4
+00:00:06,960 --> 00:00:15,839
+não decidiu ainda eh aqui é uma reunião
+
+5
+00:00:10,960 --> 00:00:18,400
+Oficina da equipe semente e a ideia a
+
+6
+00:00:15,839 --> 00:00:22,119
+gente conversar um pouco sobre tabuleiro
+
+7
+00:00:18,400 --> 00:00:25,599
+semente jogo semente formatos possíveis
+
+8
+00:00:22,119 --> 00:00:28,240
+conjuntos de ferramentas que sirvam para
+
+9
+00:00:25,599 --> 00:00:31,119
+ajudar projetos comunitários a serem
+
+10
+00:00:28,240 --> 00:00:33,440
+criados aprimorados desenvolvidos
+
+11
+00:00:31,119 --> 00:00:37,960
+mantidos mas
+
+12
+00:00:33,440 --> 00:00:40,160
+eh Isso faz parte de uma nova fase do
+
+13
+00:00:37,960 --> 00:00:42,120
+semente que a gente tá desenvolvendo nos
+
+14
+00:00:40,160 --> 00:00:44,640
+próximos meses ou já tá desenvolvendo
+
+15
+00:00:42,120 --> 00:00:46,320
+alguns meses e vai continuar até um
+
+16
+00:00:44,640 --> 00:00:48,680
+pouco depois da virada do ano e vai
+
+17
+00:00:46,320 --> 00:00:50,559
+culminar em uma residência que a gente
+
+18
+00:00:48,680 --> 00:00:54,440
+vai fazer em Ubatuba em fevereiro de
+
+19
+00:00:50,559 --> 00:00:57,359
+2025 hoje é dia 19 de novembro de 2024
+
+20
+00:00:54,440 --> 00:00:58,920
+amanhã é dia 20 um dia importante no
+
+21
+00:00:57,359 --> 00:01:02,039
+Brasil e no mundo
+
+22
+00:00:58,920 --> 00:01:04,159
+eh mas depois a gente fala sobre isso e
+
+23
+00:01:02,039 --> 00:01:08,280
+eu sou o Felipe Fonseca Felipe esid
+
+24
+00:01:04,159 --> 00:01:09,600
+Fonseca ufff e é é meio me parece meio
+
+25
+00:01:08,280 --> 00:01:11,400
+bobo a gente ficar se apresentando um
+
+26
+00:01:09,600 --> 00:01:13,799
+pro outro aqui mas acho que como a gente
+
+27
+00:01:11,400 --> 00:01:16,000
+tem talvez a intenção de Compartilhar
+
+28
+00:01:13,799 --> 00:01:17,880
+esse vídeo vou também pedir para vocês
+
+29
+00:01:16,000 --> 00:01:20,880
+se
+
+30
+00:01:17,880 --> 00:01:25,200
+apresentarem Maira
+
+31
+00:01:20,880 --> 00:01:27,960
+eu bom sou a Maira eh já queer falar
+
+32
+00:01:25,200 --> 00:01:31,680
+nome e sobrenome eu sou a Maira begali
+
+33
+00:01:27,960 --> 00:01:33,920
+e atualmente eu moro na baixada santista
+
+34
+00:01:31,680 --> 00:01:37,360
+e acho que eu fui a última a chegar
+
+35
+00:01:33,920 --> 00:01:40,119
+nessa equipe e também no que era o
+
+36
+00:01:37,360 --> 00:01:44,280
+original desse grupo acho que é isso
+
+37
+00:01:40,119 --> 00:01:44,280
+vamos ver o que dá essa reunião
+
+38
+00:01:44,399 --> 00:01:50,920
+Ah meu nome é Bernardo eh brasileiro
+
+39
+00:01:48,159 --> 00:01:52,360
+Holandês o nome todo é Bernardo vandes
+
+40
+00:01:50,920 --> 00:01:55,200
+repop
+
+41
+00:01:52,360 --> 00:01:56,960
+eh que na comunidade que a gente tinha
+
+42
+00:01:55,200 --> 00:01:58,840
+antes Felipe e eu todo mundo me chamava
+
+43
+00:01:56,960 --> 00:02:02,799
+de X pop que tá
+
+44
+00:01:58,840 --> 00:02:06,200
+valendo eh Felipe e eu estamos nessa
+
+45
+00:02:02,799 --> 00:02:08,560
+jornada aí do sementes há um tempo eu
+
+46
+00:02:06,200 --> 00:02:12,040
+trabalho como design aqui na Holanda é
+
+47
+00:02:08,560 --> 00:02:15,360
+onde eu tô agora e a gente tá nessa
+
+48
+00:02:12,040 --> 00:02:18,319
+segunda ou terceira iteração do projeto
+
+49
+00:02:15,360 --> 00:02:19,480
+sementes que a gente vai discutir mais à
+
+50
+00:02:18,319 --> 00:02:21,280
+frente agora
+
+51
+00:02:19,480 --> 00:02:24,680
+metodologias
+
+52
+00:02:21,280 --> 00:02:27,239
+e eu tenho um um interesse gigante em
+
+53
+00:02:24,680 --> 00:02:32,120
+ver como aplicar design que eu uso só na
+
+54
+00:02:27,239 --> 00:02:34,879
+parte comercial para conteúdos eh de
+
+55
+00:02:32,120 --> 00:02:38,360
+impacto social e
+
+56
+00:02:34,879 --> 00:02:40,800
+Ecológico acho que é isso né acho que é
+
+57
+00:02:38,360 --> 00:02:45,319
+é um bom começo de conversa mas eu eu
+
+58
+00:02:40,800 --> 00:02:46,400
+queria tentar retomar um pouco da da das
+
+59
+00:02:45,319 --> 00:02:47,920
+questões que a gente tem para
+
+60
+00:02:46,400 --> 00:02:50,720
+desenvolver agora então eu já fiz
+
+61
+00:02:47,920 --> 00:02:52,840
+aqueles outros vídeos contando pelo
+
+62
+00:02:50,720 --> 00:02:56,200
+menos a minha versão das etapas
+
+63
+00:02:52,840 --> 00:02:59,080
+anteriores do Semente contando sobre por
+
+64
+00:02:56,200 --> 00:03:04,480
+onde que a gente passou enfim De onde
+
+65
+00:02:59,080 --> 00:03:06,159
+veio d21 Font wik aí tropix 2022 as
+
+66
+00:03:04,480 --> 00:03:09,200
+coisas todas que a gente passou até
+
+67
+00:03:06,159 --> 00:03:14,959
+chegar aqui e aí a gente chega aqui com
+
+68
+00:03:09,200 --> 00:03:20,319
+essa esse projeto em que a gente propõe
+
+69
+00:03:14,959 --> 00:03:22,239
+de fazer uma versão nova de de de do que
+
+70
+00:03:20,319 --> 00:03:24,239
+é do que a gente tem até hoje como
+
+71
+00:03:22,239 --> 00:03:27,920
+semente que era assim básicamente um
+
+72
+00:03:24,239 --> 00:03:30,959
+tabuleiro e uma ideia de ocupar eh ou de
+
+73
+00:03:27,920 --> 00:03:34,680
+visualizar dinâmicas coletivas
+
+74
+00:03:30,959 --> 00:03:36,280
+e E aí eu acho que tem algumas questões
+
+75
+00:03:34,680 --> 00:03:38,560
+ali que é interessante tratar e a gente
+
+76
+00:03:36,280 --> 00:03:42,159
+já começou a conversar eh sobre isso em
+
+77
+00:03:38,560 --> 00:03:45,239
+algumas reuniões né que é como que a
+
+78
+00:03:42,159 --> 00:03:48,040
+gente faz para usar eh o que a gente tem
+
+79
+00:03:45,239 --> 00:03:50,720
+ali daquele tabuleiro com espaços
+
+80
+00:03:48,040 --> 00:03:53,079
+delimitados para algumas dinâmicas de
+
+81
+00:03:50,720 --> 00:03:55,920
+comunidade como que a gente faz para
+
+82
+00:03:53,079 --> 00:03:57,959
+trazer uma versão nova então tentando
+
+83
+00:03:55,920 --> 00:04:00,120
+retomar uma conversa que a gente teve há
+
+84
+00:03:57,959 --> 00:04:01,760
+alguns meses e acho que tava eu e
+
+85
+00:04:00,120 --> 00:04:03,959
+Bernardo conversando como que a gente
+
+86
+00:04:01,760 --> 00:04:06,319
+faz faz para pegar aquele quadro que
+
+87
+00:04:03,959 --> 00:04:10,920
+tinha alguns Campos no meio e aí embaixo
+
+88
+00:04:06,319 --> 00:04:14,280
+tinha frutos aí também manejo tempo eh e
+
+89
+00:04:10,920 --> 00:04:16,600
+manejo tempo frutos e solo
+
+90
+00:04:14,280 --> 00:04:18,880
+eh eu falei que que tinha embaixo sei lá
+
+91
+00:04:16,600 --> 00:04:21,040
+me enganei Talvez Mas como que a gente
+
+92
+00:04:18,880 --> 00:04:23,759
+faz para fazer uma uma representação que
+
+93
+00:04:21,040 --> 00:04:26,440
+seja dinâmica que seja útil pros
+
+94
+00:04:23,759 --> 00:04:27,919
+projetos com os quais a gente interage e
+
+95
+00:04:26,440 --> 00:04:30,240
+pretende continuar interagindo porque eu
+
+96
+00:04:27,919 --> 00:04:32,440
+acho que é em em último Tima Instância
+
+97
+00:04:30,240 --> 00:04:35,000
+que a gente quer é que semente seja útil
+
+98
+00:04:32,440 --> 00:04:38,600
+para projetos comunitários e como que a
+
+99
+00:04:35,000 --> 00:04:41,919
+gente faz para trazer algumas das eh dos
+
+100
+00:04:38,600 --> 00:04:43,680
+princípios que a gente descobre o que a
+
+101
+00:04:41,919 --> 00:04:46,560
+gente aprende ao longo dessas últimas
+
+102
+00:04:43,680 --> 00:04:50,600
+décadas de projetos coletivos para
+
+103
+00:04:46,560 --> 00:04:52,960
+dentro dessa versão interativa eh de
+
+104
+00:04:50,600 --> 00:04:54,560
+construção do Semente Então para mim uma
+
+105
+00:04:52,960 --> 00:04:57,759
+das questões é como que a gente traz de
+
+106
+00:04:54,560 --> 00:05:00,199
+novo aquela a ideia da dinâmica circular
+
+107
+00:04:57,759 --> 00:05:03,360
+eh ou espiral como estava tentando
+
+108
+00:05:00,199 --> 00:05:06,720
+também elaborar aí em paralelo eh e como
+
+109
+00:05:03,360 --> 00:05:09,479
+que a gente faz para enfatizar algumas
+
+110
+00:05:06,720 --> 00:05:13,199
+questões e para mim algumas das questões
+
+111
+00:05:09,479 --> 00:05:14,919
+que são importantes são primeiro que a
+
+112
+00:05:13,199 --> 00:05:18,080
+visão que a gente tem de comunidade não
+
+113
+00:05:14,919 --> 00:05:20,199
+é aquela visão que se vê por exemplo em
+
+114
+00:05:18,080 --> 00:05:22,560
+vários produtos digitais em que eu tenho
+
+115
+00:05:20,199 --> 00:05:24,240
+o meu produto e eu vou fazer meus
+
+116
+00:05:22,560 --> 00:05:25,919
+clientes trabalharem para mim de graça
+
+117
+00:05:24,240 --> 00:05:28,360
+basicamente isso uma visão de comunidade
+
+118
+00:05:25,919 --> 00:05:30,240
+que se vê muito por aí no mercado
+
+119
+00:05:28,360 --> 00:05:31,520
+comercial
+
+120
+00:05:30,240 --> 00:05:33,639
+mas também que não é uma visão de
+
+121
+00:05:31,520 --> 00:05:36,080
+comunidade em que existe um grupo de
+
+122
+00:05:33,639 --> 00:05:38,960
+pessoas pré-determinado e eu quero
+
+123
+00:05:36,080 --> 00:05:42,600
+causar Impacto naquelas pessoas vindo de
+
+124
+00:05:38,960 --> 00:05:45,280
+fora então acho que essas duas visões de
+
+125
+00:05:42,600 --> 00:05:47,120
+comunidade são bastante limitadas e eu
+
+126
+00:05:45,280 --> 00:05:50,160
+acho que tem uma coisa que a gente
+
+127
+00:05:47,120 --> 00:05:52,720
+descobriu em conversas em oficinas
+
+128
+00:05:50,160 --> 00:05:55,759
+anteriores que existe uma visão
+
+129
+00:05:52,720 --> 00:05:58,400
+interessante de tratar a comunidade com
+
+130
+00:05:55,759 --> 00:06:00,360
+a qual a gente tá se relacionando como
+
+131
+00:05:58,400 --> 00:06:03,960
+composta não só das pessoas
+
+132
+00:06:00,360 --> 00:06:05,680
+beneficiárias dos projetos mas também eh
+
+133
+00:06:03,960 --> 00:06:07,080
+obviamente das pessoas que realizam os
+
+134
+00:06:05,680 --> 00:06:09,520
+projetos mas inclusive também de
+
+135
+00:06:07,080 --> 00:06:11,160
+eventualmente financiadores pessoas que
+
+136
+00:06:09,520 --> 00:06:13,160
+trabalham em organismos financiadores
+
+137
+00:06:11,160 --> 00:06:15,240
+que estabelecem uma relação Então essa
+
+138
+00:06:13,160 --> 00:06:17,919
+coisa de pensar comunidade como muitas
+
+139
+00:06:15,240 --> 00:06:20,599
+muitos muitas camadas de relação que eu
+
+140
+00:06:17,919 --> 00:06:24,520
+costumo falar como múltiplas
+
+141
+00:06:20,599 --> 00:06:27,319
+comunalidades Mara levantou a mão
+
+142
+00:06:24,520 --> 00:06:30,479
+Pode sim e eu acho que ainda tem uma
+
+143
+00:06:27,319 --> 00:06:33,039
+terceira eh visão de como comunidade que
+
+144
+00:06:30,479 --> 00:06:35,319
+ela passa a surgir agora que eu acho que
+
+145
+00:06:33,039 --> 00:06:37,400
+são comunidades
+
+146
+00:06:35,319 --> 00:06:40,960
+artificializada que
+
+147
+00:06:37,400 --> 00:06:43,919
+são pessoas que elas surgem das redes
+
+148
+00:06:40,960 --> 00:06:48,680
+sociais normalmente de seguidores ou de
+
+149
+00:06:43,919 --> 00:06:51,400
+marcas com grande volume E aí atividades
+
+150
+00:06:48,680 --> 00:06:53,960
+são criadas para engajar essas pessoas
+
+151
+00:06:51,400 --> 00:06:56,759
+de alguma forma e elas acabam Até
+
+152
+00:06:53,960 --> 00:07:00,440
+pagando para se sentir parte tanto em
+
+153
+00:06:56,759 --> 00:07:03,879
+voluntariado quanto em retiros de quanto
+
+154
+00:07:00,440 --> 00:07:07,120
+experiência de jejum e meditação então é
+
+155
+00:07:03,879 --> 00:07:10,080
+uma comunidade artificial porque elas é
+
+156
+00:07:07,120 --> 00:07:12,599
+vendido uma experiência né de integração
+
+157
+00:07:10,080 --> 00:07:14,560
+para essas pessoas algo Genuíno que elas
+
+158
+00:07:12,599 --> 00:07:16,840
+estão buscando de alguma forma elas
+
+159
+00:07:14,560 --> 00:07:18,479
+pagam por isso vão ali naquela
+
+160
+00:07:16,840 --> 00:07:21,840
+experiência como uma experiência de
+
+161
+00:07:18,479 --> 00:07:24,639
+consumo eh recebem algum material e
+
+162
+00:07:21,840 --> 00:07:27,520
+depois isso se esvazia e se dissolve
+
+163
+00:07:24,639 --> 00:07:29,919
+então eu acho eu tenho visto isso surgir
+
+164
+00:07:27,520 --> 00:07:32,639
+assim e as pessoas se denominarem também
+
+165
+00:07:29,919 --> 00:07:35,039
+comunidade de mulheres buscando cura
+
+166
+00:07:32,639 --> 00:07:38,360
+comunidade de pessoas estão buscando a
+
+167
+00:07:35,039 --> 00:07:41,720
+meditação e a elevação espiritual ou
+
+168
+00:07:38,360 --> 00:07:43,800
+salvar o planeta E aí todos esses temas
+
+169
+00:07:41,720 --> 00:07:47,000
+que a gente debate que eles são urgentes
+
+170
+00:07:43,800 --> 00:07:49,280
+Eles são esvaziados de alguma forma e
+
+171
+00:07:47,000 --> 00:07:51,120
+transformados numa experiência como se a
+
+172
+00:07:49,280 --> 00:07:55,360
+pessoa tivesse indo numa rave ou no
+
+173
+00:07:51,120 --> 00:07:59,520
+hotel fazenda é um consumo eh muito
+
+174
+00:07:55,360 --> 00:08:01,960
+esvaziado disso tudo é com modificação
+
+175
+00:07:59,520 --> 00:08:05,800
+da ideia de comunidade né é interessante
+
+176
+00:08:01,960 --> 00:08:10,680
+pensar isso e como ela é superficial né
+
+177
+00:08:05,800 --> 00:08:14,720
+E porque eu acho que tem talvez eh a
+
+178
+00:08:10,680 --> 00:08:16,520
+gente tenha ao longo dessas duas décadas
+
+179
+00:08:14,720 --> 00:08:18,599
+e pouco aí trabalhando juntos
+
+180
+00:08:16,520 --> 00:08:20,080
+trabalhando nesses projetos todos talvez
+
+181
+00:08:18,599 --> 00:08:22,560
+a gente tenha uma visão de comunidade
+
+182
+00:08:20,080 --> 00:08:26,879
+que ela é bastante particular que ela é
+
+183
+00:08:22,560 --> 00:08:30,080
+informada por eh todos esses processos e
+
+184
+00:08:26,879 --> 00:08:32,120
+que tem uma visão positiva
+
+185
+00:08:30,080 --> 00:08:36,200
+que talvez não seja
+
+186
+00:08:32,120 --> 00:08:38,080
+eh talvez não seja o o sentido que todas
+
+187
+00:08:36,200 --> 00:08:41,560
+as pessoas dão pra ideia de comunidade
+
+188
+00:08:38,080 --> 00:08:43,719
+eh eu tive há pouco tempo Acho que
+
+189
+00:08:41,560 --> 00:08:46,120
+semana passada uma interação aqui que
+
+190
+00:08:43,719 --> 00:08:47,880
+era ao fim de um sei lá uma exibição de
+
+191
+00:08:46,120 --> 00:08:49,240
+um filme eu tava conversando com uma
+
+192
+00:08:47,880 --> 00:08:52,399
+pessoa da
+
+193
+00:08:49,240 --> 00:08:54,519
+França que é falando sobre comunidade e
+
+194
+00:08:52,399 --> 00:08:57,120
+tal e aí ela falou assim Ah para mim
+
+195
+00:08:54,519 --> 00:09:00,000
+comunidade é na verdade lugar de de
+
+196
+00:08:57,120 --> 00:09:02,920
+preconceito e exclusão de quem é de
+
+197
+00:09:00,000 --> 00:09:04,399
+diferente e aí porque isso traz o
+
+198
+00:09:02,920 --> 00:09:06,920
+sentido de comunidade que depois eu fui
+
+199
+00:09:04,399 --> 00:09:10,160
+refletir que em alguns idiomas e algumas
+
+200
+00:09:06,920 --> 00:09:12,600
+alguns países algumas culturas existem
+
+201
+00:09:10,160 --> 00:09:16,120
+termos comuns
+
+202
+00:09:12,600 --> 00:09:18,200
+para localidade e comunidade então aqui
+
+203
+00:09:16,120 --> 00:09:20,519
+na Alemanha existe um termo que é
+
+204
+00:09:18,200 --> 00:09:23,519
+bastante parecido existe um termo para
+
+205
+00:09:20,519 --> 00:09:26,519
+comunidade e outro termo para ah
+
+206
+00:09:23,519 --> 00:09:28,640
+administração local de de de vilarejo
+
+207
+00:09:26,519 --> 00:09:33,240
+como a ideia de comuna como a ideia de
+
+208
+00:09:28,640 --> 00:09:35,040
+comun eh e essa essa essa confusão acho
+
+209
+00:09:33,240 --> 00:09:39,399
+que as pessoas identificarem a
+
+210
+00:09:35,040 --> 00:09:42,240
+comunidade como Eh quem tá ao meu redor
+
+211
+00:09:39,399 --> 00:09:45,160
+eh quem vive na mesma região que eu
+
+212
+00:09:42,240 --> 00:09:47,360
+especialmente em cidades pequenas eu
+
+213
+00:09:45,160 --> 00:09:49,680
+acho que ela é uma visão legítima de
+
+214
+00:09:47,360 --> 00:09:50,800
+comunidade mas talvez não seja a isso
+
+215
+00:09:49,680 --> 00:09:53,040
+que a gente tá se referindo quando a
+
+216
+00:09:50,800 --> 00:09:55,800
+gente fala de desenvolver projetos em
+
+217
+00:09:53,040 --> 00:09:58,000
+comunidade eh do Semente né que a gente
+
+218
+00:09:55,800 --> 00:10:01,279
+tem essa oposição entre uma lógica
+
+219
+00:09:58,000 --> 00:10:04,720
+extrativa de comunidade uma lógica
+
+220
+00:10:01,279 --> 00:10:07,680
+voltada para somente o lucro mas também
+
+221
+00:10:04,720 --> 00:10:10,040
+eh não dá para cair nessa visão de de
+
+222
+00:10:07,680 --> 00:10:13,120
+que a comunidade é somente um grupo de
+
+223
+00:10:10,040 --> 00:10:15,720
+pessoas locais porque isso também leva a
+
+224
+00:10:13,120 --> 00:10:18,560
+dificuldades de quem é diferente
+
+225
+00:10:15,720 --> 00:10:20,360
+terminado por fav sim e essa Ah ele vai
+
+226
+00:10:18,560 --> 00:10:22,880
+falar ele levantou a mão desculpa pode
+
+227
+00:10:20,360 --> 00:10:25,480
+falar não tudo bem concluo em cima do
+
+228
+00:10:22,880 --> 00:10:28,120
+que o Felipe falou e eu completo não tá
+
+229
+00:10:25,480 --> 00:10:30,480
+tá bom eh porque essa comunidade que
+
+230
+00:10:28,120 --> 00:10:33,200
+você tá falando é quase que numa lógica
+
+231
+00:10:30,480 --> 00:10:36,760
+territorial assim
+
+232
+00:10:33,200 --> 00:10:38,480
+e é quase que tipo uma lógica
+
+233
+00:10:36,760 --> 00:10:42,880
+administrativa
+
+234
+00:10:38,480 --> 00:10:45,600
+Talvez mas de tipo e aí as aí se criam
+
+235
+00:10:42,880 --> 00:10:49,040
+entidades né tipo a comunidade indígena
+
+236
+00:10:45,600 --> 00:10:50,440
+a comunidade sei lá você vai denominando
+
+237
+00:10:49,040 --> 00:10:54,000
+coisas né
+
+238
+00:10:50,440 --> 00:10:57,240
+e eu acho que do outro lado tava falando
+
+239
+00:10:54,000 --> 00:11:00,600
+que a nossa vivência eh do termo
+
+240
+00:10:57,240 --> 00:11:02,399
+comunidade ela talvez seja um pouco
+
+241
+00:11:00,600 --> 00:11:05,519
+diferente
+
+242
+00:11:02,399 --> 00:11:09,160
+porque acho que ao longo do processo as
+
+243
+00:11:05,519 --> 00:11:12,120
+pessoas se unem mas as identidades elas
+
+244
+00:11:09,160 --> 00:11:13,800
+não são dissolvidas elas são agregadas
+
+245
+00:11:12,120 --> 00:11:16,639
+isso é muito importante Tipo na
+
+246
+00:11:13,800 --> 00:11:20,399
+comunidade eu e não é nem o
+
+247
+00:11:16,639 --> 00:11:22,480
+individualismo né é o que a Maira leva e
+
+248
+00:11:20,399 --> 00:11:26,399
+tipo o que que ela soma no commons e
+
+249
+00:11:22,480 --> 00:11:29,680
+como commons fica mais forte com ela e
+
+250
+00:11:26,399 --> 00:11:32,680
+como ela encaixa ali né E como todo o
+
+251
+00:11:29,680 --> 00:11:36,279
+todo encaixa nela e torna ela mais forte
+
+252
+00:11:32,680 --> 00:11:39,480
+então eh eu acho que também é um
+
+253
+00:11:36,279 --> 00:11:41,560
+contraponto a esse lance de tipo que
+
+254
+00:11:39,480 --> 00:11:45,399
+começa a parecer muito hoje nessa
+
+255
+00:11:41,560 --> 00:11:48,360
+artificialização que é as pessoas eh tão
+
+256
+00:11:45,399 --> 00:11:50,680
+tão desesperadas e tão angustiadas e
+
+257
+00:11:48,360 --> 00:11:53,360
+ansiosas eh por causa de fadiga
+
+258
+00:11:50,680 --> 00:11:55,600
+climática crises de governo e todo o
+
+259
+00:11:53,360 --> 00:11:58,519
+resto E aí surge assim o que você
+
+260
+00:11:55,600 --> 00:12:00,800
+precisa é dissolver seu ego E aí vem
+
+261
+00:11:58,519 --> 00:12:03,120
+isso de você você anular tudo que você é
+
+262
+00:12:00,800 --> 00:12:07,680
+o seu histórico os seus sonhos os seus
+
+263
+00:12:03,120 --> 00:12:10,200
+desejos e tipo dar um uma mescla né tipo
+
+264
+00:12:07,680 --> 00:12:12,600
+difundir com algo que é um conceito
+
+265
+00:12:10,200 --> 00:12:16,240
+maior que talvez nem seja maior é isso
+
+266
+00:12:12,600 --> 00:12:19,199
+artificializado e não tipo você voltar e
+
+267
+00:12:16,240 --> 00:12:22,880
+falar cara tipo eu sou essa pessoa com
+
+268
+00:12:19,199 --> 00:12:25,920
+essa complexidade e eu vou achar as
+
+269
+00:12:22,880 --> 00:12:30,399
+minhas pessoas e me encaixar e fazer
+
+270
+00:12:25,920 --> 00:12:32,240
+algo fluir que seja coerente e tenha uma
+
+271
+00:12:30,399 --> 00:12:33,680
+ressonância com o mundo e com as coisas
+
+272
+00:12:32,240 --> 00:12:35,440
+que eu acredito
+
+273
+00:12:33,680 --> 00:12:39,639
+hum
+
+274
+00:12:35,440 --> 00:12:41,360
+é eu só completou o que eu
+
+275
+00:12:39,639 --> 00:12:44,120
+eh
+
+276
+00:12:41,360 --> 00:12:48,800
+tinha uma coisa que a gente vai precisar
+
+277
+00:12:44,120 --> 00:12:53,360
+fazer com muita clareza é definir um éos
+
+278
+00:12:48,800 --> 00:12:56,480
+para esse processo de apoio interação
+
+279
+00:12:53,360 --> 00:12:59,600
+colaboração que o semente
+
+280
+00:12:56,480 --> 00:13:01,639
+eh representa
+
+281
+00:12:59,600 --> 00:13:03,519
+que passa exatamente por esse espaço né
+
+282
+00:13:01,639 --> 00:13:07,360
+um processo quando você tem um processo
+
+283
+00:13:03,519 --> 00:13:09,279
+de senso comum que é o que vai agregar
+
+284
+00:13:07,360 --> 00:13:14,199
+algumas pessoas em volta daquel daquele
+
+285
+00:13:09,279 --> 00:13:17,399
+objetivo comum você eh quase
+
+286
+00:13:14,199 --> 00:13:18,399
+eh intrínseco o outro lado da moeda que
+
+287
+00:13:17,399 --> 00:13:20,920
+é
+
+288
+00:13:18,399 --> 00:13:23,160
+cercear pessoas que não correspondem a
+
+289
+00:13:20,920 --> 00:13:25,720
+aquele senso comum né você vai achar
+
+290
+00:13:23,160 --> 00:13:29,800
+vários exemplos disso em posições
+
+291
+00:13:25,720 --> 00:13:32,600
+políticas por aí fora eh
+
+292
+00:13:29,800 --> 00:13:34,079
+Então eu acho que uma das coisas que a
+
+293
+00:13:32,600 --> 00:13:38,680
+gente precisa definir de uma forma muito
+
+294
+00:13:34,079 --> 00:13:41,240
+clara para para próximas iterações do do
+
+295
+00:13:38,680 --> 00:13:43,440
+da metodologia que a gente tá explorando
+
+296
+00:13:41,240 --> 00:13:47,040
+é ter isso muito
+
+297
+00:13:43,440 --> 00:13:49,560
+eh tangível e talvez traduzível para
+
+298
+00:13:47,040 --> 00:13:53,079
+qualquer pessoa de qualquer nível de
+
+299
+00:13:49,560 --> 00:13:55,959
+entendimento e literalidade poder ecoar
+
+300
+00:13:53,079 --> 00:13:59,160
+né a gente tá aqui nesse momento eh
+
+301
+00:13:55,959 --> 00:14:00,199
+todos defendendo isso a gente concorda a
+
+302
+00:13:59,160 --> 00:14:02,120
+partir do momento que tem aquela
+
+303
+00:14:00,199 --> 00:14:04,720
+concordância de que estamos aqui juntos
+
+304
+00:14:02,120 --> 00:14:07,800
+para isso você estabelece aquele aquela
+
+305
+00:14:04,720 --> 00:14:11,839
+base comum de de acordo mesmo que seja
+
+306
+00:14:07,800 --> 00:14:14,440
+eh temporário né S
+
+307
+00:14:11,839 --> 00:14:16,560
+eh Eu Tenho pensado muito nisso até
+
+308
+00:14:14,440 --> 00:14:19,079
+porque exemplos muito cíveis
+
+309
+00:14:16,560 --> 00:14:22,399
+completamente fora do espaço da semente
+
+310
+00:14:19,079 --> 00:14:26,399
+aonde um um condomínio do qual eu faz
+
+311
+00:14:22,399 --> 00:14:29,560
+parte agora tem interesses completamente
+
+312
+00:14:26,399 --> 00:14:32,120
+díspares e eu só consegui trazer isso
+
+313
+00:14:29,560 --> 00:14:34,920
+para um para um chão para uma discussão
+
+314
+00:14:32,120 --> 00:14:38,040
+onde não fica todo mundo mandando um mon
+
+315
+00:14:34,920 --> 00:14:40,440
+de mensagem Caps um pro outro e absurdos
+
+316
+00:14:38,040 --> 00:14:42,720
+e não sei quê para falar olha nós
+
+317
+00:14:40,440 --> 00:14:46,079
+estamos aqui Juntos pelo interesse comum
+
+318
+00:14:42,720 --> 00:14:48,680
+de proteger esse patrimônio concorda e
+
+319
+00:14:46,079 --> 00:14:51,480
+deixa aberto deixa as pessoas reagirem a
+
+320
+00:14:48,680 --> 00:14:53,320
+partir daí você constrói um segund uma
+
+321
+00:14:51,480 --> 00:14:55,639
+segunda etapa em cima disso né então
+
+322
+00:14:53,320 --> 00:14:59,639
+dito isso tem que ter uma convenção dito
+
+323
+00:14:55,639 --> 00:15:00,839
+isso e por aí vai e
+
+324
+00:14:59,639 --> 00:15:03,560
+eu acho que qualquer coisa que a gente
+
+325
+00:15:00,839 --> 00:15:05,519
+venha fazer com semente no futuro eu
+
+326
+00:15:03,560 --> 00:15:07,560
+acho que a gente precisa estabelecer
+
+327
+00:15:05,519 --> 00:15:09,959
+isso de uma maneira muito clara com
+
+328
+00:15:07,560 --> 00:15:13,600
+qualquer participante antes de aplicar
+
+329
+00:15:09,959 --> 00:15:15,120
+qualquer workshop metodologia cocriação
+
+330
+00:15:13,600 --> 00:15:17,959
+E por aí
+
+331
+00:15:15,120 --> 00:15:24,120
+vai boa
+
+332
+00:15:17,959 --> 00:15:28,279
+é eu eu eu f eu vejo como muito feliz eh
+
+333
+00:15:24,120 --> 00:15:31,079
+aquele processo que veio das sessões que
+
+334
+00:15:28,279 --> 00:15:33,079
+tu conduziu em Ubatuba durante o tropico
+
+335
+00:15:31,079 --> 00:15:34,519
+em que se chegou aquela coisa do do que
+
+336
+00:15:33,079 --> 00:15:36,319
+que tem que estacionar e do que que não
+
+337
+00:15:34,519 --> 00:15:40,519
+se não se transige que depois eu fui
+
+338
+00:15:36,319 --> 00:15:44,319
+chamar de composteira e Silo
+
+339
+00:15:40,519 --> 00:15:46,040
+se dilemas né que a gente chegou né É E
+
+340
+00:15:44,319 --> 00:15:46,720
+eu acho que assim nesse nesse processo
+
+341
+00:15:46,040 --> 00:15:49,560
+aí
+
+342
+00:15:46,720 --> 00:15:51,480
+eh nessa nesse causo que tu acabou de
+
+343
+00:15:49,560 --> 00:15:52,880
+contar aí tem isso não o princípio O que
+
+344
+00:15:51,480 --> 00:15:55,199
+que a gente tem em comum O que que a
+
+345
+00:15:52,880 --> 00:15:57,319
+gente tá aqui para fazer e eu acho que
+
+346
+00:15:55,199 --> 00:15:59,319
+tem um outro lance que é também esse
+
+347
+00:15:57,319 --> 00:16:01,399
+processo dos dilemas ou essa esse
+
+348
+00:15:59,319 --> 00:16:03,199
+entendimento de que os dilemas existem
+
+349
+00:16:01,399 --> 00:16:06,839
+as diferenças existem vão continuar
+
+350
+00:16:03,199 --> 00:16:08,560
+existindo mesmo que elas mudem eh é É
+
+351
+00:16:06,839 --> 00:16:10,360
+nisso que eu penso na nossa nas nossas
+
+352
+00:16:08,560 --> 00:16:11,480
+metáforas analogias aí como processo de
+
+353
+00:16:10,360 --> 00:16:15,199
+composteira que são as coisas que a
+
+354
+00:16:11,480 --> 00:16:18,600
+gente tem que deixar e a o tempo vai
+
+355
+00:16:15,199 --> 00:16:21,079
+ajudar a a digerir a transformar isso em
+
+356
+00:16:18,600 --> 00:16:23,959
+alguma coisa mas que naquele momento a
+
+357
+00:16:21,079 --> 00:16:25,839
+gente não pode pegar sei lá comida que
+
+358
+00:16:23,959 --> 00:16:28,279
+acabou de comer e jogar na horta para
+
+359
+00:16:25,839 --> 00:16:29,639
+ver se ela se ela vai fertilizar porque
+
+360
+00:16:28,279 --> 00:16:31,800
+ela não vai tem que primeiro ser
+
+361
+00:16:29,639 --> 00:16:33,560
+transformado em composto Então eu acho
+
+362
+00:16:31,800 --> 00:16:36,759
+que nisso tem algumas coisas
+
+363
+00:16:33,560 --> 00:16:38,399
+interessantes que que eu eu acho que dá
+
+364
+00:16:36,759 --> 00:16:41,839
+para partir de um primeiro entendimento
+
+365
+00:16:38,399 --> 00:16:43,639
+do que que é eh a comunidade se a gente
+
+366
+00:16:41,839 --> 00:16:44,959
+faz esse exercício de entender o que que
+
+367
+00:16:43,639 --> 00:16:47,319
+a gente tem em comum que a gente tem
+
+368
+00:16:44,959 --> 00:16:49,319
+diferente e tem uma outra coisa que eu
+
+369
+00:16:47,319 --> 00:16:52,880
+acho que tá nas falas de vocês dois que
+
+370
+00:16:49,319 --> 00:16:56,160
+é pensar em comunidade como uma dinâmica
+
+371
+00:16:52,880 --> 00:16:59,480
+como uma uma uma um processo uma ação e
+
+372
+00:16:56,160 --> 00:17:01,160
+não um um um substantivo
+
+373
+00:16:59,480 --> 00:17:03,560
+comunidade não é alguma coisa a
+
+374
+00:17:01,160 --> 00:17:05,079
+comunidade se faz E aí eu tava até lendo
+
+375
+00:17:03,560 --> 00:17:07,559
+aqui o livro que a gente conversou um
+
+376
+00:17:05,079 --> 00:17:12,120
+pouquinho por cima essa semana aí
+
+377
+00:17:07,559 --> 00:17:13,240
+Bernardo do Escobar design univers e ele
+
+378
+00:17:12,120 --> 00:17:15,039
+tem uma passagem que eu acho muito
+
+379
+00:17:13,240 --> 00:17:18,199
+interessante aqui que é que ele fala de
+
+380
+00:17:15,039 --> 00:17:22,079
+um de um de um outline de design
+
+381
+00:17:18,199 --> 00:17:26,240
+autônomo e ele que cada comunidade
+
+382
+00:17:22,079 --> 00:17:27,640
+pratica o design de si mesmo e isso para
+
+383
+00:17:26,240 --> 00:17:30,080
+mim é bastante interessante assim ao
+
+384
+00:17:27,640 --> 00:17:31,760
+invés da gente entender que a a
+
+385
+00:17:30,080 --> 00:17:35,280
+comunidade é algo que é definido desde
+
+386
+00:17:31,760 --> 00:17:37,039
+fora que assim eu tenho sei lá uma
+
+387
+00:17:35,280 --> 00:17:39,120
+organização que trabalha em determinado
+
+388
+00:17:37,039 --> 00:17:42,000
+bairro e eu digo que aquilo ali é a
+
+389
+00:17:39,120 --> 00:17:43,919
+comunidade Na verdade uma comunidade
+
+390
+00:17:42,000 --> 00:17:46,559
+saudável é aquela comunidade que se
+
+391
+00:17:43,919 --> 00:17:48,360
+entende como comunidade e que faz isso
+
+392
+00:17:46,559 --> 00:17:51,520
+ao longo de um processo que vai
+
+393
+00:17:48,360 --> 00:17:53,919
+evoluindo né E aí também uma um termo
+
+394
+00:17:51,520 --> 00:17:55,679
+que o que o Escobar usa e eu não sei
+
+395
+00:17:53,919 --> 00:17:57,039
+como como se falar isso em português ou
+
+396
+00:17:55,679 --> 00:18:00,440
+espanhol só ten a versão em inglês do
+
+397
+00:17:57,039 --> 00:18:04,320
+livro A ideia de de
+
+398
+00:18:00,440 --> 00:18:06,799
+commoning que é o fazer do Comum né que
+
+399
+00:18:04,320 --> 00:18:08,320
+eu acho que tem até que ver se se eles
+
+400
+00:18:06,799 --> 00:18:11,880
+traduziram isso para português ou para
+
+401
+00:18:08,320 --> 00:18:13,880
+espanhol eh se tem algum termo melhor eh
+
+402
+00:18:11,880 --> 00:18:17,520
+não sei se vocês tem alguma sugestão Mas
+
+403
+00:18:13,880 --> 00:18:20,320
+essa ideia do do com como a ação que é
+
+404
+00:18:17,520 --> 00:18:22,600
+praticada por quem está fazendo o comum
+
+405
+00:18:20,320 --> 00:18:25,200
+e aquilo é que constitui a comunidade né
+
+406
+00:18:22,600 --> 00:18:27,200
+então e e nisso tem espaço para
+
+407
+00:18:25,200 --> 00:18:29,280
+diferença comunidade sem diferença não é
+
+408
+00:18:27,200 --> 00:18:32,280
+comunidade né é um enfim você
+
+409
+00:18:29,280 --> 00:18:37,919
+uma fábrica de de de pessoas ou ideias
+
+410
+00:18:32,280 --> 00:18:39,320
+eh enfim eh acabei perdendo aqui mas o
+
+411
+00:18:37,919 --> 00:18:42,480
+que eu acho que é interessante a gente
+
+412
+00:18:39,320 --> 00:18:44,280
+pensar em como que a gente parte e
+
+413
+00:18:42,480 --> 00:18:46,600
+retomando sempre né que a gente tá nesse
+
+414
+00:18:44,280 --> 00:18:48,320
+processo agora de aprimorar o que a
+
+415
+00:18:46,600 --> 00:18:50,679
+gente tem até hoje de método semente
+
+416
+00:18:48,320 --> 00:18:52,400
+Então a gente tem que retomar aquele
+
+417
+00:18:50,679 --> 00:18:54,320
+tabuleiro e aquela ideia de ter
+
+418
+00:18:52,400 --> 00:18:56,039
+dinâmicas em cima seja para dizer olha
+
+419
+00:18:54,320 --> 00:18:58,400
+não vamos usar nada disso seja para
+
+420
+00:18:56,039 --> 00:19:00,200
+pensar em como a gente vai melhorar ou
+
+421
+00:18:58,400 --> 00:19:01,559
+seja até para dizer olha tá bom assim e
+
+422
+00:19:00,200 --> 00:19:03,080
+o que a gente tem que fazer é criar uma
+
+423
+00:19:01,559 --> 00:19:04,640
+dinâmica em cima e não precisa mexer
+
+424
+00:19:03,080 --> 00:19:06,000
+mais mas eu acho que isso é uma coisa
+
+425
+00:19:04,640 --> 00:19:08,039
+que a gente poderia conversar também um
+
+426
+00:19:06,000 --> 00:19:10,280
+pouco o que que vocês acham vocês sabem
+
+427
+00:19:08,039 --> 00:19:12,679
+que eu já mandei até um vídeo entre nós
+
+428
+00:19:10,280 --> 00:19:16,760
+aqui de um caminho que eu imaginei ali
+
+429
+00:19:12,679 --> 00:19:19,000
+que ainda tá muito eh eh acho que eh
+
+430
+00:19:16,760 --> 00:19:20,440
+solto um pouco caótico mas eu tô
+
+431
+00:19:19,000 --> 00:19:21,799
+tentando ir por um caminho nas
+
+432
+00:19:20,440 --> 00:19:24,679
+experiências que eu tenho feito com os
+
+433
+00:19:21,799 --> 00:19:27,200
+meus projetos aqui eh mas queria
+
+434
+00:19:24,679 --> 00:19:29,919
+entender de vocês como que vocês veem o
+
+435
+00:19:27,200 --> 00:19:33,760
+que a gente tem até hoje de tabuleiro e
+
+436
+00:19:29,919 --> 00:19:37,360
+e mecanismos ali se se a gente joga fora
+
+437
+00:19:33,760 --> 00:19:37,360
+deixa assim ou
+
+438
+00:19:38,440 --> 00:19:42,679
+incrementa eu acho que vai ser sempre um
+
+439
+00:19:41,200 --> 00:19:46,360
+incremento assim medida que a gente
+
+440
+00:19:42,679 --> 00:19:50,200
+experimenta eh diferentes grupos que a
+
+441
+00:19:46,360 --> 00:19:52,679
+gente trabalhar eles vão definir
+
+442
+00:19:50,200 --> 00:19:56,039
+eh como eles entenderam ou não a gente
+
+443
+00:19:52,679 --> 00:19:58,720
+vai adaptar esquerda e direita
+
+444
+00:19:56,039 --> 00:20:01,400
+para conectar melhor com aquele grupo
+
+445
+00:19:58,720 --> 00:20:04,440
+grupo então acho que é uma é
+
+446
+00:20:01,400 --> 00:20:06,080
+uma eu entendo como sendo uma uma
+
+447
+00:20:04,440 --> 00:20:10,200
+evolução constante do que a gente tá
+
+448
+00:20:06,080 --> 00:20:12,559
+fazendo assim mesmo mudando Campos ou a
+
+449
+00:20:10,200 --> 00:20:15,679
+dinâmica em si eu acho que isso a gente
+
+450
+00:20:12,559 --> 00:20:17,600
+vai experimentar mais e e adaptar e
+
+451
+00:20:15,679 --> 00:20:19,280
+talvez a gente chega a uma conclusão que
+
+452
+00:20:17,600 --> 00:20:22,480
+não existe
+
+453
+00:20:19,280 --> 00:20:25,039
+eh uma metodologia só para todas as
+
+454
+00:20:22,480 --> 00:20:28,120
+situações a gente tem princípios e
+
+455
+00:20:25,039 --> 00:20:29,240
+formatos e um processo mais um modo de
+
+456
+00:20:28,120 --> 00:20:35,360
+pensar
+
+457
+00:20:29,240 --> 00:20:35,360
+mais do que um um two Kids assim uhum
+
+458
+00:20:35,640 --> 00:20:42,039
+sim é eu eu tô tentando brincar com
+
+459
+00:20:40,000 --> 00:20:46,400
+formatos aqui né
+
+460
+00:20:42,039 --> 00:20:48,640
+Eh e eu acho que tem uma essa essa
+
+461
+00:20:46,400 --> 00:20:50,840
+partida é o que eu falei aquele vídeo
+
+462
+00:20:48,640 --> 00:20:53,559
+que eu mostrei né do do da visualização
+
+463
+00:20:50,840 --> 00:20:55,520
+do sistema solar como uma espiral que
+
+464
+00:20:53,559 --> 00:20:58,919
+que se move a longo tempo vocês chegaram
+
+465
+00:20:55,520 --> 00:21:02,200
+a ver isso ou não eu vi eu vi é que eu
+
+466
+00:20:58,919 --> 00:21:05,799
+acho que traz um pouco dessa questão a
+
+467
+00:21:02,200 --> 00:21:08,000
+gente poder ver de frente o que é um
+
+468
+00:21:05,799 --> 00:21:10,080
+sistema supostamente circular que a
+
+469
+00:21:08,000 --> 00:21:11,240
+gente sabe que não é mas enfim eh quando
+
+470
+00:21:10,080 --> 00:21:15,919
+se vê essas
+
+471
+00:21:11,240 --> 00:21:18,559
+eh assim essas visualizações simples do
+
+472
+00:21:15,919 --> 00:21:21,000
+do Sistema Solar que tem ali a terra
+
+473
+00:21:18,559 --> 00:21:22,679
+enfim a lua gerando em volta da terra a
+
+474
+00:21:21,000 --> 00:21:24,679
+Terra e a Lua gerando em volta do sol e
+
+475
+00:21:22,679 --> 00:21:27,080
+os outros planetas também a gente vê de
+
+476
+00:21:24,679 --> 00:21:29,679
+frente a gente vê um monte de elipses
+
+477
+00:21:27,080 --> 00:21:32,159
+concêntricas mas se a gente vê se a
+
+478
+00:21:29,679 --> 00:21:36,000
+gente Adiciona uma nova uma nova
+
+479
+00:21:32,159 --> 00:21:39,400
+dimensão ali que é o sol se movimentando
+
+480
+00:21:36,000 --> 00:21:41,039
+eh enfim através do universo a gente vê
+
+481
+00:21:39,400 --> 00:21:43,919
+que os planetas na verdade estão fazendo
+
+482
+00:21:41,039 --> 00:21:45,240
+espirais atrás do sol e eu acho que tem
+
+483
+00:21:43,919 --> 00:21:48,799
+uma coisa interessante a gente pensar
+
+484
+00:21:45,240 --> 00:21:51,679
+quando a gente adiciona o tempo que é
+
+485
+00:21:48,799 --> 00:21:54,919
+que é um tempo que ele é cíclico mas os
+
+486
+00:21:51,679 --> 00:21:57,679
+ciclos nunca voltam ao mesmo lugar como
+
+487
+00:21:54,919 --> 00:21:59,960
+as referências ali que a gente usa eh ou
+
+488
+00:21:57,679 --> 00:22:04,039
+que que eu Ten o usado bastante em
+
+489
+00:21:59,960 --> 00:22:05,799
+alguns textos eu acho que tem essa essa
+
+490
+00:22:04,039 --> 00:22:07,520
+possibilidade da gente conseguir
+
+491
+00:22:05,799 --> 00:22:10,720
+encontrar esse meio-termo entre a
+
+492
+00:22:07,520 --> 00:22:13,000
+linearidade e a circularidade e também
+
+493
+00:22:10,720 --> 00:22:17,080
+uma maneira de reconciliar
+
+494
+00:22:13,000 --> 00:22:20,880
+eh esse tipo de de de tentativa de
+
+495
+00:22:17,080 --> 00:22:23,240
+intervenção através de um método com uma
+
+496
+00:22:20,880 --> 00:22:25,440
+percepção eh que a gente tem quando
+
+497
+00:22:23,240 --> 00:22:27,960
+começa a trabalhar em comunidades que se
+
+498
+00:22:25,440 --> 00:22:29,200
+identificam como Tais de que é muito
+
+499
+00:22:27,960 --> 00:22:31,679
+difícil
+
+500
+00:22:29,200 --> 00:22:33,400
+determinar o começo meio e fim né quando
+
+501
+00:22:31,679 --> 00:22:34,720
+a gente tem uma comunidade que ela é
+
+502
+00:22:33,400 --> 00:22:39,000
+ativa
+
+503
+00:22:34,720 --> 00:22:41,159
+eh falar sobre a lógica de projeto que
+
+504
+00:22:39,000 --> 00:22:43,000
+para mim é uma das uma das limitações
+
+505
+00:22:41,159 --> 00:22:45,320
+que eu via nos métodos que eu via antes
+
+506
+00:22:43,000 --> 00:22:47,279
+que Talvez tenham dado origem é o que
+
+507
+00:22:45,320 --> 00:22:49,799
+que veio a se tornar essa reflexão que
+
+508
+00:22:47,279 --> 00:22:51,240
+cinou com semente quando a gente fala
+
+509
+00:22:49,799 --> 00:22:53,120
+assim existe uma comunidade a gente vai
+
+510
+00:22:51,240 --> 00:22:54,880
+criar um projeto a gente fala cara mas o
+
+511
+00:22:53,120 --> 00:22:56,679
+projeto Começou quando projeto já
+
+512
+00:22:54,880 --> 00:22:59,240
+começou antes mesmo da
+
+513
+00:22:56,679 --> 00:23:01,880
+gente escrever
+
+514
+00:22:59,240 --> 00:23:03,159
+uma proposta para um edital o projeto já
+
+515
+00:23:01,880 --> 00:23:04,840
+começou Porque a gente já começou a
+
+516
+00:23:03,159 --> 00:23:07,440
+formatar ideias em torno daquilo as
+
+517
+00:23:04,840 --> 00:23:09,200
+pessoas já TM uma relação e eu acho que
+
+518
+00:23:07,440 --> 00:23:13,159
+tem um outro deslocamento que eu tô
+
+519
+00:23:09,200 --> 00:23:16,000
+tentando eh definir Melhor agora e eu tô
+
+520
+00:23:13,159 --> 00:23:17,799
+tentando escrever sobre ele com base na
+
+521
+00:23:16,000 --> 00:23:19,679
+na vivência que eu tive de diversos
+
+522
+00:23:17,799 --> 00:23:23,559
+projetos aí sei lá meta reciclagem
+
+523
+00:23:19,679 --> 00:23:26,960
+aplicando para editais e tal que é o
+
+524
+00:23:23,559 --> 00:23:29,440
+entendimento de que o objetivo da
+
+525
+00:23:26,960 --> 00:23:31,919
+comunidade não são os frutos o objetivo
+
+526
+00:23:29,440 --> 00:23:34,679
+da semente não é gerar frutos o objetivo
+
+527
+00:23:31,919 --> 00:23:37,360
+da semente é a perpetuação do grupo de
+
+528
+00:23:34,679 --> 00:23:39,840
+sementes ao longo do tempo então quando
+
+529
+00:23:37,360 --> 00:23:42,919
+a gente fala de uma comunidade que vai
+
+530
+00:23:39,840 --> 00:23:45,360
+se reunir ou uma comunidade que existe e
+
+531
+00:23:42,919 --> 00:23:47,480
+que e que vai ter uma composição em que
+
+532
+00:23:45,360 --> 00:23:50,320
+algum subgrupo da comunidade se reúne
+
+533
+00:23:47,480 --> 00:23:55,039
+para escrever um projeto para um edital
+
+534
+00:23:50,320 --> 00:23:58,640
+os frutos Eh que que advém dessa dessa
+
+535
+00:23:55,039 --> 00:24:00,480
+ação de de escrever um edital não são ob
+
+536
+00:23:58,640 --> 00:24:02,320
+da comunidade em si eu acho importante
+
+537
+00:24:00,480 --> 00:24:05,679
+fazer esse deslocamento porque muitas
+
+538
+00:24:02,320 --> 00:24:08,640
+vezes quando fala em processos de sei lá
+
+539
+00:24:05,679 --> 00:24:10,080
+de formação de gestores culturais para
+
+540
+00:24:08,640 --> 00:24:12,720
+as pessoas aprenderem a escrever
+
+541
+00:24:10,080 --> 00:24:14,400
+projetos culturais aí muitas vezes tem
+
+542
+00:24:12,720 --> 00:24:16,480
+essa imposição de uma lógica que diz
+
+543
+00:24:14,400 --> 00:24:18,919
+assim olha vocês têm que organizar a
+
+544
+00:24:16,480 --> 00:24:21,480
+comunidade em torno de
+
+545
+00:24:18,919 --> 00:24:24,559
+eh produtos culturais que sejam
+
+546
+00:24:21,480 --> 00:24:27,000
+reconhecíveis como como válidos para uma
+
+547
+00:24:24,559 --> 00:24:28,640
+instituição e isso acaba reconfigurando
+
+548
+00:24:27,000 --> 00:24:30,640
+Toda a relação da Comunidade de repente
+
+549
+00:24:28,640 --> 00:24:33,320
+está em posição que por conta dos
+
+550
+00:24:30,640 --> 00:24:36,159
+recursos virem nesse formato as relações
+
+551
+00:24:33,320 --> 00:24:37,760
+acabam mudando e são formatadas de
+
+552
+00:24:36,159 --> 00:24:39,600
+acordo com o que é reconhecido por
+
+553
+00:24:37,760 --> 00:24:42,200
+instituições e eu acho que tem que ter
+
+554
+00:24:39,600 --> 00:24:44,159
+essa esperteza que às vezes a gente
+
+555
+00:24:42,200 --> 00:24:46,880
+chamava lá na nos nos idos da met
+
+556
+00:24:44,159 --> 00:24:50,360
+reciclagem de bandeira pirata que é
+
+557
+00:24:46,880 --> 00:24:52,360
+falar olha se existe um processo de de
+
+558
+00:24:50,360 --> 00:24:54,159
+que vai reverter pra comunidade que
+
+559
+00:24:52,360 --> 00:24:56,559
+exige que a gente Produza Tais frutos a
+
+560
+00:24:54,159 --> 00:24:58,640
+gente vai produzir Tais frutos Só que os
+
+561
+00:24:56,559 --> 00:25:00,159
+tais frutos não são não quer dizer que a
+
+562
+00:24:58,640 --> 00:25:01,799
+comunidade vai ser uma comunidade
+
+563
+00:25:00,159 --> 00:25:03,240
+produtora de morangos a comunidade
+
+564
+00:25:01,799 --> 00:25:05,320
+continua sendo comunidade que faz várias
+
+565
+00:25:03,240 --> 00:25:07,520
+coisas mas vai produzir morangos porque
+
+566
+00:25:05,320 --> 00:25:11,399
+os morangos são tão tão encontrando o
+
+567
+00:25:07,520 --> 00:25:15,120
+mercado eh ali então ess é a gente
+
+568
+00:25:11,399 --> 00:25:18,440
+entender que temporariamente adotar
+
+569
+00:25:15,120 --> 00:25:20,320
+eh uma uma identidade que nos permita
+
+570
+00:25:18,440 --> 00:25:22,360
+produzir morango ou que exige que a
+
+571
+00:25:20,320 --> 00:25:26,120
+gente Produza morangos porque os
+
+572
+00:25:22,360 --> 00:25:28,320
+morangos eh São vendáveis vendí
+
+573
+00:25:26,120 --> 00:25:29,880
+vendáveis no mercado não quer dizer
+
+574
+00:25:28,320 --> 00:25:32,039
+dizer que todos nós tenos que ser feitos
+
+575
+00:25:29,880 --> 00:25:33,640
+de morangos e a gente continua nas
+
+576
+00:25:32,039 --> 00:25:37,159
+trocas e a comunidade continua sendo
+
+577
+00:25:33,640 --> 00:25:37,159
+múltipla e precisando de várias
+
+578
+00:25:37,600 --> 00:25:43,880
+coisas Muitas coisas por aqui eh eu acho
+
+579
+00:25:41,200 --> 00:25:47,159
+interessante isso que o objetivo não é o
+
+580
+00:25:43,880 --> 00:25:50,760
+fruto e talvez o nosso processo ele
+
+581
+00:25:47,159 --> 00:25:54,120
+possa sinalizar E alertar isso que
+
+582
+00:25:50,760 --> 00:25:57,600
+eh essa missão né Eu acho que é uma
+
+583
+00:25:54,120 --> 00:25:59,399
+missão no sentido de tipo chamado de
+
+584
+00:25:57,600 --> 00:26:00,679
+você
+
+585
+00:25:59,399 --> 00:26:03,559
+saber que
+
+586
+00:26:00,679 --> 00:26:05,799
+tem você tem essa bolsa de
+
+587
+00:26:03,559 --> 00:26:08,480
+semente eu até falei isso para vocês
+
+588
+00:26:05,799 --> 00:26:11,960
+internamente outro momento a gente tá
+
+589
+00:26:08,480 --> 00:26:14,840
+atravessando a estrada da fúria assim o
+
+590
+00:26:11,960 --> 00:26:16,559
+objetivo não é o fruto que são é guardar
+
+591
+00:26:14,840 --> 00:26:19,919
+sementes que de repente nós vamos estar
+
+592
+00:26:16,559 --> 00:26:23,039
+com pessoas que não pensem como nós mas
+
+593
+00:26:19,919 --> 00:26:26,159
+é possível teros de confiança com elas
+
+594
+00:26:23,039 --> 00:26:28,679
+que são coisas diferentes né Tipo eu
+
+595
+00:26:26,159 --> 00:26:31,760
+confio a bolsa de semente nessa pessoa
+
+596
+00:26:28,679 --> 00:26:33,679
+mesmo ela sendo tão diferente de mim e
+
+597
+00:26:31,760 --> 00:26:36,760
+sei lá pessoalmente talvez eu não me
+
+598
+00:26:33,679 --> 00:26:42,000
+identifico tanto mas no coletivo a gente
+
+599
+00:26:36,760 --> 00:26:42,000
+consegue somar E e ter essa missão
+
+600
+00:26:42,120 --> 00:26:48,399
+e E aí eu fico pensando
+
+601
+00:26:45,640 --> 00:26:51,120
+que essa questão da
+
+602
+00:26:48,399 --> 00:26:54,360
+semente ela é muito diferente de você
+
+603
+00:26:51,120 --> 00:26:56,279
+ter a semente para gerar um produto né o
+
+604
+00:26:54,360 --> 00:26:59,240
+recurso financeiro ele não pode ser o
+
+605
+00:26:56,279 --> 00:27:01,120
+produto eh
+
+606
+00:26:59,240 --> 00:27:03,760
+acho que esse processo ainda tá meio
+
+607
+00:27:01,120 --> 00:27:06,640
+abstrato tô elaborando mas esse processo
+
+608
+00:27:03,760 --> 00:27:09,559
+de ter essa bolsa de sementes isso ter
+
+609
+00:27:06,640 --> 00:27:13,279
+um valor isso ter elos isso ter afetos
+
+610
+00:27:09,559 --> 00:27:17,000
+eh que é o que faz esse Design da
+
+611
+00:27:13,279 --> 00:27:19,679
+comunidade eh O que você vai entregar
+
+612
+00:27:17,000 --> 00:27:22,640
+como produto para conseguir o recurso
+
+613
+00:27:19,679 --> 00:27:24,919
+Talvez possa estar dissociado disso n o
+
+614
+00:27:22,640 --> 00:27:27,120
+que você falou Pode tipo você não
+
+615
+00:27:24,919 --> 00:27:29,640
+precisa abrir sua bolsa de semente
+
+616
+00:27:27,120 --> 00:27:33,559
+mostrar pro que você tá fazendo isso é
+
+617
+00:27:29,640 --> 00:27:36,159
+um elo interno e é um é uma coisa que
+
+618
+00:27:33,559 --> 00:27:38,520
+ela é muito valiosa ela não se quebra
+
+619
+00:27:36,159 --> 00:27:41,919
+você passa muito tempo e e aqueles
+
+620
+00:27:38,520 --> 00:27:46,399
+princípios eles estão lá eh e aí eu fico
+
+621
+00:27:41,919 --> 00:27:49,399
+pensando que inclusive eu acho que tem
+
+622
+00:27:46,399 --> 00:27:51,440
+essa visão de terceiro setor e de tudo
+
+623
+00:27:49,399 --> 00:27:54,760
+até hoje e eu tava conversando com um
+
+624
+00:27:51,440 --> 00:27:58,440
+amigo que ele falou que o que a gente
+
+625
+00:27:54,760 --> 00:28:01,960
+fazia era o quarto setor na verdade eu
+
+626
+00:27:58,440 --> 00:28:04,360
+concordo porque é arrumar uma forma de
+
+627
+00:28:01,960 --> 00:28:06,399
+saquear o recurso que tá ali de alguma
+
+628
+00:28:04,360 --> 00:28:10,200
+forma que ele existe no mundo mas ele tá
+
+629
+00:28:06,399 --> 00:28:13,320
+em outro lugar tipo jogar aquele jogo
+
+630
+00:28:10,200 --> 00:28:15,120
+eh e garante de alguma forma que aquela
+
+631
+00:28:13,320 --> 00:28:18,240
+semente se
+
+632
+00:28:15,120 --> 00:28:21,080
+mantenho eu acho que nesse processo todo
+
+633
+00:28:18,240 --> 00:28:23,159
+eh O que é importante também é
+
+634
+00:28:21,080 --> 00:28:26,120
+direcionar de alguma forma que esse
+
+635
+00:28:23,159 --> 00:28:29,760
+recurso não seja não seja só recurso de
+
+636
+00:28:26,120 --> 00:28:32,399
+realização daquela atividade em si mas
+
+637
+00:28:29,760 --> 00:28:35,640
+que ele volte pro solo de alguma forma
+
+638
+00:28:32,399 --> 00:28:37,679
+fique guardado lá como nutriente eh
+
+639
+00:28:35,640 --> 00:28:39,840
+porque a gente precisa de dinheiro para
+
+640
+00:28:37,679 --> 00:28:43,399
+realizar as coisas e aí eu vou dar um
+
+641
+00:28:39,840 --> 00:28:45,960
+exemplo que ele sempre vem na minha
+
+642
+00:28:43,399 --> 00:28:47,760
+cabeça eu não lembro qual foi o prêmio
+
+643
+00:28:45,960 --> 00:28:50,640
+de mídia livre que a gente ganhou que
+
+644
+00:28:47,760 --> 00:28:53,120
+era um dinheirão na época Tipo R 100.000
+
+645
+00:28:50,640 --> 00:28:55,440
+era era uma grana assim tipo eu fui
+
+646
+00:28:53,120 --> 00:28:58,080
+remunerada por muito tempo fiz mestrado
+
+647
+00:28:55,440 --> 00:29:01,559
+com tipo vivendo com isso e tal muito
+
+648
+00:28:58,080 --> 00:29:03,799
+muita gente se beneficiou mas eh alguém
+
+649
+00:29:01,559 --> 00:29:06,640
+em algum momento naqueles irks muito
+
+650
+00:29:03,799 --> 00:29:08,919
+louco falou vamos comprar bitcoins se a
+
+651
+00:29:06,640 --> 00:29:12,039
+gente tivesse comprado bitcoins aquela
+
+652
+00:29:08,919 --> 00:29:14,960
+época tipo não só eu como você mas
+
+653
+00:29:12,039 --> 00:29:17,799
+várias pessoas daquela comunidade mais
+
+654
+00:29:14,960 --> 00:29:21,080
+próximas e com elo tal não os 2000 que
+
+655
+00:29:17,799 --> 00:29:24,120
+estavam ali orbitando a gente teria
+
+656
+00:29:21,080 --> 00:29:26,880
+algum fruto hoje então se a gente tá
+
+657
+00:29:24,120 --> 00:29:29,440
+pensando como comunidade e não como até
+
+658
+00:29:26,880 --> 00:29:32,399
+não como pessoa jurídica nem nada mas
+
+659
+00:29:29,440 --> 00:29:35,600
+esses mecanismos institucionais travados
+
+660
+00:29:32,399 --> 00:29:37,399
+jurídicos eles também têm eh eu acho que
+
+661
+00:29:35,600 --> 00:29:39,840
+coisas para ensinar pra gente porque
+
+662
+00:29:37,399 --> 00:29:42,120
+eles se perpetuam entendeu E por que que
+
+663
+00:29:39,840 --> 00:29:46,720
+eles se perpetuam e a gente não é claro
+
+664
+00:29:42,120 --> 00:29:50,960
+que a gente sim mas enfim é difícil
+
+665
+00:29:46,720 --> 00:29:54,399
+então eu acho que essa questão de tipo o
+
+666
+00:29:50,960 --> 00:29:57,240
+banco de reserva a reserva financeira e
+
+667
+00:29:54,399 --> 00:29:59,880
+eh não pensando nisso como lucro mas
+
+668
+00:29:57,240 --> 00:30:02,760
+como uma forma de manutenção de Existir
+
+669
+00:29:59,880 --> 00:30:05,399
+nesse mundo que é preciso dinheiro para
+
+670
+00:30:02,760 --> 00:30:07,960
+comprar uma garrafa de
+
+671
+00:30:05,399 --> 00:30:09,159
+água eu tava na fila Mas vou deixar o
+
+672
+00:30:07,960 --> 00:30:11,360
+Bernardo falar primeiro porque eu já
+
+673
+00:30:09,159 --> 00:30:13,679
+falei bastante eu eu tô eu anotei aqui
+
+674
+00:30:11,360 --> 00:30:16,559
+as coisas que eu tenho para falar é Não
+
+675
+00:30:13,679 --> 00:30:21,679
+eu só recapitulando eh então a gente
+
+676
+00:30:16,559 --> 00:30:24,600
+partiu de manejo na esquerda frutos bem
+
+677
+00:30:21,679 --> 00:30:27,279
+nessa lógica de produto né de a gente
+
+678
+00:30:24,600 --> 00:30:28,919
+quer atingir isso então o que você
+
+679
+00:30:27,279 --> 00:30:32,640
+oferece agora agora a gente quer atingir
+
+680
+00:30:28,919 --> 00:30:34,360
+isso em quanto tempo e qual que são qua
+
+681
+00:30:32,640 --> 00:30:38,039
+qual que er a base que a gente chamou de
+
+682
+00:30:34,360 --> 00:30:39,960
+solo aí a gente cresceu com interações
+
+683
+00:30:38,039 --> 00:30:43,000
+com grupos diferentes A gente cresceu
+
+684
+00:30:39,960 --> 00:30:46,320
+para princípios e dilemas que esses
+
+685
+00:30:43,000 --> 00:30:48,799
+princípios na sua fala vira uma coisa da
+
+686
+00:30:46,320 --> 00:30:51,440
+definição de comunidade né a comunidade
+
+687
+00:30:48,799 --> 00:30:53,799
+já existe tem esses princípios e essa
+
+688
+00:30:51,440 --> 00:30:56,039
+definição de comunidade é o que nutre
+
+689
+00:30:53,799 --> 00:31:00,480
+essa conversa que a gente tá tentando
+
+690
+00:30:56,039 --> 00:31:02,639
+Criar e a gente tem os dilemas que agora
+
+691
+00:31:00,480 --> 00:31:04,760
+eu entendo a sua cabeça com a coisa da
+
+692
+00:31:02,639 --> 00:31:07,600
+compostagem são todas as coisas são
+
+693
+00:31:04,760 --> 00:31:09,840
+muito eh difíceis ou a gente não sabe
+
+694
+00:31:07,600 --> 00:31:13,159
+ainda como lidar a gente deixa elas
+
+695
+00:31:09,840 --> 00:31:14,960
+eh eh né compostar ali para poder usar
+
+696
+00:31:13,159 --> 00:31:17,600
+elas mais pra frente eu consegui
+
+697
+00:31:14,960 --> 00:31:20,039
+entender isso muito melhor nessa lógica
+
+698
+00:31:17,600 --> 00:31:22,639
+e também na lógica da espiral o tempo em
+
+699
+00:31:20,039 --> 00:31:27,399
+vez de ser um campo passa a ser uma
+
+700
+00:31:22,639 --> 00:31:30,600
+coisa contínua né e o foco não é gerar
+
+701
+00:31:27,399 --> 00:31:33,360
+frutos especificamente mas a cada volta
+
+702
+00:31:30,600 --> 00:31:37,120
+dessa espiral você gera um fruto mas o
+
+703
+00:31:33,360 --> 00:31:40,840
+foco seria um amadre cment do eh
+
+704
+00:31:37,120 --> 00:31:42,919
+coletivo contínuo uhum né O que fosse
+
+705
+00:31:40,840 --> 00:31:46,600
+criar seria para
+
+706
+00:31:42,919 --> 00:31:50,159
+para alimentar conversar criar talvez
+
+707
+00:31:46,600 --> 00:31:52,480
+tem uma experiência de eh um um mini
+
+708
+00:31:50,159 --> 00:31:55,279
+sucesso ali com a comunidade que eles
+
+709
+00:31:52,480 --> 00:31:56,960
+atingiram alguma coisa mas o legado
+
+710
+00:31:55,279 --> 00:32:01,000
+ideal que a gente deixaria é que eles
+
+711
+00:31:56,960 --> 00:32:02,200
+saberiam continuar na na nessa espiral
+
+712
+00:32:01,000 --> 00:32:03,559
+para poder ver qual que é a próxima
+
+713
+00:32:02,200 --> 00:32:04,639
+coisa que a gente quer resolver junto e
+
+714
+00:32:03,559 --> 00:32:07,080
+a próxima coisa que a gente quer
+
+715
+00:32:04,639 --> 00:32:10,200
+resolver junto então passa a ser um um
+
+716
+00:32:07,080 --> 00:32:12,200
+amadurecimento coletivo eh contínuo né
+
+717
+00:32:10,200 --> 00:32:14,080
+do grupo envolvido assim e e
+
+718
+00:32:12,200 --> 00:32:16,559
+principalmente que não depende da gente
+
+719
+00:32:14,080 --> 00:32:20,120
+que eles vão lá produzem e e continuam a
+
+720
+00:32:16,559 --> 00:32:21,000
+gente sai fora é eu para mim o ideal é
+
+721
+00:32:20,120 --> 00:32:28,000
+que
+
+722
+00:32:21,000 --> 00:32:31,240
+e essa frase seja feita do do de dentro
+
+723
+00:32:28,000 --> 00:32:34,480
+ou seja o ideal é que a gente
+
+724
+00:32:31,240 --> 00:32:36,919
+consiga como comunidade construir coisas
+
+725
+00:32:34,480 --> 00:32:39,639
+que que se sustentem no tempo e que
+
+726
+00:32:36,919 --> 00:32:41,880
+temporariamente aquelas pessoas ali do
+
+727
+00:32:39,639 --> 00:32:43,240
+esses essas três pessoas ali do Semente
+
+728
+00:32:41,880 --> 00:32:44,760
+vão fazer parte da comunidade mas
+
+729
+00:32:43,240 --> 00:32:47,480
+eventualmente vão sair também como
+
+730
+00:32:44,760 --> 00:32:49,760
+acontece então assim ao invés da gente
+
+731
+00:32:47,480 --> 00:32:51,399
+chegar olha a gente vai levar essa
+
+732
+00:32:49,760 --> 00:32:54,120
+possibilidade da comunidade fazer isso é
+
+733
+00:32:51,399 --> 00:32:58,200
+o contrário a comunidade se constitui e
+
+734
+00:32:54,120 --> 00:33:00,279
+faz essa construção de de de ver verbal
+
+735
+00:32:58,200 --> 00:33:03,200
+Mas também de de de entendimento de
+
+736
+00:33:00,279 --> 00:33:04,840
+mundo e eventualmente vai ter um período
+
+737
+00:33:03,200 --> 00:33:07,679
+da comunidade em que a gente faz parte
+
+738
+00:33:04,840 --> 00:33:10,880
+ou faz parte de maneiras eh que vão
+
+739
+00:33:07,679 --> 00:33:14,039
+variando com o tempo mas é isso é é
+
+740
+00:33:10,880 --> 00:33:15,919
+dessa perspectiva desde dentro e aí eu
+
+741
+00:33:14,039 --> 00:33:17,440
+acho que tem uma coisa que é eu tinha
+
+742
+00:33:15,919 --> 00:33:19,559
+uma grande dificuldade uns anos atrás
+
+743
+00:33:17,440 --> 00:33:22,399
+quando enfim comecei a explorar a
+
+744
+00:33:19,559 --> 00:33:24,519
+possibilidade de fazer projetos e tentar
+
+745
+00:33:22,399 --> 00:33:26,760
+entender como que essa coisa de Startup
+
+746
+00:33:24,519 --> 00:33:29,519
+não sei qu pros meus projetos porque
+
+747
+00:33:26,760 --> 00:33:31,960
+sempre parti de um princípio que eu
+
+748
+00:33:29,519 --> 00:33:34,279
+tinha alguma coisa que eu tinha visto
+
+749
+00:33:31,960 --> 00:33:36,279
+uma oportunidade ou que eu tinha
+
+750
+00:33:34,279 --> 00:33:38,919
+desenvolvido alguma tecnologia e eu
+
+751
+00:33:36,279 --> 00:33:41,600
+precisava convencer o mundo rapidamente
+
+752
+00:33:38,919 --> 00:33:45,200
+a me dar dinheiro para fazer aquilo e
+
+753
+00:33:41,600 --> 00:33:47,399
+para mim Os projetos que eu acho mais
+
+754
+00:33:45,200 --> 00:33:48,679
+interessantes que eu que eu tive a
+
+755
+00:33:47,399 --> 00:33:50,080
+chance de participar foram projetos que
+
+756
+00:33:48,679 --> 00:33:52,519
+foram constituídos de uma outra forma
+
+757
+00:33:50,080 --> 00:33:54,279
+assim eu estou em relação com um grupo
+
+758
+00:33:52,519 --> 00:33:56,000
+de pessoas e quero fazer coisas com
+
+759
+00:33:54,279 --> 00:33:58,360
+essas pessoas Então vamos ver o que que
+
+760
+00:33:56,000 --> 00:34:01,279
+a gente faz então é muito mas essa coisa
+
+761
+00:33:58,360 --> 00:34:03,440
+de de pensar nas relações e na
+
+762
+00:34:01,279 --> 00:34:06,480
+comunidade em si como o próprio objetivo
+
+763
+00:34:03,440 --> 00:34:08,280
+da ação Comunitária E aí eu vejo essa
+
+764
+00:34:06,480 --> 00:34:09,960
+essa imagem que a Mara trouxe da da
+
+765
+00:34:08,280 --> 00:34:12,079
+bolsa de
+
+766
+00:34:09,960 --> 00:34:14,399
+sementes eu acho muito interessante
+
+767
+00:34:12,079 --> 00:34:17,560
+assim a explorar voltando um pouco na na
+
+768
+00:34:14,399 --> 00:34:20,960
+coisa mais conceitual das metáforas ali
+
+769
+00:34:17,560 --> 00:34:23,839
+eh algumas coisas uma delas é entender
+
+770
+00:34:20,960 --> 00:34:30,079
+que talvez no que a gente tá chamando
+
+771
+00:34:23,839 --> 00:34:31,919
+aqui a bolsa de sementes é o grupo de
+
+772
+00:34:30,079 --> 00:34:34,639
+pessoas com as quais eu quero me
+
+773
+00:34:31,919 --> 00:34:37,399
+relacionar ao longo do tempo e também é
+
+774
+00:34:34,639 --> 00:34:38,800
+o objetivo da comunidade ou seja bolsa
+
+775
+00:34:37,399 --> 00:34:41,399
+de sementes é a comunidade e é o
+
+776
+00:34:38,800 --> 00:34:43,079
+objetivo da comunidade E aí nesse
+
+777
+00:34:41,399 --> 00:34:45,359
+sentido que aquela imagem que eu fiz eu
+
+778
+00:34:43,079 --> 00:34:48,560
+vou mostrar daqui a pouco pensando nessa
+
+779
+00:34:45,359 --> 00:34:50,800
+lógica de de regeneração eh e de como
+
+780
+00:34:48,560 --> 00:34:52,879
+essas lógicas da colheita do fruto e tal
+
+781
+00:34:50,800 --> 00:34:56,399
+podde acontecer ali mas eu quero só
+
+782
+00:34:52,879 --> 00:34:58,200
+também trazer uma historinha eh de de um
+
+783
+00:34:56,399 --> 00:35:02,480
+projeto que eu participei no anos atrás
+
+784
+00:34:58,200 --> 00:35:04,440
+uma comunidade eh guaran buiá em Ubatuba
+
+785
+00:35:02,480 --> 00:35:06,720
+e depois de alguns meses da gente
+
+786
+00:35:04,440 --> 00:35:09,880
+trabalhando junto uma liderança da
+
+787
+00:35:06,720 --> 00:35:14,880
+comunidade chegou e deu assim pra gente
+
+788
+00:35:09,880 --> 00:35:18,320
+um potinho com com milho com semente com
+
+789
+00:35:14,880 --> 00:35:19,920
+milho seco né E aí eu falei pô muito
+
+790
+00:35:18,320 --> 00:35:23,640
+obrigado assim Eu reconheci que aquilo
+
+791
+00:35:19,920 --> 00:35:26,359
+era uma coisa importante eh era o enfim
+
+792
+00:35:23,640 --> 00:35:29,520
+era essa liderança indígena falou que é
+
+793
+00:35:26,359 --> 00:35:31,880
+o milho da minha vó ou seja que era
+
+794
+00:35:29,520 --> 00:35:33,599
+trazido ao longo de gerações e eu falei
+
+795
+00:35:31,880 --> 00:35:35,720
+pô muito obrigado eu vou guardar com
+
+796
+00:35:33,599 --> 00:35:37,480
+muito carinho e aí essa lança indígena
+
+797
+00:35:35,720 --> 00:35:40,960
+falou não não não guarda Não não é para
+
+798
+00:35:37,480 --> 00:35:43,800
+guardar vai lá na sua terra planta e aí
+
+799
+00:35:40,960 --> 00:35:46,000
+colhe e traz de volta para mim então tem
+
+800
+00:35:43,800 --> 00:35:48,400
+essa coisa da reciprocidade e de pensar
+
+801
+00:35:46,000 --> 00:35:53,040
+a semente como uma coisa que se perpetua
+
+802
+00:35:48,400 --> 00:35:55,440
+no tempo através da semeadura da da do
+
+803
+00:35:53,040 --> 00:36:00,400
+manejo da colheita e tal então não é que
+
+804
+00:35:55,440 --> 00:36:02,760
+a semente é ã o objetivo não é não é a
+
+805
+00:36:00,400 --> 00:36:05,920
+coisa da gente preservar as sementes a
+
+806
+00:36:02,760 --> 00:36:08,240
+gente guardar as sementes é da gente
+
+807
+00:36:05,920 --> 00:36:10,599
+perpetuar esse ciclo da semente ser
+
+808
+00:36:08,240 --> 00:36:12,880
+plantada e dar frutos e a gente produzir
+
+809
+00:36:10,599 --> 00:36:15,720
+mais sementes com isso então a gente eh
+
+810
+00:36:12,880 --> 00:36:17,800
+em alguns em alguns casos a gente
+
+811
+00:36:15,720 --> 00:36:21,720
+acelerar ou a gente
+
+812
+00:36:17,800 --> 00:36:23,960
+eh desacelerar processos em torno desse
+
+813
+00:36:21,720 --> 00:36:27,000
+objetivo que é ao longo do tempo que as
+
+814
+00:36:23,960 --> 00:36:30,200
+sementes continuem eh se produzindo se
+
+815
+00:36:27,000 --> 00:36:34,119
+reproduzindo eh de maneira saudável para
+
+816
+00:36:30,200 --> 00:36:36,520
+todos e tal então sim maa depois eu vou
+
+817
+00:36:34,119 --> 00:36:39,640
+partir para um desenhinho
+
+818
+00:36:36,520 --> 00:36:42,119
+aqui eu acho que a bolsa de sementes são
+
+819
+00:36:39,640 --> 00:36:44,839
+as pessoas mas não só as pessoas
+
+820
+00:36:42,119 --> 00:36:49,079
+fisicamente mas o que elas ecoam e o que
+
+821
+00:36:44,839 --> 00:36:53,760
+elas produzem tipo o milho
+
+822
+00:36:49,079 --> 00:36:55,720
+é ele em si ele não é a semente mas sim
+
+823
+00:36:53,760 --> 00:36:59,119
+a pessoa que te deu o milho só que esse
+
+824
+00:36:55,720 --> 00:37:01,240
+milho dela tipo é uma coisa F Então as
+
+825
+00:36:59,119 --> 00:37:03,800
+ideias que a gente produz as coisas que
+
+826
+00:37:01,240 --> 00:37:06,440
+a gente deixa que é até aquela conversa
+
+827
+00:37:03,800 --> 00:37:08,319
+que eu tava tendo com você né Tipo se a
+
+828
+00:37:06,440 --> 00:37:10,720
+gente tá numa comunidade e a minha
+
+829
+00:37:08,319 --> 00:37:12,599
+produção ela não é fechada se um dia eu
+
+830
+00:37:10,720 --> 00:37:14,720
+for embora daqui eu acho que essa
+
+831
+00:37:12,599 --> 00:37:16,480
+produção que eu deixei ela é sua sabe o
+
+832
+00:37:14,720 --> 00:37:19,680
+que você vai fazer com isso é meio que
+
+833
+00:37:16,480 --> 00:37:22,599
+plantar o milho e ressignificar da sua
+
+834
+00:37:19,680 --> 00:37:25,800
+forma transmutar isso por isso é
+
+835
+00:37:22,599 --> 00:37:29,000
+importante a importância da gente est
+
+836
+00:37:25,800 --> 00:37:31,440
+eh nesse ambiente ente de segurança e
+
+837
+00:37:29,000 --> 00:37:33,599
+Poder chamar isso de comunidade porque
+
+838
+00:37:31,440 --> 00:37:35,160
+eu não preciso deixar instruções do que
+
+839
+00:37:33,599 --> 00:37:38,880
+que você vai fazer com as minhas coisas
+
+840
+00:37:35,160 --> 00:37:41,800
+porque eu confio em você e acredito o
+
+841
+00:37:38,880 --> 00:37:44,920
+suficiente para saber que você vai
+
+842
+00:37:41,800 --> 00:37:49,040
+plantar e aquilo vai colher e tipo
+
+843
+00:37:44,920 --> 00:37:51,480
+ressignificar isso de outra forma Então
+
+844
+00:37:49,040 --> 00:37:55,000
+nesse processo todo acho que esse
+
+845
+00:37:51,480 --> 00:37:59,079
+sentido comunitário ele ganha força
+
+846
+00:37:55,000 --> 00:38:00,520
+eh nessas direções né de construções
+
+847
+00:37:59,079 --> 00:38:06,200
+genuínas
+
+848
+00:38:00,520 --> 00:38:09,079
+eh que é o o discurso anti Startup é o é
+
+849
+00:38:06,200 --> 00:38:12,040
+um discurso antis sucesso né O que que é
+
+850
+00:38:09,079 --> 00:38:15,280
+sucesso é eu ter um grupo sólido de
+
+851
+00:38:12,040 --> 00:38:19,280
+pessoas que eu posso me apoiar
+
+852
+00:38:15,280 --> 00:38:22,960
+e ser resiliente junto com elas e ter
+
+853
+00:38:19,280 --> 00:38:25,800
+confiança eem relações Profundas e ir
+
+854
+00:38:22,960 --> 00:38:29,000
+caminhando e ver esses ciclos e esses
+
+855
+00:38:25,800 --> 00:38:31,440
+ciclos ao longo do tempo ou apenas gerar
+
+856
+00:38:29,000 --> 00:38:36,640
+um produto que eu vou prestar contas com
+
+857
+00:38:31,440 --> 00:38:39,880
+uma planilha então a comunidade os
+
+858
+00:38:36,640 --> 00:38:44,359
+processos eu acho que eles são síncronos
+
+859
+00:38:39,880 --> 00:38:46,359
+nesse ponto eh que é diferente dessa
+
+860
+00:38:44,359 --> 00:38:49,560
+lógica do
+
+861
+00:38:46,359 --> 00:38:52,800
+bem-sucedido mensurável Talvez algumas
+
+862
+00:38:49,560 --> 00:38:55,400
+coisas não elas são mensuráveis mas não
+
+863
+00:38:52,800 --> 00:38:58,040
+nas métricas que a gente tá acostumada a
+
+864
+00:38:55,400 --> 00:39:01,359
+ver em tecnologia e inovação são outras
+
+865
+00:38:58,040 --> 00:39:03,680
+métricas é mas aí até voltando na imagem
+
+866
+00:39:01,359 --> 00:39:04,400
+de Floresta de jardim de permacultura e
+
+867
+00:39:03,680 --> 00:39:08,520
+tal
+
+868
+00:39:04,400 --> 00:39:11,040
+eh muitas vezes existem projetos de
+
+869
+00:39:08,520 --> 00:39:15,560
+impacto social que operam numa lógica
+
+870
+00:39:11,040 --> 00:39:18,400
+extrativa que condensam relações sociais
+
+871
+00:39:15,560 --> 00:39:21,440
+que são ricas e múltiplas e diversas e
+
+872
+00:39:18,400 --> 00:39:23,760
+fazem uma uma redução eh e aí uma
+
+873
+00:39:21,440 --> 00:39:26,960
+redução genética transforma uma floresta
+
+874
+00:39:23,760 --> 00:39:28,720
+numa plantação homogênea e exaurem a
+
+875
+00:39:26,960 --> 00:39:30,240
+terra que não existe mais reconstrução e
+
+876
+00:39:28,720 --> 00:39:32,680
+de repente vão para outro lugar então
+
+877
+00:39:30,240 --> 00:39:36,599
+uma lógica extrativa uma lógica de de
+
+878
+00:39:32,680 --> 00:39:38,160
+monocultura que é bastante presente em
+
+879
+00:39:36,599 --> 00:39:39,800
+todos esses campos com os quais a gente
+
+880
+00:39:38,160 --> 00:39:42,599
+trabalha tem um monte de Green washing
+
+881
+00:39:39,800 --> 00:39:47,280
+tem um monte de social washing então
+
+882
+00:39:42,599 --> 00:39:50,680
+eh a gente nesse posicionamento de
+
+883
+00:39:47,280 --> 00:39:54,359
+semente como uma coisa que vai
+
+884
+00:39:50,680 --> 00:39:56,480
+eh em última instância privilegiar a
+
+885
+00:39:54,359 --> 00:39:59,040
+saúde da comunidade ao longo do tempo
+
+886
+00:39:56,480 --> 00:40:01,480
+Event norment a gente vai até combater
+
+887
+00:39:59,040 --> 00:40:03,079
+projetos que se dizem projetos de
+
+888
+00:40:01,480 --> 00:40:04,880
+impacto social porque a gente entende
+
+889
+00:40:03,079 --> 00:40:06,880
+que a lógica que eles operam é muito
+
+890
+00:40:04,880 --> 00:40:10,280
+Colonial é muito extrativo é muito vem
+
+891
+00:40:06,880 --> 00:40:13,640
+de fora causa impacto vai embora e deixa
+
+892
+00:40:10,280 --> 00:40:15,400
+um buraco eh tem aquele documentário que
+
+893
+00:40:13,640 --> 00:40:18,920
+eu acho que eu compartilhei no nosso
+
+894
+00:40:15,400 --> 00:40:21,240
+grupo talvez do documentário
+
+895
+00:40:18,920 --> 00:40:25,440
+ah
+
+896
+00:40:21,240 --> 00:40:28,040
+educação da Carol Black pera aí pesquisa
+
+897
+00:40:25,440 --> 00:40:30,280
+rápida School in the world eu não sei se
+
+898
+00:40:28,040 --> 00:40:33,000
+eu mandei esse link para vocês eu não
+
+899
+00:40:30,280 --> 00:40:35,560
+não reconheço não o nome tá vou mandar é
+
+900
+00:40:33,000 --> 00:40:38,440
+um vídeo muito interessante falando do
+
+901
+00:40:35,560 --> 00:40:41,520
+impacto do sistema educacional eh e tem
+
+902
+00:40:38,440 --> 00:40:44,440
+um exemplo que eles trazem eh faz toda
+
+903
+00:40:41,520 --> 00:40:46,200
+uma Um percurso ali é uma senhora se eu
+
+904
+00:40:44,440 --> 00:40:48,520
+não me engano numa zona rural na Índia
+
+905
+00:40:46,200 --> 00:40:52,359
+falando que todos os jovens da família
+
+906
+00:40:48,520 --> 00:40:55,040
+dela foram pra cidade e agora não só ela
+
+907
+00:40:52,359 --> 00:40:57,319
+não tem eh os jovens por perto como
+
+908
+00:40:55,040 --> 00:40:58,960
+quando ela quando eles vêm visitar eles
+
+909
+00:40:57,319 --> 00:41:00,440
+não sabem mais ajudar ela produzindo no
+
+910
+00:40:58,960 --> 00:41:03,000
+campo não sabem mais plantar não sabem
+
+911
+00:41:00,440 --> 00:41:06,440
+mais colher perderam tudo e eles todos
+
+912
+00:41:03,000 --> 00:41:09,119
+ou todos eu não diria mas eh o o filme
+
+913
+00:41:06,440 --> 00:41:11,839
+mostra alguns casos desses jovens que
+
+914
+00:41:09,119 --> 00:41:14,040
+saíram da zona rural fizeram entraram
+
+915
+00:41:11,839 --> 00:41:16,400
+pro sistema de educação formal bastante
+
+916
+00:41:14,040 --> 00:41:18,160
+disciplinado e vão pra cidade grande
+
+917
+00:41:16,400 --> 00:41:19,720
+para viver uma vida miserável para
+
+918
+00:41:18,160 --> 00:41:21,040
+trabalhar um monte para não ter nenhum
+
+919
+00:41:19,720 --> 00:41:23,920
+contato com a natureza para não ter
+
+920
+00:41:21,040 --> 00:41:25,880
+relações Profundas entre as pessoas e
+
+921
+00:41:23,920 --> 00:41:28,359
+para viver uma vida de consumo Então
+
+922
+00:41:25,880 --> 00:41:30,480
+essa substituição de uma lógica
+
+923
+00:41:28,359 --> 00:41:32,800
+Comunitária que funcionou por milhares
+
+924
+00:41:30,480 --> 00:41:35,440
+de anos por uma lógica rápida de
+
+925
+00:41:32,800 --> 00:41:37,000
+acelerar e ter sucesso eh primeiro lugar
+
+926
+00:41:35,440 --> 00:41:41,079
+não tem espaço para todo mundo em
+
+927
+00:41:37,000 --> 00:41:44,359
+segundo lugar ele causa um um um um um
+
+928
+00:41:41,079 --> 00:41:46,839
+Rift um um uma falha metabólica
+
+929
+00:41:44,359 --> 00:41:48,680
+inclusive nas origens da das vidas
+
+930
+00:41:46,839 --> 00:41:50,720
+comunitárias né então não existe mais o
+
+931
+00:41:48,680 --> 00:41:52,640
+processo de reconfiguração regeneração
+
+932
+00:41:50,720 --> 00:41:55,520
+Comunitária
+
+933
+00:41:52,640 --> 00:41:57,920
+eh então se não eu quero eu quero
+
+934
+00:41:55,520 --> 00:41:59,920
+mostrar uma coisinha aqui
+
+935
+00:41:57,920 --> 00:42:02,079
+que é enfim essa imagem que vocês já
+
+936
+00:41:59,920 --> 00:42:04,800
+viram que é a minha
+
+937
+00:42:02,079 --> 00:42:08,040
+incursão muito inábil
+
+938
+00:42:04,800 --> 00:42:10,760
+no mundo da representação gráfica de
+
+939
+00:42:08,040 --> 00:42:13,720
+ideias mas para mim é isso é um rascunho
+
+940
+00:42:10,760 --> 00:42:16,720
+só então não levem em conta a qualidade
+
+941
+00:42:13,720 --> 00:42:20,200
+do Design só pensar nessa coisa de ah a
+
+942
+00:42:16,720 --> 00:42:24,319
+gente pensar em em lógicas
+
+943
+00:42:20,200 --> 00:42:28,520
+de bancos de sementes que que a gente
+
+944
+00:42:24,319 --> 00:42:31,000
+quer conduzir e e perpetuar ao longo do
+
+945
+00:42:28,520 --> 00:42:33,480
+tempo e aí eu fiquei pensando nessa
+
+946
+00:42:31,000 --> 00:42:34,920
+história da gente pensar em ciclos
+
+947
+00:42:33,480 --> 00:42:39,520
+[Música]
+
+948
+00:42:34,920 --> 00:42:42,319
+eh então pensar um ciclo que parta de um
+
+949
+00:42:39,520 --> 00:42:45,720
+lugar em que a gente tenha sementes a
+
+950
+00:42:42,319 --> 00:42:48,640
+gente vai fazer um processo de eh lançar
+
+951
+00:42:45,720 --> 00:42:51,079
+cementes no solo de fazer a semeadura E
+
+952
+00:42:48,640 --> 00:42:54,400
+aí tem um viver que vai dar mudas a a
+
+953
+00:42:51,079 --> 00:42:56,319
+gente começa um processo de manejo e no
+
+954
+00:42:54,400 --> 00:42:58,640
+manejo a gente vai observar o que que
+
+955
+00:42:56,319 --> 00:43:01,599
+acontece natureza que acontece em volta
+
+956
+00:42:58,640 --> 00:43:05,280
+e Em algum momento aquilo vai Florescer
+
+957
+00:43:01,599 --> 00:43:07,160
+e vai frutificar e eventualmente o os
+
+958
+00:43:05,280 --> 00:43:08,559
+frutos alguns desses frutos a gente vai
+
+959
+00:43:07,160 --> 00:43:10,920
+trazer de volta para um processo de
+
+960
+00:43:08,559 --> 00:43:12,559
+regeneração gerar sementes de novo então
+
+961
+00:43:10,920 --> 00:43:15,079
+isso aqui como uma representação
+
+962
+00:43:12,559 --> 00:43:18,400
+bastante simplificada bastante
+
+963
+00:43:15,079 --> 00:43:20,440
+superficial de processos naturais aí em
+
+964
+00:43:18,400 --> 00:43:23,000
+que que podem ser aplicados à
+
+965
+00:43:20,440 --> 00:43:26,119
+permacultura e agroflorestas e jardins
+
+966
+00:43:23,000 --> 00:43:28,599
+mas também a relações sociais o que eu
+
+967
+00:43:26,119 --> 00:43:31,200
+imagino eh que dá para pensar numa
+
+968
+00:43:28,599 --> 00:43:34,319
+lógica que em cima disso em cima de uma
+
+969
+00:43:31,200 --> 00:43:36,920
+representação essa tá feia eh mas uma
+
+970
+00:43:34,319 --> 00:43:39,160
+representação bidimensional faça essa
+
+971
+00:43:36,920 --> 00:43:40,839
+esse movimento de partir para uma visão
+
+972
+00:43:39,160 --> 00:43:43,079
+tridimensional que a gente vai ver essas
+
+973
+00:43:40,839 --> 00:43:46,359
+coisas girando ao longo do tempo e que a
+
+974
+00:43:43,079 --> 00:43:49,880
+gente coloque elementos aqui eh ao longo
+
+975
+00:43:46,359 --> 00:43:51,559
+desse gráfico eh circular espiral e que
+
+976
+00:43:49,880 --> 00:43:54,040
+a gente consegue identificar aqui aqui
+
+977
+00:43:51,559 --> 00:43:56,400
+quais são o que que é o meu solo e
+
+978
+00:43:54,040 --> 00:43:57,680
+quando eu vejo dentro do universo de
+
+979
+00:43:56,400 --> 00:43:59,319
+possibilidades que eu tenho para fazer
+
+980
+00:43:57,680 --> 00:44:02,400
+um projeto o meu solo vai significar
+
+981
+00:43:59,319 --> 00:44:04,559
+alguma coisa Quais são as flores ou seja
+
+982
+00:44:02,400 --> 00:44:07,680
+o que que são as coisas que começam E aí
+
+983
+00:44:04,559 --> 00:44:09,079
+enfim eu eu vou muito nesse sentido de
+
+984
+00:44:07,680 --> 00:44:11,680
+pegar essas metáforas que a gente tá
+
+985
+00:44:09,079 --> 00:44:13,680
+usando e tentar aí mais Talvez eu vá
+
+986
+00:44:11,680 --> 00:44:15,400
+demais até numa maneira muito abstrato
+
+987
+00:44:13,680 --> 00:44:17,520
+eh tentar entender Quais são as
+
+988
+00:44:15,400 --> 00:44:20,599
+implicações então quando eu tenho uma
+
+989
+00:44:17,520 --> 00:44:22,880
+ideia de projeto coletivo o que que são
+
+990
+00:44:20,599 --> 00:44:26,319
+as flores como que essas flores vão
+
+991
+00:44:22,880 --> 00:44:27,880
+atrair ã agentes polinizadores E como
+
+992
+00:44:26,319 --> 00:44:30,559
+que esses agentes polinizadores vão me
+
+993
+00:44:27,880 --> 00:44:32,680
+ajudar a dar frutos desses frutos Quais
+
+994
+00:44:30,559 --> 00:44:34,280
+são os frutos que eu vou lançar para
+
+995
+00:44:32,680 --> 00:44:36,319
+trocar no mercado por outras coisas
+
+996
+00:44:34,280 --> 00:44:38,480
+Quais são os frutos que eu vou pegar e
+
+997
+00:44:36,319 --> 00:44:40,800
+decidi guardar pro futuro para eu
+
+998
+00:44:38,480 --> 00:44:42,839
+consumir depois ou para gerar sementes
+
+999
+00:44:40,800 --> 00:44:44,119
+Então eu acho que dá para pensar nessa
+
+1000
+00:44:42,839 --> 00:44:48,079
+coisa do que a gente tinha um pouco
+
+1001
+00:44:44,119 --> 00:44:50,000
+antes é isso um pouco o CNE da da da
+
+1002
+00:44:48,079 --> 00:44:52,599
+conversa que eu tava querendo ter ali
+
+1003
+00:44:50,000 --> 00:44:55,200
+sobre o formato de semente que é pensar
+
+1004
+00:44:52,599 --> 00:44:57,079
+em como a gente pensa em alguns daqueles
+
+1005
+00:44:55,200 --> 00:44:58,319
+Campos ou seja manejo manejo acho que
+
+1006
+00:44:57,079 --> 00:45:00,640
+que dá para decompor em várias coisas
+
+1007
+00:44:58,319 --> 00:45:04,359
+tem manejo tem ferramentas tem
+
+1008
+00:45:00,640 --> 00:45:08,119
+observação do do clima das estações dos
+
+1009
+00:45:04,359 --> 00:45:12,040
+ciclos tem um legado tecnológico né de
+
+1010
+00:45:08,119 --> 00:45:14,240
+tecnologia social cultural eh legado tem
+
+1011
+00:45:12,040 --> 00:45:16,359
+o manejo tem Inclusive a necessidade da
+
+1012
+00:45:14,240 --> 00:45:18,520
+manutenção preventiva das Ferramentas
+
+1013
+00:45:16,359 --> 00:45:20,559
+que se a gente não fizer manutenção das
+
+1014
+00:45:18,520 --> 00:45:22,280
+Ferramentas elas param de funcionar ao
+
+1015
+00:45:20,559 --> 00:45:24,640
+longo do tempo então acho que dá para
+
+1016
+00:45:22,280 --> 00:45:27,119
+pensar num numa lógica circular e a
+
+1017
+00:45:24,640 --> 00:45:28,640
+gente colocar elementos e o que eu
+
+1018
+00:45:27,119 --> 00:45:32,240
+imagino até o momento assim que tem
+
+1019
+00:45:28,640 --> 00:45:36,200
+elementos que são de de recursos de
+
+1020
+00:45:32,240 --> 00:45:38,800
+asset de de de resources Eh Ou seja o
+
+1021
+00:45:36,200 --> 00:45:41,760
+que que eu guardo eh e o que que eu
+
+1022
+00:45:38,800 --> 00:45:43,160
+produzo mas tem algumas o que seriam sei
+
+1023
+00:45:41,760 --> 00:45:46,119
+lá cartas colocadas em cima disso que
+
+1024
+00:45:43,160 --> 00:45:48,440
+são processos que vão ativar coisas em
+
+1025
+00:45:46,119 --> 00:45:51,040
+em diferentes recursos mas é isso agora
+
+1026
+00:45:48,440 --> 00:45:54,079
+eu tô meio que perdido nas Abstrações
+
+1027
+00:45:51,040 --> 00:45:56,040
+das das das metáforas aqui talvez
+
+1028
+00:45:54,079 --> 00:45:57,960
+momento de parar não mas eu acho que
+
+1029
+00:45:56,040 --> 00:45:59,319
+ecou bem com que a gente vinha
+
+1030
+00:45:57,960 --> 00:46:01,720
+conversando até aqui eu tô fazendo
+
+1031
+00:45:59,319 --> 00:46:04,680
+alguns skets enquanto a gente conversa
+
+1032
+00:46:01,720 --> 00:46:07,839
+eh uma frase que para
+
+1033
+00:46:04,680 --> 00:46:11,240
+mim reduz eh reduz
+
+1034
+00:46:07,839 --> 00:46:14,440
+eh condensa o que a gente tá falando
+
+1035
+00:46:11,240 --> 00:46:16,440
+eh que é uma posicionamento diferente do
+
+1036
+00:46:14,440 --> 00:46:20,079
+que que a gente tinha feito com semente
+
+1037
+00:46:16,440 --> 00:46:24,680
+antes né se você voltar no tempo semente
+
+1038
+00:46:20,079 --> 00:46:28,000
+era como viabilizar eh Comunidades a
+
+1039
+00:46:24,680 --> 00:46:31,359
+dialogar com pessoas com pouquíssima
+
+1040
+00:46:28,000 --> 00:46:34,440
+literalidade cultural e se apropriar dos
+
+1041
+00:46:31,359 --> 00:46:37,599
+conteúdos gerados antes no id2 e no no
+
+1042
+00:46:34,440 --> 00:46:40,319
+uhum no Fonte wik então a ideia era como
+
+1043
+00:46:37,599 --> 00:46:41,800
+pegar esse conteúdo e entregar paraa
+
+1044
+00:46:40,319 --> 00:46:44,480
+comunidade para que eles pudessem se
+
+1045
+00:46:41,800 --> 00:46:48,240
+apropriar e desenvolver alguma coisa
+
+1046
+00:46:44,480 --> 00:46:50,119
+para eles né era onde a gente começou
+
+1047
+00:46:48,240 --> 00:46:51,559
+então isso levava para uma ideia assim
+
+1048
+00:46:50,119 --> 00:46:54,559
+de que eles têm uma coisa para resolver
+
+1049
+00:46:51,559 --> 00:46:59,160
+eles têm um projeto para poder articular
+
+1050
+00:46:54,559 --> 00:47:03,480
+amadurecer e provavel mente trocar
+
+1051
+00:46:59,160 --> 00:47:05,359
+confrontar construir com unidades eh
+
+1052
+00:47:03,480 --> 00:47:08,000
+políticas e financeiras para tentar
+
+1053
+00:47:05,359 --> 00:47:11,440
+viabilizar aquele projeto junto e aí
+
+1054
+00:47:08,000 --> 00:47:13,760
+nesse sentido a ideia de manejo e quais
+
+1055
+00:47:11,440 --> 00:47:16,640
+os frutos que a gente quer coletar em
+
+1056
+00:47:13,760 --> 00:47:18,680
+quanto tempo faz sentido mas agora a
+
+1057
+00:47:16,640 --> 00:47:21,079
+gente tá no momento que a gente tá
+
+1058
+00:47:18,680 --> 00:47:24,880
+falando de amadurecimento
+
+1059
+00:47:21,079 --> 00:47:28,559
+regenerativo contínuo né Tipo eu escrevi
+
+1060
+00:47:24,880 --> 00:47:32,280
+aqui amadurecimento regen ativo eh
+
+1061
+00:47:28,559 --> 00:47:35,160
+coletivo continuado então isso expande a
+
+1062
+00:47:32,280 --> 00:47:37,280
+ideia do que que o semente propõe para
+
+1063
+00:47:35,160 --> 00:47:40,240
+muito além da transferência de
+
+1064
+00:47:37,280 --> 00:47:42,599
+conhecimento do que que d21 e fonte Wick
+
+1065
+00:47:40,240 --> 00:47:46,119
+foram para alguém se apropriar disso e
+
+1066
+00:47:42,599 --> 00:47:48,720
+mover paraa frente a ideia de criar um
+
+1067
+00:47:46,119 --> 00:47:51,839
+uma coisa contínua é muito pertinente
+
+1068
+00:47:48,720 --> 00:47:53,400
+dentro dessa ideia de ciclos E aí ciclos
+
+1069
+00:47:51,839 --> 00:47:55,720
+iterativos né eu faço uma primeira
+
+1070
+00:47:53,400 --> 00:47:57,880
+interação uma plantinha nasceu na
+
+1071
+00:47:55,720 --> 00:48:00,280
+segunda interação tenho uma uma produção
+
+1072
+00:47:57,880 --> 00:48:02,520
+maior na terceira interação e a metáfora
+
+1073
+00:48:00,280 --> 00:48:05,800
+que você usou aí no seu desenho de que
+
+1074
+00:48:02,520 --> 00:48:10,680
+decidir também em qual momento o que eu
+
+1075
+00:48:05,800 --> 00:48:12,599
+coleto que é transformado em em fonte
+
+1076
+00:48:10,680 --> 00:48:14,960
+financeira capital para poder nutrir
+
+1077
+00:48:12,599 --> 00:48:17,720
+algumas coisas da da comunidade e o que
+
+1078
+00:48:14,960 --> 00:48:21,240
+a gente decide guardar no nosso
+
+1079
+00:48:17,720 --> 00:48:22,920
+legado então a ideia do uma uma das
+
+1080
+00:48:21,240 --> 00:48:25,040
+coisas que a gente a gente debateu
+
+1081
+00:48:22,920 --> 00:48:28,040
+várias vezes no no que que vinha no
+
+1082
+00:48:25,040 --> 00:48:31,800
+centro né daquele desenho original
+
+1083
+00:48:28,040 --> 00:48:34,280
+eh conectado com os princípios e o etos
+
+1084
+00:48:31,800 --> 00:48:36,760
+que é o que que une aquela comunidade
+
+1085
+00:48:34,280 --> 00:48:39,040
+esse centro ali é o legado histórico né
+
+1086
+00:48:36,760 --> 00:48:40,640
+tipo é como eu crescer e fazer essa
+
+1087
+00:48:39,040 --> 00:48:44,240
+comunidade
+
+1088
+00:48:40,640 --> 00:48:47,000
+eh amadurecer regenerativ de uma forma
+
+1089
+00:48:44,240 --> 00:48:48,680
+continuada eu tô mais usando outras
+
+1090
+00:48:47,000 --> 00:48:51,079
+palavras em cima do que você explicou
+
+1091
+00:48:48,680 --> 00:48:53,119
+ali na sua espiral mas eu acho que a
+
+1092
+00:48:51,079 --> 00:48:55,839
+gente consegue chegar eh traduzir o que
+
+1093
+00:48:53,119 --> 00:48:59,240
+a gente produziu até então para essa
+
+1094
+00:48:55,839 --> 00:49:01,640
+dinâmica porque a a o objetivo de todo o
+
+1095
+00:48:59,240 --> 00:49:06,040
+exercício do desenho do workshop Sei lá
+
+1096
+00:49:01,640 --> 00:49:08,200
+o formato que seja é para esse eh
+
+1097
+00:49:06,040 --> 00:49:11,200
+amadurecimento coletivo continuado Então
+
+1098
+00:49:08,200 --> 00:49:15,599
+não é uma coisa faz uma coisa sai
+
+1099
+00:49:11,200 --> 00:49:19,920
+sucesso ou ou não né é uma é uma modo de
+
+1100
+00:49:15,599 --> 00:49:22,119
+pensar mesmo uma uma escola tá ali deada
+
+1101
+00:49:19,920 --> 00:49:25,400
+com o que é permacultura é né per
+
+1102
+00:49:22,119 --> 00:49:29,319
+cultura tem uma cambada de métodos mas
+
+1103
+00:49:25,400 --> 00:49:31,480
+tem um guarda chuva é muito mais eh
+
+1104
+00:49:29,319 --> 00:49:36,680
+abrangente que é mudar a relação com a
+
+1105
+00:49:31,480 --> 00:49:36,680
+natureza né respeitar ouvir
+
+1106
+00:49:36,760 --> 00:49:43,799
+eh não sei se isso ajuda ou se
+
+1107
+00:49:40,160 --> 00:49:46,240
+confunde não ajuda porque eu acho que eh
+
+1108
+00:49:43,799 --> 00:49:49,319
+volta assim a esse ponto do de refletir
+
+1109
+00:49:46,240 --> 00:49:52,520
+sobre o que que tá no centro e e eu acho
+
+1110
+00:49:49,319 --> 00:49:55,040
+que tem uma tem uma uma brincadeira
+
+1111
+00:49:52,520 --> 00:49:58,000
+interessante de fazer aí que é o centro
+
+1112
+00:49:55,040 --> 00:50:00,400
+de ser uma coisa recursiva ou seja o
+
+1113
+00:49:58,000 --> 00:50:03,359
+ponto de partida é o próprio objetivo e
+
+1114
+00:50:00,400 --> 00:50:06,119
+aí assim o o a bolsa de sementes é o
+
+1115
+00:50:03,359 --> 00:50:08,640
+centro que é isso é de onde a gente vem
+
+1116
+00:50:06,119 --> 00:50:10,520
+e é o que a gente quer continuar mesmo
+
+1117
+00:50:08,640 --> 00:50:12,240
+eu fiz uma bolsinha de semente ali na
+
+1118
+00:50:10,520 --> 00:50:15,440
+frente do legado em cima do legado
+
+1119
+00:50:12,240 --> 00:50:17,760
+histórico ali boa massa a sua história
+
+1120
+00:50:15,440 --> 00:50:19,400
+do da caixinha de sementes dada mas que
+
+1121
+00:50:17,760 --> 00:50:22,280
+não é para ser guardado Mas é para ser
+
+1122
+00:50:19,400 --> 00:50:24,720
+plantado e eh Isso é uma um
+
+1123
+00:50:22,280 --> 00:50:27,319
+amadurecimento regenerativo contínuo né
+
+1124
+00:50:24,720 --> 00:50:30,359
+Você vai levar aquela semente tá
+
+1125
+00:50:27,319 --> 00:50:33,880
+regenera uma coisa no seu espaço e traz
+
+1126
+00:50:30,359 --> 00:50:35,720
+ess não é e é de uma sabedoria
+
+1127
+00:50:33,880 --> 00:50:38,040
+construída socialmente ao longo do tempo
+
+1128
+00:50:35,720 --> 00:50:42,040
+que é fantástica que é assim adiciona
+
+1129
+00:50:38,040 --> 00:50:43,640
+diversidade genética ah aos ao ao que tá
+
+1130
+00:50:42,040 --> 00:50:44,760
+sendo produzido ou seja não é a mesma
+
+1131
+00:50:43,640 --> 00:50:46,359
+semente que eu vou plantar e Plantar
+
+1132
+00:50:44,760 --> 00:50:48,400
+plantar na mesma Terra sempre então a
+
+1133
+00:50:46,359 --> 00:50:50,720
+gente na verdade cria uma diversidade
+
+1134
+00:50:48,400 --> 00:50:53,040
+maior quando a gente espalha e faz
+
+1135
+00:50:50,720 --> 00:50:55,760
+inclusive processos sociais baseados na
+
+1136
+00:50:53,040 --> 00:50:57,160
+troca de sementes que as pessoas vêm
+
+1137
+00:50:55,760 --> 00:50:59,880
+pessoas se reúnem
+
+1138
+00:50:57,160 --> 00:51:01,839
+entre entre os Guarani eh muitas vezes
+
+1139
+00:50:59,880 --> 00:51:03,799
+eles se reúnem duas vezes no ano uma na
+
+1140
+00:51:01,839 --> 00:51:06,599
+época do plantil e outra na época da
+
+1141
+00:51:03,799 --> 00:51:08,119
+colheita do Milho ou seja o milho é o
+
+1142
+00:51:06,599 --> 00:51:11,079
+grande
+
+1143
+00:51:08,119 --> 00:51:14,319
+grande elemento ali que mantém os ciclos
+
+1144
+00:51:11,079 --> 00:51:16,400
+eh e nesses momentos eles se reúnem para
+
+1145
+00:51:14,319 --> 00:51:19,040
+plantar Assim pessoas de diferentes
+
+1146
+00:51:16,400 --> 00:51:22,280
+localidades diferentes comunidades se
+
+1147
+00:51:19,040 --> 00:51:23,839
+encontram em uma para fazer o plantil e
+
+1148
+00:51:22,280 --> 00:51:27,000
+para fazer principalmente a colheita e a
+
+1149
+00:51:23,839 --> 00:51:30,000
+colheita também a época da da da cer de
+
+1150
+00:51:27,000 --> 00:51:32,799
+batizado dos guaran então tem essa coisa
+
+1151
+00:51:30,000 --> 00:51:36,480
+de Os encontros sociais serem conduzidos
+
+1152
+00:51:32,799 --> 00:51:38,799
+a A partir dessa necessidade de troca de
+
+1153
+00:51:36,480 --> 00:51:40,599
+sementes ou seja ou em paralelo com a
+
+1154
+00:51:38,799 --> 00:51:42,680
+necessidade de troca de sementes e as
+
+1155
+00:51:40,599 --> 00:51:47,400
+essas trocas vão fazer com que a semente
+
+1156
+00:51:42,680 --> 00:51:51,040
+circule e volte e seja adicionada aí
+
+1157
+00:51:47,400 --> 00:51:55,240
+diversidade nutricional e
+
+1158
+00:51:51,040 --> 00:51:58,040
+genética Amanda eu eh eu gostei muito do
+
+1159
+00:51:55,240 --> 00:52:01,280
+que você falou que o ponto
+
+1160
+00:51:58,040 --> 00:52:04,040
+de partida ele é o próprio objetivo
+
+1161
+00:52:01,280 --> 00:52:07,680
+né só que isso leva a gente
+
+1162
+00:52:04,040 --> 00:52:09,559
+problematizar outras coisas e que é o
+
+1163
+00:52:07,680 --> 00:52:12,559
+esvaziamento de sentido que você tava
+
+1164
+00:52:09,559 --> 00:52:16,760
+falando daquela senhora que todos foram
+
+1165
+00:52:12,559 --> 00:52:21,680
+embora ela ficou sozinha e as pessoas eh
+
+1166
+00:52:16,760 --> 00:52:21,680
+quando voltavam elas estavam distorcidas
+
+1167
+00:52:21,960 --> 00:52:31,680
+e eu vejo como arular e fazer isso de
+
+1168
+00:52:27,240 --> 00:52:35,599
+uma forma tangível pras pessoas tipo
+
+1169
+00:52:31,680 --> 00:52:37,880
+eh tenham objetivos nos seus processos
+
+1170
+00:52:35,599 --> 00:52:39,040
+mas é quase o lance do prosperos way
+
+1171
+00:52:37,880 --> 00:52:42,480
+down sabe
+
+1172
+00:52:39,040 --> 00:52:45,000
+eh você tá prosperando Para onde é para
+
+1173
+00:52:42,480 --> 00:52:48,280
+consumir cada vez mais você quer ter
+
+1174
+00:52:45,000 --> 00:52:50,960
+recurso financeiro e outros tipos de
+
+1175
+00:52:48,280 --> 00:52:52,760
+recurso para conseguir se tornar
+
+1176
+00:52:50,960 --> 00:52:56,079
+resiliente
+
+1177
+00:52:52,760 --> 00:52:58,280
+eh evoluir Se autom melhorar melhorar
+
+1178
+00:52:56,079 --> 00:53:00,400
+sua imunidade ter uma qualidade de vida
+
+1179
+00:52:58,280 --> 00:53:05,280
+melhor ter um maior poder de
+
+1180
+00:53:00,400 --> 00:53:08,400
+articulação ou para ter coisas e eh se
+
+1181
+00:53:05,280 --> 00:53:14,480
+não é coisas é tipo experiências eh
+
+1182
+00:53:08,400 --> 00:53:14,480
+mediadas por consumo e esvaziamento
+
+1183
+00:53:14,599 --> 00:53:21,359
+eh então eu vejo isso também né a gente
+
+1184
+00:53:18,040 --> 00:53:22,960
+tá construindo eh evoluindo essa
+
+1185
+00:53:21,359 --> 00:53:26,680
+ferramenta de
+
+1186
+00:53:22,960 --> 00:53:30,040
+mediação para resolver eh de repente de
+
+1187
+00:53:26,680 --> 00:53:34,359
+dores e problemas dessas pessoas Uhum
+
+1188
+00:53:30,040 --> 00:53:34,359
+mas como levar para essas pessoas
+
+1189
+00:53:34,599 --> 00:53:42,160
+eh O que seria esse processo né de tipo
+
+1190
+00:53:39,480 --> 00:53:45,359
+o objetivo ele já é o mesmo que o
+
+1191
+00:53:42,160 --> 00:53:49,799
+princípio e as coisas são circulares e
+
+1192
+00:53:45,359 --> 00:53:52,760
+eh a antilógica do
+
+1193
+00:53:49,799 --> 00:53:55,400
+bem-sucedido é eu acho que aí tem uma
+
+1194
+00:53:52,760 --> 00:53:57,960
+esperteza que é uma espécie de de de
+
+1195
+00:53:55,400 --> 00:54:00,760
+barco pirata de de bandeira pirata uma
+
+1196
+00:53:57,960 --> 00:54:04,400
+espécie de de Cavalo de Troia que é se a
+
+1197
+00:54:00,760 --> 00:54:07,440
+gente fizer um um um mecanismo que seja
+
+1198
+00:54:04,400 --> 00:54:09,119
+suficientemente flexível a gente pode
+
+1199
+00:54:07,440 --> 00:54:11,160
+começar uma conversa com determinada
+
+1200
+00:54:09,119 --> 00:54:13,960
+comunidade dizendo assim olha esse aqui
+
+1201
+00:54:11,160 --> 00:54:15,640
+é o semente ele é uma tradução de lógica
+
+1202
+00:54:13,960 --> 00:54:18,359
+de projeto a gente tem começo meio e fim
+
+1203
+00:54:15,640 --> 00:54:21,200
+e aqui tão os frutos Aqui tá o manejo e
+
+1204
+00:54:18,359 --> 00:54:22,680
+aqui tá os princípios e aí vocês começam
+
+1205
+00:54:21,200 --> 00:54:24,920
+conseguem fazer um projeto com começo
+
+1206
+00:54:22,680 --> 00:54:27,000
+meio fim massa só que aí a gente começa
+
+1207
+00:54:24,920 --> 00:54:30,240
+a adicionar outros elementos ali que vão
+
+1208
+00:54:27,000 --> 00:54:33,359
+falar mais sobre essas questões que são
+
+1209
+00:54:30,240 --> 00:54:37,160
+do ponto de vista do financiador que são
+
+1210
+00:54:33,359 --> 00:54:39,079
+indiretas mas que elas fazem sentido
+
+1211
+00:54:37,160 --> 00:54:40,680
+paraa comunidade enfim não sei se tô
+
+1212
+00:54:39,079 --> 00:54:42,280
+conseguindo explicar mas a minha
+
+1213
+00:54:40,680 --> 00:54:46,160
+reflexão aqui é essa
+
+1214
+00:54:42,280 --> 00:54:46,160
+eh se a gente tratar
+
+1215
+00:54:46,240 --> 00:54:51,720
+hã essa esse conjunto de ferramentas de
+
+1216
+00:54:49,559 --> 00:54:54,480
+uma maneira que possa crescer em
+
+1217
+00:54:51,720 --> 00:54:57,200
+complexidade a partir de processos
+
+1218
+00:54:54,480 --> 00:54:58,720
+comunitários a gente pode pode entregar
+
+1219
+00:54:57,200 --> 00:55:00,040
+uma versão de semente que seja
+
+1220
+00:54:58,720 --> 00:55:02,280
+simplesmente olha como que a gente faz
+
+1221
+00:55:00,040 --> 00:55:04,559
+para escrever o projeto no edital
+
+1222
+00:55:02,280 --> 00:55:07,160
+facilitar um processo ali de visualizar
+
+1223
+00:55:04,559 --> 00:55:10,240
+melhor o que que dá para fazer e tal mas
+
+1224
+00:55:07,160 --> 00:55:12,880
+também a gente fala Legal vocês fizeram
+
+1225
+00:55:10,240 --> 00:55:14,680
+isso conseguiram agora vamos adicionar
+
+1226
+00:55:12,880 --> 00:55:16,599
+mais camadas de entendimento da própria
+
+1227
+00:55:14,680 --> 00:55:19,480
+comunidade como a gente fazer para isso
+
+1228
+00:55:16,599 --> 00:55:20,960
+se perpetuar no tempo e não ser só uma
+
+1229
+00:55:19,480 --> 00:55:22,559
+maneira de ganhar um edital porque
+
+1230
+00:55:20,960 --> 00:55:24,240
+conseguiu escrever um projeto melhor a
+
+1231
+00:55:22,559 --> 00:55:26,839
+partir de uma visualização de processo
+
+1232
+00:55:24,240 --> 00:55:29,200
+comunitário mas que seja essa construção
+
+1233
+00:55:26,839 --> 00:55:32,079
+ao longo do tempo de como restaurar
+
+1234
+00:55:29,200 --> 00:55:35,400
+preservar regenerar eh e garantir a
+
+1235
+00:55:32,079 --> 00:55:37,039
+saúde coletiva de de de todo o sistema
+
+1236
+00:55:35,400 --> 00:55:39,280
+entende o que eu tô falando que a gente
+
+1237
+00:55:37,039 --> 00:55:41,240
+não precisa ter não precisa pensar em um
+
+1238
+00:55:39,280 --> 00:55:43,599
+negócio que seja complexo que todo mundo
+
+1239
+00:55:41,240 --> 00:55:46,480
+qualquer projeto que vá interagir com
+
+1240
+00:55:43,599 --> 00:55:49,240
+cente precise completar tudo mas que dê
+
+1241
+00:55:46,480 --> 00:55:50,720
+para fazer versões eh mais leves também
+
+1242
+00:55:49,240 --> 00:55:56,440
+ao longo do
+
+1243
+00:55:50,720 --> 00:55:59,760
+tempo por falor não eu eu eu concordo e
+
+1244
+00:55:56,440 --> 00:56:01,839
+e com a ideia de que a gente tá
+
+1245
+00:55:59,760 --> 00:56:05,119
+expandindo né então não é mais uma
+
+1246
+00:56:01,839 --> 00:56:10,200
+tradução para ter um processo executado
+
+1247
+00:56:05,119 --> 00:56:13,240
+e inteligível para outras partes fora do
+
+1248
+00:56:10,200 --> 00:56:15,960
+do verbete da do grupo social que a
+
+1249
+00:56:13,240 --> 00:56:18,960
+gente tá atuando comunidade eh vai ter
+
+1250
+00:56:15,960 --> 00:56:22,480
+diferenças de visão de mundo com certeza
+
+1251
+00:56:18,960 --> 00:56:28,079
+mas a gente tá falando é de
+
+1252
+00:56:22,480 --> 00:56:30,480
+uma criar uma forma de
+
+1253
+00:56:28,079 --> 00:56:34,000
+apoiar qualquer grupo que tem uma
+
+1254
+00:56:30,480 --> 00:56:35,960
+intenção comum a crescer como grupo
+
+1255
+00:56:34,000 --> 00:56:38,880
+amadurecer então eles começam a partir
+
+1256
+00:56:35,960 --> 00:56:41,280
+daquela daquele da metáfora do saquinho
+
+1257
+00:56:38,880 --> 00:56:44,039
+de sementes para poder plantar gerar um
+
+1258
+00:56:41,280 --> 00:56:47,599
+fruto a partir dali vai ter manejo
+
+1259
+00:56:44,039 --> 00:56:50,280
+técnicas e responsabilidades em volta e
+
+1260
+00:56:47,599 --> 00:56:53,480
+aí o final que a gente tinha colocado
+
+1261
+00:56:50,280 --> 00:56:55,760
+como um um fruto no final de um ciclo é
+
+1262
+00:56:53,480 --> 00:56:58,119
+só o primeiro passo de O que que a gente
+
+1263
+00:56:55,760 --> 00:57:00,960
+faz com esse fruto como ele retorna pro
+
+1264
+00:56:58,119 --> 00:57:05,400
+pro solo pra Base ética e aí a sua
+
+1265
+00:57:00,960 --> 00:57:06,520
+espiral eh acontece né de como criar um
+
+1266
+00:57:05,400 --> 00:57:09,520
+entendimento
+
+1267
+00:57:06,520 --> 00:57:11,599
+eh do valor que a própria comunidade tem
+
+1268
+00:57:09,520 --> 00:57:14,079
+para a própria comunidade eu tenho
+
+1269
+00:57:11,599 --> 00:57:18,680
+experiência primeira mão com isso com o
+
+1270
+00:57:14,079 --> 00:57:20,960
+trabalho de revitalização de eh
+
+1271
+00:57:18,680 --> 00:57:22,000
+artesanato em Ouro Preto há anos atrás
+
+1272
+00:57:20,960 --> 00:57:25,480
+eu tava
+
+1273
+00:57:22,000 --> 00:57:28,599
+ainda na faculdade ali Belo Horizonte a
+
+1274
+00:57:25,480 --> 00:57:32,720
+gente foi trabalhar com artesãos em Ouro
+
+1275
+00:57:28,599 --> 00:57:34,680
+Preto Sem estender muito a família com
+
+1276
+00:57:32,720 --> 00:57:37,200
+quem a gente fechou o acordo através da
+
+1277
+00:57:34,680 --> 00:57:40,559
+ufia o AMG na época
+
+1278
+00:57:37,200 --> 00:57:41,920
+eh tinha um apoio comercial da to stock
+
+1279
+00:57:40,559 --> 00:57:45,480
+de tudo que fosse produzido a partir
+
+1280
+00:57:41,920 --> 00:57:48,960
+disso seria comercializado com estante
+
+1281
+00:57:45,480 --> 00:57:51,039
+definida e tudo mais tinham designers
+
+1282
+00:57:48,960 --> 00:57:55,200
+com nomes e e
+
+1283
+00:57:51,039 --> 00:57:57,119
+assinaturas apoiando os artesãos mas a
+
+1284
+00:57:55,200 --> 00:58:00,039
+coisa mais ativa para mim dessa
+
+1285
+00:57:57,119 --> 00:58:02,839
+experiência toda de redesenho e era um
+
+1286
+00:58:00,039 --> 00:58:05,119
+reposicionamento da própria comunidade
+
+1287
+00:58:02,839 --> 00:58:08,599
+quando a gente percebeu num determinado
+
+1288
+00:58:05,119 --> 00:58:11,480
+momento que outros artesãos começaram a
+
+1289
+00:58:08,599 --> 00:58:13,200
+copiar elementos que foram investigados
+
+1290
+00:58:11,480 --> 00:58:15,559
+e trabalhados junto com a comunidade
+
+1291
+00:58:13,200 --> 00:58:17,039
+dentro daquele espaço de Ouro Preto eles
+
+1292
+00:58:15,559 --> 00:58:18,720
+começaram a copiar aqueles elementos
+
+1293
+00:58:17,039 --> 00:58:21,960
+minha primeira imediata
+
+1294
+00:58:18,720 --> 00:58:23,960
+eh resposta ah estão copiando numa ideia
+
+1295
+00:58:21,960 --> 00:58:25,720
+de direito autoral bem focado dentro da
+
+1296
+00:58:23,960 --> 00:58:27,960
+escola de design era o que se pregava e
+
+1297
+00:58:25,720 --> 00:58:30,640
+tal quando a professora que tava
+
+1298
+00:58:27,960 --> 00:58:33,119
+trabalhando comigo na UEF eh na na na
+
+1299
+00:58:30,640 --> 00:58:36,480
+universidade de Ouro Preto ela foi
+
+1300
+00:58:33,119 --> 00:58:39,039
+categórica mas isso é bom porque você tá
+
+1301
+00:58:36,480 --> 00:58:41,520
+levando outras partes da comunidade de
+
+1302
+00:58:39,039 --> 00:58:44,440
+artesãos de Ouro Preto a ter um um olhar
+
+1303
+00:58:41,520 --> 00:58:46,280
+diferente pro que eles produzem e não só
+
+1304
+00:58:44,440 --> 00:58:49,079
+produzir o que eles vinham produzindo
+
+1305
+00:58:46,280 --> 00:58:52,119
+que era uma
+
+1306
+00:58:49,079 --> 00:58:55,520
+uma um monte de diferentes ícones nada a
+
+1307
+00:58:52,119 --> 00:58:57,440
+ver com a cultura legal pirâmides e e
+
+1308
+00:58:55,520 --> 00:59:02,240
+várias coisas que não tinham nada a ver
+
+1309
+00:58:57,440 --> 00:59:05,760
+com o universo eh local eh de Ouro Preto
+
+1310
+00:59:02,240 --> 00:59:08,160
+sim eh então isso para mim foi uma virou
+
+1311
+00:59:05,760 --> 00:59:11,039
+uma chave ali De que você vai trabalhar
+
+1312
+00:59:08,160 --> 00:59:14,240
+não é para a comercialização a
+
+1313
+00:59:11,039 --> 00:59:14,240
+comercialização foi um meio
+
+1314
+00:59:21,119 --> 00:59:27,520
+debilizator
+
+1315
+00:59:23,079 --> 00:59:29,200
+do projeto né sim então aí voltando à
+
+1316
+00:59:27,520 --> 00:59:31,920
+metáfora que a gente tá usando aqui das
+
+1317
+00:59:29,200 --> 00:59:34,440
+sementes eh vai começar a partir de o
+
+1318
+00:59:31,920 --> 00:59:37,319
+que se tem de legado na na naquela
+
+1319
+00:59:34,440 --> 00:59:39,760
+comunidade agora eh que é representado
+
+1320
+00:59:37,319 --> 00:59:41,920
+por essas sementes esses primeiros itens
+
+1321
+00:59:39,760 --> 00:59:44,920
+que já existem lá legado histórico tem
+
+1322
+00:59:41,920 --> 00:59:47,599
+uma ética eh imembuí naquele conjunto de
+
+1323
+00:59:44,920 --> 00:59:50,280
+sementes aí quando você plantar isso e
+
+1324
+00:59:47,599 --> 00:59:51,720
+isso Volta pro pro ponto do ciclo você
+
+1325
+00:59:50,280 --> 00:59:54,160
+vê quais outras sementes o que que
+
+1326
+00:59:51,720 --> 00:59:56,480
+aprendeu Mas você tá de novo eu tô
+
+1327
+00:59:54,160 --> 00:59:59,839
+repetindo é um amadurecimento
+
+1328
+00:59:56,480 --> 01:00:01,839
+regenerativo da do do coletivo
+
+1329
+00:59:59,839 --> 01:00:03,640
+continuado assim porque eles perderam a
+
+1330
+01:00:01,839 --> 01:00:05,880
+conexão me lembra essa história da
+
+1331
+01:00:03,640 --> 01:00:07,760
+senhora que você contou que os os netos
+
+1332
+01:00:05,880 --> 01:00:11,119
+todos viajaram e eles não entendem mais
+
+1333
+01:00:07,760 --> 01:00:14,559
+nada do legado de onde eles vêm né então
+
+1334
+01:00:11,119 --> 01:00:16,920
+oente pode vir como uma uma intervenção
+
+1335
+01:00:14,559 --> 01:00:19,520
+para ajudar a comunidade a refletir
+
+1336
+01:00:16,920 --> 01:00:22,119
+sobre esses valores perdidos e retomar
+
+1337
+01:00:19,520 --> 01:00:23,920
+Talvez esteja sendo muito eh de fora
+
+1338
+01:00:22,119 --> 01:00:26,319
+para dentro né apontando Ah esse valor
+
+1339
+01:00:23,920 --> 01:00:29,319
+foi perdido retoma e eles não não tem
+
+1340
+01:00:26,319 --> 01:00:31,839
+eles mesmos não tem interesse nenhum mas
+
+1341
+01:00:29,319 --> 01:00:35,160
+eh Isso muda para
+
+1342
+01:00:31,839 --> 01:00:36,720
+mim expande bastante o que a gente vinha
+
+1343
+01:00:35,160 --> 01:00:40,000
+discutindo até aqui
+
+1344
+01:00:36,720 --> 01:00:42,640
+é eu eu eu acho que tem uma coisa de
+
+1345
+01:00:40,000 --> 01:00:45,960
+semente que é talvez
+
+1346
+01:00:42,640 --> 01:00:48,119
+mais ferramental numa C num certa medida
+
+1347
+01:00:45,960 --> 01:00:50,640
+assim maneira de visualizar eh
+
+1348
+01:00:48,119 --> 01:00:53,760
+mecanismos que não necessariamente cabem
+
+1349
+01:00:50,640 --> 01:00:55,559
+na no vocabulário visual de projeto e eu
+
+1350
+01:00:53,760 --> 01:00:57,280
+acho que esse teu exemplo de Ouro Preto
+
+1351
+01:00:55,559 --> 01:00:59,720
+ele é muito M muito interessante em
+
+1352
+01:00:57,280 --> 01:01:04,200
+vários sentidos
+
+1353
+01:00:59,720 --> 01:01:07,119
+eh Essa visão sistêmica que porque falou
+
+1354
+01:01:04,200 --> 01:01:11,440
+ah não não se trata de
+
+1355
+01:01:07,119 --> 01:01:14,839
+de somente trazer a capacidade de uma
+
+1356
+01:01:11,440 --> 01:01:16,119
+família comercializar mas também eh o
+
+1357
+01:01:14,839 --> 01:01:18,000
+que eu acho interessante é que não se
+
+1358
+01:01:16,119 --> 01:01:22,400
+trata do que eu vejo muitas vezes em
+
+1359
+01:01:18,000 --> 01:01:24,760
+projetos de ditos de impacto que é de
+
+1360
+01:01:22,400 --> 01:01:27,039
+evitar comercialização de Pensar só nas
+
+1361
+01:01:24,760 --> 01:01:28,920
+lógicas da Comunidade sem ser
+
+1362
+01:01:27,039 --> 01:01:30,119
+contaminado por questões comerciais acho
+
+1363
+01:01:28,920 --> 01:01:33,880
+que a gente consegue encontrar um meio
+
+1364
+01:01:30,119 --> 01:01:36,839
+de campo aí que abre espaço para essa
+
+1365
+01:01:33,880 --> 01:01:38,559
+lógica comercial só que não confunde ela
+
+1366
+01:01:36,839 --> 01:01:41,400
+com o próprio objetivo da comunidade Ou
+
+1367
+01:01:38,559 --> 01:01:43,760
+seja a gente fala vocabulário do do
+
+1368
+01:01:41,400 --> 01:01:46,160
+Sucesso comercial mas a gente sabe que
+
+1369
+01:01:43,760 --> 01:01:48,680
+na verdade as lógicas que fazem bem pra
+
+1370
+01:01:46,160 --> 01:01:51,760
+comunidade muitas vezes vão muito além
+
+1371
+01:01:48,680 --> 01:01:54,480
+disso e e eu acho que tem um outro
+
+1372
+01:01:51,760 --> 01:01:57,000
+elemento aí que é a coisa da pirâmide
+
+1373
+01:01:54,480 --> 01:01:59,559
+que
+
+1374
+01:01:57,000 --> 01:02:02,119
+muitas vezes a gente vê projetos por
+
+1375
+01:01:59,559 --> 01:02:05,119
+exemplo em em países em desenvolvimento
+
+1376
+01:02:02,119 --> 01:02:07,319
+de pessoas que tão ali ou em ONGs ou em
+
+1377
+01:02:05,119 --> 01:02:10,079
+escolas ou em bibliotecas que falam Ah
+
+1378
+01:02:07,319 --> 01:02:13,039
+agora a gente quer comprar uma
+
+1379
+01:02:10,079 --> 01:02:14,839
+impressora 3D por conta é o efeito
+
+1380
+01:02:13,039 --> 01:02:16,319
+pirâmide nesse sentido aí que assim vem
+
+1381
+01:02:14,839 --> 01:02:17,839
+um elemento de Fora que diz para eles
+
+1382
+01:02:16,319 --> 01:02:21,599
+que o futuro a impressora
+
+1383
+01:02:17,839 --> 01:02:23,279
+3D e usualmente um projeto comunitário
+
+1384
+01:02:21,599 --> 01:02:25,160
+vai ter uma tensão que assim se a gente
+
+1385
+01:02:23,279 --> 01:02:26,640
+tá já operando umaa lógica comunitária
+
+1386
+01:02:25,160 --> 01:02:28,839
+usual
+
+1387
+01:02:26,640 --> 01:02:31,240
+de mecanismos de desenvolvimento ou vão
+
+1388
+01:02:28,839 --> 01:02:33,079
+dizer Ah legal Vamos fazer um processo
+
+1389
+01:02:31,240 --> 01:02:34,640
+de formação de inovação e vamos criar
+
+1390
+01:02:33,079 --> 01:02:36,200
+uma economia da Inovação local que
+
+1391
+01:02:34,640 --> 01:02:38,440
+muitas vezes é mentira porque não tem
+
+1392
+01:02:36,200 --> 01:02:40,240
+demanda para isso Ou vão dizer não não
+
+1393
+01:02:38,440 --> 01:02:41,880
+cabe dentro dos nossos objetivos não
+
+1394
+01:02:40,240 --> 01:02:43,920
+cabe colocar um impressor TZ porque isso
+
+1395
+01:02:41,880 --> 01:02:47,480
+não faz sentido eu acho que com semente
+
+1396
+01:02:43,920 --> 01:02:49,200
+a gente consegue pegar e a gente e e só
+
+1397
+01:02:47,480 --> 01:02:51,119
+uma coisa que pensando no nosso ciclo
+
+1398
+01:02:49,200 --> 01:02:52,880
+ali visualização de espiral a gente não
+
+1399
+01:02:51,119 --> 01:02:54,559
+precisa começar do começo a gente pode
+
+1400
+01:02:52,880 --> 01:02:57,119
+começar do fim e ir completando de trás
+
+1401
+01:02:54,559 --> 01:03:01,799
+para frente e falar olha o o fruto
+
+1402
+01:02:57,119 --> 01:03:05,279
+é tem um um relatório um um uma um post
+
+1403
+01:03:01,799 --> 01:03:08,960
+de blog no site da da ONG local dizendo
+
+1404
+01:03:05,279 --> 01:03:10,520
+que comprou uma impressora 3D mas existe
+
+1405
+01:03:08,960 --> 01:03:13,680
+um monte de processos dinâmicos
+
+1406
+01:03:10,520 --> 01:03:16,319
+coletivos ali que podem ser eh criados
+
+1407
+01:03:13,680 --> 01:03:19,200
+por exemplo relação com artesãos locais
+
+1408
+01:03:16,319 --> 01:03:20,720
+relação com projeto com sei lá com eh
+
+1409
+01:03:19,200 --> 01:03:22,680
+pessoas que consertam coisas na
+
+1410
+01:03:20,720 --> 01:03:25,839
+comunidade Então tem um monte de coisas
+
+1411
+01:03:22,680 --> 01:03:28,920
+que diretamente dentro de uma lógica de
+
+1412
+01:03:25,839 --> 01:03:31,200
+se afiliar a a essa coisa Ah vamos per
+
+1413
+01:03:28,920 --> 01:03:32,680
+3D não vai ter conversa com artesão não
+
+1414
+01:03:31,200 --> 01:03:34,720
+vai ter conversa mas a gente sabe que
+
+1415
+01:03:32,680 --> 01:03:36,319
+dentro daquela comunidade aquilo faz
+
+1416
+01:03:34,720 --> 01:03:38,839
+sentido então a gente começa do fim
+
+1417
+01:03:36,319 --> 01:03:40,720
+começa do fim não começa porque o fim é
+
+1418
+01:03:38,839 --> 01:03:42,680
+é o Retorno assim mesmo então a gente
+
+1419
+01:03:40,720 --> 01:03:45,200
+começa dos frutos e vai decompondo a
+
+1420
+01:03:42,680 --> 01:03:47,119
+partir dali que é o que que a gente
+
+1421
+01:03:45,200 --> 01:03:49,119
+precisa para chegar naquilo lá mas como
+
+1422
+01:03:47,119 --> 01:03:51,640
+que a gente faz para aquele fruto também
+
+1423
+01:03:49,119 --> 01:03:53,520
+regenerar coisas pra própria PR pr pra
+
+1424
+01:03:51,640 --> 01:03:56,920
+comunidade em si sa Então a gente tem
+
+1425
+01:03:53,520 --> 01:03:59,680
+essa esse deslocamento e a de saber Olha
+
+1426
+01:03:56,920 --> 01:04:02,119
+tem coisa que ah tem financiador pagando
+
+1427
+01:03:59,680 --> 01:04:03,520
+o projeto de impressor 3D legal mas não
+
+1428
+01:04:02,119 --> 01:04:05,920
+quer dizer que a comunidade tem que se
+
+1429
+01:04:03,520 --> 01:04:07,880
+orientar em torno disso é guardar as
+
+1430
+01:04:05,920 --> 01:04:09,960
+devidas proporções criar um cenário
+
+1431
+01:04:07,880 --> 01:04:12,880
+futuro ajuda muito a quem tá querendo
+
+1432
+01:04:09,960 --> 01:04:14,480
+investir desenhar não sei queê eh focar
+
+1433
+01:04:12,880 --> 01:04:17,359
+os esforços né o que que eles querem
+
+1434
+01:04:14,480 --> 01:04:19,599
+então esse esse blog post da impressora
+
+1435
+01:04:17,359 --> 01:04:21,520
+3D representa um pouco isso né tipo uma
+
+1436
+01:04:19,599 --> 01:04:23,119
+Projeção de futuro aonde a gente
+
+1437
+01:04:21,520 --> 01:04:25,839
+gostaria de estar o que que aquilo vai
+
+1438
+01:04:23,119 --> 01:04:28,400
+trazer E aí você vai voltar em quem mais
+
+1439
+01:04:25,839 --> 01:04:32,039
+a gente engaja eh dentro da comunidade e
+
+1440
+01:04:28,400 --> 01:04:34,079
+tal antes mesmo daquela daquela solução
+
+1441
+01:04:32,039 --> 01:04:36,000
+se é uma solução daquele artefato
+
+1442
+01:04:34,079 --> 01:04:39,319
+existir
+
+1443
+01:04:36,000 --> 01:04:39,319
+uhum boa
+
+1444
+01:04:41,520 --> 01:04:46,240
+eh eu acho que a gente tá meio que
+
+1445
+01:04:43,839 --> 01:04:49,799
+esgotando a conversa por hoje eu ia
+
+1446
+01:04:46,240 --> 01:04:51,880
+trazer tava recapitulando aqui os meus
+
+1447
+01:04:49,799 --> 01:04:55,039
+fala se você tem o que falar
+
+1448
+01:04:51,880 --> 01:04:57,000
+fala quem não eu acho que eu eu não
+
+1449
+01:04:55,039 --> 01:04:59,520
+tenho mais para falar hoje eu tinha um
+
+1450
+01:04:57,000 --> 01:05:01,000
+exemplo de um projeto mas eu já tô eu
+
+1451
+01:04:59,520 --> 01:05:02,599
+acho que eu eu esgotei eu preciso
+
+1452
+01:05:01,000 --> 01:05:06,520
+refletir mais antes de voltar a pensar
+
+1453
+01:05:02,599 --> 01:05:09,000
+nesse meu projeto eh para mim num num
+
+1454
+01:05:06,520 --> 01:05:12,440
+numa recapitalização rápida aqui a gente
+
+1455
+01:05:09,000 --> 01:05:16,880
+tem eh essa definição de comunidade
+
+1456
+01:05:12,440 --> 01:05:18,400
+passa a ser mais latente do que já foi
+
+1457
+01:05:16,880 --> 01:05:20,640
+dentro do projeto que a gente conversou
+
+1458
+01:05:18,400 --> 01:05:22,400
+lá eh eu acho que a gente tinha que
+
+1459
+01:05:20,640 --> 01:05:25,799
+trazer isso muito mais amarrado que que
+
+1460
+01:05:22,400 --> 01:05:27,760
+é comunidade que que é sentro comum eh
+
+1461
+01:05:25,799 --> 01:05:29,760
+porque tem o lado negro da força que é
+
+1462
+01:05:27,760 --> 01:05:31,720
+cercear o outro né A partir do momento
+
+1463
+01:05:29,760 --> 01:05:34,839
+que eu crio essa comuna
+
+1464
+01:05:31,720 --> 01:05:35,799
+eh ficou muito claro a ideia de que dos
+
+1465
+01:05:34,839 --> 01:05:38,319
+círculos
+
+1466
+01:05:35,799 --> 01:05:41,520
+eh continuamente evoluindo né que é a
+
+1467
+01:05:38,319 --> 01:05:45,920
+sua ideia da da espiral
+
+1468
+01:05:41,520 --> 01:05:48,400
+o o manejo é é muito claro isso é uma
+
+1469
+01:05:45,920 --> 01:05:50,599
+ação tangível que a comunidade faz para
+
+1470
+01:05:48,400 --> 01:05:53,039
+poder executar alguma coisa e aquilo vai
+
+1471
+01:05:50,599 --> 01:05:55,640
+mudar o tempo todo como a gente aprendeu
+
+1472
+01:05:53,039 --> 01:05:58,599
+nas sessões que a gente facilitou antes
+
+1473
+01:05:55,640 --> 01:06:00,559
+manejo era o ponto mais fácil para
+
+1474
+01:05:58,599 --> 01:06:03,599
+qualquer participante independente do
+
+1475
+01:06:00,559 --> 01:06:06,039
+grau de de escolaridade ou literalidade
+
+1476
+01:06:03,599 --> 01:06:07,640
+eh articular você pede para contar a
+
+1477
+01:06:06,039 --> 01:06:10,000
+história de como é que eles fizeram isso
+
+1478
+01:06:07,640 --> 01:06:11,839
+acontecer todo mundo tem um caso para
+
+1479
+01:06:10,000 --> 01:06:15,240
+contar do que que foi feito e quem que
+
+1480
+01:06:11,839 --> 01:06:16,520
+foi chamou o Joaquim chamou a Maria e
+
+1481
+01:06:15,240 --> 01:06:20,400
+por aí vai
+
+1482
+01:06:16,520 --> 01:06:23,000
+eh discutindo diria que eu diria que
+
+1483
+01:06:20,400 --> 01:06:27,119
+descrever o como é mais fácil do que
+
+1484
+01:06:23,000 --> 01:06:29,119
+descrever o porqu e o o qu
+
+1485
+01:06:27,119 --> 01:06:31,039
+tentando pela experiência que a gente
+
+1486
+01:06:29,119 --> 01:06:33,640
+teve das oito pessoas que a gente
+
+1487
+01:06:31,039 --> 01:06:36,640
+facilitou a primeira versão do nosso
+
+1488
+01:06:33,640 --> 01:06:40,119
+tabuleiro todas as vezes que a conversa
+
+1489
+01:06:36,640 --> 01:06:42,240
+dava morria um pouco você começava a
+
+1490
+01:06:40,119 --> 01:06:45,279
+provocar a conversa sobre Mas como você
+
+1491
+01:06:42,240 --> 01:06:47,599
+fez isso Onde você transfere aquele
+
+1492
+01:06:45,279 --> 01:06:50,000
+aquele participante para um lugar de de
+
+1493
+01:06:47,599 --> 01:06:53,200
+de especialista mesmo de contar história
+
+1494
+01:06:50,000 --> 01:06:56,200
+e tal e ter orgulho do que fez e isso
+
+1495
+01:06:53,200 --> 01:06:57,960
+funcionava muito mais do que Tá mas o
+
+1496
+01:06:56,200 --> 01:07:01,160
+que que você quer fazer com isso aonde
+
+1497
+01:06:57,960 --> 01:07:03,720
+você quer chegar com isso essas ess é
+
+1498
+01:07:01,160 --> 01:07:05,640
+isso fica muito mais abstrato o
+
+1499
+01:07:03,720 --> 01:07:07,440
+exercício do porquê é muito mais difícil
+
+1500
+01:07:05,640 --> 01:07:09,799
+para trazer uma lógica de projeto com
+
+1501
+01:07:07,440 --> 01:07:12,559
+quem não tá habituado né que é
+
+1502
+01:07:09,799 --> 01:07:14,200
+justificar Por que um organismo de Fora
+
+1503
+01:07:12,559 --> 01:07:17,000
+que eventualmente pode trazer recursos
+
+1504
+01:07:14,200 --> 01:07:18,440
+vai ver esse teu projeto como relevante
+
+1505
+01:07:17,000 --> 01:07:19,920
+é muito mais difícil do que a pessoa
+
+1506
+01:07:18,440 --> 01:07:21,960
+descrever o que que ela quer fazer o que
+
+1507
+01:07:19,920 --> 01:07:23,720
+que ela faz e o que ela faz
+
+1508
+01:07:21,960 --> 01:07:26,119
+principalmente a coisa com a mão na
+
+1509
+01:07:23,720 --> 01:07:29,119
+massa ali da Praxis isso falou al em
+
+1510
+01:07:26,119 --> 01:07:31,760
+todas as as eh
+
+1511
+01:07:29,119 --> 01:07:34,559
+diferentes núcleos que a gente conversou
+
+1512
+01:07:31,760 --> 01:07:36,839
+na primeira iteração deixa só trazer
+
+1513
+01:07:34,559 --> 01:07:39,079
+mais uma só só mais uma coisa do do do
+
+1514
+01:07:36,839 --> 01:07:42,200
+Escobar aqui que ele fala que cada toda
+
+1515
+01:07:39,079 --> 01:07:45,200
+atividade designer precisa precisa
+
+1516
+01:07:42,200 --> 01:07:48,200
+partir do pressuposto de que as pessoas
+
+1517
+01:07:45,200 --> 01:07:51,119
+são os practitioners são os praticantes
+
+1518
+01:07:48,200 --> 01:07:54,079
+do seu próprio conhecimento eh eu acho
+
+1519
+01:07:51,119 --> 01:07:56,559
+que isso é é é eu eu não conheci o livro
+
+1520
+01:07:54,079 --> 01:07:58,839
+né do Escobar eu comecei recentemente a
+
+1521
+01:07:56,559 --> 01:08:01,880
+ler e eu acho que ele tem vários
+
+1522
+01:07:58,839 --> 01:08:03,680
+princípios de interação e atividade eh
+
+1523
+01:08:01,880 --> 01:08:07,559
+dentro do que a gente quer construir que
+
+1524
+01:08:03,680 --> 01:08:11,359
+é muito traduzível pro que a gente tá
+
+1525
+01:08:07,559 --> 01:08:11,359
+tentando construir com semente
+
+1526
+01:08:11,960 --> 01:08:17,040
+sim aí eu gostei do que você falou por
+
+1527
+01:08:14,520 --> 01:08:19,480
+exemplo a partir do Semente nesse
+
+1528
+01:08:17,040 --> 01:08:22,359
+amadurecimento regenerativo tem também
+
+1529
+01:08:19,480 --> 01:08:25,679
+uma um entendimento coletivo do que se
+
+1530
+01:08:22,359 --> 01:08:27,759
+guarda e do que se eh do que leva né
+
+1531
+01:08:25,679 --> 01:08:32,040
+para outro lugar tipo a ideia de
+
+1532
+01:08:27,759 --> 01:08:34,400
+produzir e aí Re inserir no sistema ou
+
+1533
+01:08:32,040 --> 01:08:35,920
+levar isso para outro lugar eu achei que
+
+1534
+01:08:34,400 --> 01:08:37,640
+tiveram vários pontos aí bem importantes
+
+1535
+01:08:35,920 --> 01:08:40,239
+eh que para mim de novo é um
+
+1536
+01:08:37,640 --> 01:08:42,480
+amadurecimento uma um crescimento em
+
+1537
+01:08:40,239 --> 01:08:45,359
+cima do que a gente fez antes
+
+1538
+01:08:42,480 --> 01:08:48,199
+assim tô só recapitulando ass tô tem um
+
+1539
+01:08:45,359 --> 01:08:50,520
+monte de desenho aqui na é não para mim
+
+1540
+01:08:48,199 --> 01:08:52,440
+é para mim é foi interessante também e
+
+1541
+01:08:50,520 --> 01:08:53,719
+eu tô como eu falei antes da gente
+
+1542
+01:08:52,440 --> 01:08:56,759
+começar a gravar eu tô escrevendo um
+
+1543
+01:08:53,719 --> 01:08:59,199
+texto vou ver se compartilho com vocês
+
+1544
+01:08:56,759 --> 01:09:01,080
+logo mais e a gente publica também
+
+1545
+01:08:59,199 --> 01:09:02,920
+porque eu acho que tem algumas dessas
+
+1546
+01:09:01,080 --> 01:09:05,560
+coisas de O que que a gente entende por
+
+1547
+01:09:02,920 --> 01:09:06,960
+comunidade e no que que essa construção
+
+1548
+01:09:05,560 --> 01:09:11,600
+que a gente tem feito aí nesses últimos
+
+1549
+01:09:06,960 --> 01:09:15,520
+anos já tem de diferente de Visões mais
+
+1550
+01:09:11,600 --> 01:09:15,520
+superficiais de comunidade vamos falar
+
+1551
+01:09:16,040 --> 01:09:22,880
+assim últimas palavras se alguém tá
+
+1552
+01:09:19,400 --> 01:09:26,120
+Ainda escutando né você falou
+
+1553
+01:09:22,880 --> 01:09:27,880
+que ia falar depois sobre o 20 é
+
+1554
+01:09:26,120 --> 01:09:31,040
+importante que
+
+1555
+01:09:27,880 --> 01:09:34,520
+amanhã amanhã enfim dia da consciência
+
+1556
+01:09:31,040 --> 01:09:37,960
+negra dia de zumbi e dia da despedida do
+
+1557
+01:09:34,520 --> 01:09:40,560
+planeta do nosso querido Daniel Pado M
+
+1558
+01:09:37,960 --> 01:09:44,279
+terão se completado 15 anos desde que
+
+1559
+01:09:40,560 --> 01:09:45,880
+ele partiu desse planeta mas é isso
+
+1560
+01:09:44,279 --> 01:09:48,799
+continua por aqui também dentro dos
+
+1561
+01:09:45,880 --> 01:09:52,679
+nossos bancos de sementes
+
+1562
+01:09:48,799 --> 01:09:56,040
+né é isso acho que continua né que aí é
+
+1563
+01:09:52,679 --> 01:09:58,360
+essa importância e eu acho que não é a
+
+1564
+01:09:56,040 --> 01:10:01,320
+importância Talvez seja a epifania de
+
+1565
+01:09:58,360 --> 01:10:04,400
+entender essa bolsa de semente que as
+
+1566
+01:10:01,320 --> 01:10:05,239
+coisas continuam né e é como a gente
+
+1567
+01:10:04,400 --> 01:10:08,520
+continua
+
+1568
+01:10:05,239 --> 01:10:10,760
+isso né não se perde
+
+1569
+01:10:08,520 --> 01:10:14,560
+assim patrimônio compartilhado
+
+1570
+01:10:10,760 --> 01:10:18,360
+patrimônio social compartilhado mas bom
+
+1571
+01:10:14,560 --> 01:10:21,360
+É acho que é eu não tenho mais
+
+1572
+01:10:18,360 --> 01:10:23,320
+nada informação muita informação é eu
+
+1573
+01:10:21,360 --> 01:10:26,280
+tenho uma última pergunta prática temos
+
+1574
+01:10:23,320 --> 01:10:28,280
+uma reunião com o semente
+
+1575
+01:10:26,280 --> 01:10:30,679
+acho que a gente pode parar de gravar
+
+1576
+01:10:28,280 --> 01:10:32,679
+Talvez isso depois a gente falar de
+
+1577
+01:10:30,679 --> 01:10:35,159
+agenda Pera aí só me despedir se alguém
+
+1578
+01:10:32,679 --> 01:10:36,840
+ouviu essa gravação até agora Parabéns
+
+1579
+01:10:35,159 --> 01:10:40,440
+foi uma gravação bem longa
+
+1580
+01:10:36,840 --> 01:10:44,000
+eh se é algum robô não tem parabéns para
+
+1581
+01:10:40,440 --> 01:10:47,239
+robô parab Parabéns robozinhos
+
+1582
+01:10:44,000 --> 01:10:50,280
+eh e é isso a gente segue desenvolvendo
+
+1583
+01:10:47,239 --> 01:10:51,960
+semente Sigam a gente aí no site ou fala
+
+1584
+01:10:50,280 --> 01:10:55,600
+com um de nós três ou com os três ao
+
+1585
+01:10:51,960 --> 01:10:58,960
+mesmo tempo se for de interesse valeu
+
+1586
+01:10:55,600 --> 01:10:58,960
+Valeu gente
+

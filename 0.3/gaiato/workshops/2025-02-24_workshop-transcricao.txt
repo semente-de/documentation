@@ -1,0 +1,5972 @@
+1
+00:00:02,399 --> 00:00:07,799
+bom eh bom dia no horário daqui eh do
+
+2
+00:00:05,960 --> 00:00:10,840
+Trópico de Capricórnio onde eu tô agora
+
+3
+00:00:07,799 --> 00:00:14,519
+em Ubatuba Essa reunião que a gente tá
+
+4
+00:00:10,840 --> 00:00:18,080
+gravando agora é a última sessão do
+
+5
+00:00:14,519 --> 00:00:20,039
+projeto atual que teve como componente
+
+6
+00:00:18,080 --> 00:00:22,680
+presencial uma residência aqui em
+
+7
+00:00:20,039 --> 00:00:25,119
+Ubatuba na sede do Gaiato uma
+
+8
+00:00:22,680 --> 00:00:27,519
+organização eh daqui A gente conta um
+
+9
+00:00:25,119 --> 00:00:29,679
+pouco isso no resto da documentação E a
+
+10
+00:00:27,519 --> 00:00:31,880
+ideia dessa sessão de hoje é falar sobre
+
+11
+00:00:29,679 --> 00:00:34,399
+como foi o processo de construção da
+
+12
+00:00:31,880 --> 00:00:36,000
+identidade do projeto Semente e algumas
+
+13
+00:00:34,399 --> 00:00:38,399
+coisas pelas quais a gente passou
+
+14
+00:00:36,000 --> 00:00:41,920
+durante o caminho
+
+15
+00:00:38,399 --> 00:00:44,719
+eh foi uma fase foi na verdade um
+
+16
+00:00:41,920 --> 00:00:49,440
+projeto que surgiu a partir de outras
+
+17
+00:00:44,719 --> 00:00:52,399
+interações eh anteriores entre algumas
+
+18
+00:00:49,440 --> 00:00:56,840
+pessoas e grupos organizações no Brasil
+
+19
+00:00:52,399 --> 00:01:00,079
+e eh o interesse manifesto na na pela
+
+20
+00:00:56,840 --> 00:01:01,920
+Universidade de Bristol para fazer uma
+
+21
+00:01:00,079 --> 00:01:07,240
+série de interações que tinham a ver com
+
+22
+00:01:01,920 --> 00:01:09,520
+comunicação hã letramento tecnologias e
+
+23
+00:01:07,240 --> 00:01:13,159
+resistência no Brasil Então a gente
+
+24
+00:01:09,520 --> 00:01:16,080
+começou em 2021 com o estudo ID21 que
+
+25
+00:01:13,159 --> 00:01:18,960
+tratava de inclusão digital comunitária
+
+26
+00:01:16,080 --> 00:01:23,079
+E nesse estudo a gente entendeu
+
+27
+00:01:18,960 --> 00:01:27,400
+que eh fazia falta ou um dos elementos
+
+28
+00:01:23,079 --> 00:01:28,560
+principais que que que tinha acontecido
+
+29
+00:01:27,400 --> 00:01:30,320
+uma das transformações que tinha
+
+30
+00:01:28,560 --> 00:01:33,000
+acontecido negativamente no Brasil era a
+
+31
+00:01:30,320 --> 00:01:35,079
+falta de políticas públicas digitais
+
+32
+00:01:33,000 --> 00:01:36,399
+comunitárias
+
+33
+00:01:35,079 --> 00:01:38,159
+E aí a partir daí a gente começou a
+
+34
+00:01:36,399 --> 00:01:40,560
+desenvolver outros projetos Um deles foi
+
+35
+00:01:38,159 --> 00:01:43,840
+o Fontewick que é um repositório online
+
+36
+00:01:40,560 --> 00:01:46,479
+de eh de recursos educacionais abertos
+
+37
+00:01:43,840 --> 00:01:49,000
+sobre políticas digitais E depois disso
+
+38
+00:01:46,479 --> 00:01:52,399
+a gente sentiu que fazia sentido criar
+
+39
+00:01:49,000 --> 00:01:55,840
+uma ferramenta para entender lógicas de
+
+40
+00:01:52,399 --> 00:01:58,119
+projetos comunitários e eh aprimorar
+
+41
+00:01:55,840 --> 00:02:00,680
+esses projetos se fosse criar projetos
+
+42
+00:01:58,119 --> 00:02:03,520
+novos desculpem acabei de serpicado por
+
+43
+00:02:00,680 --> 00:02:06,560
+mosquito eh fosse criar projetos novos
+
+44
+00:02:03,520 --> 00:02:09,080
+fosse pegar projetos de comunidades e
+
+45
+00:02:06,560 --> 00:02:12,080
+aprimorar no sentido de visualização
+
+46
+00:02:09,080 --> 00:02:14,239
+dinâmicas e propostas para adensar as
+
+47
+00:02:12,080 --> 00:02:16,840
+lógicas comunitárias
+
+48
+00:02:14,239 --> 00:02:18,680
+E o nome que se deu a esse projeto a
+
+49
+00:02:16,840 --> 00:02:20,959
+gente estava nessa interação entre
+
+50
+00:02:18,680 --> 00:02:23,160
+Instituto Nels Universidade de Bristol e
+
+51
+00:02:20,959 --> 00:02:25,760
+pessoas que fazem parte desses contextos
+
+52
+00:02:23,160 --> 00:02:27,760
+de inclusão digital eh políticas
+
+53
+00:02:25,760 --> 00:02:30,160
+digitais no Brasil
+
+54
+00:02:27,760 --> 00:02:32,080
+E o nome que se deu a esse projeto foi
+
+55
+00:02:30,160 --> 00:02:34,360
+Semente porque a gente justamente via
+
+56
+00:02:32,080 --> 00:02:37,120
+que existia a possibilidade de regenerar
+
+57
+00:02:34,360 --> 00:02:39,040
+de começar novas fases de construção de
+
+58
+00:02:37,120 --> 00:02:41,000
+projetos de políticas digitais
+
+59
+00:02:39,040 --> 00:02:43,319
+comunitárias no Brasil Mas era
+
+60
+00:02:41,000 --> 00:02:46,840
+interessante começar a pensar em como
+
+61
+00:02:43,319 --> 00:02:48,640
+esses projetos seriam acho que no
+
+62
+00:02:46,840 --> 00:02:51,560
+vocabulário ar hoje em dia seriam
+
+63
+00:02:48,640 --> 00:02:53,080
+semeados Tem um texto que eu escrevi na
+
+64
+00:02:51,560 --> 00:02:54,959
+época
+
+65
+00:02:53,080 --> 00:02:56,840
+sementes do reforçamento digital que
+
+66
+00:02:54,959 --> 00:02:59,120
+conta um pouco disso Depois o texto até
+
+67
+00:02:56,840 --> 00:03:01,000
+evoluiu e a versão em inglês tá um pouco
+
+68
+00:02:59,120 --> 00:03:03,879
+mais atual Seeds of Digital
+
+69
+00:03:01,000 --> 00:03:07,480
+Reforestation que tá publicado no livro
+
+70
+00:03:03,879 --> 00:03:09,560
+Distributor Design 2 ou Driving Design 2
+
+71
+00:03:07,480 --> 00:03:12,560
+Eh mas a ideia da conversa de hoje é
+
+72
+00:03:09,560 --> 00:03:13,840
+falar é dar alguns passos atrás Eh nesse
+
+73
+00:03:12,560 --> 00:03:17,879
+momento agora que a gente tá a gente tá
+
+74
+00:03:13,840 --> 00:03:20,760
+criando uma versão nova do tabuleiro do
+
+75
+00:03:17,879 --> 00:03:22,640
+jogo do método semente mas a gente hoje
+
+76
+00:03:20,760 --> 00:03:24,920
+tá dando alguns passos atrás para voltar
+
+77
+00:03:22,640 --> 00:03:27,519
+no processo de criação da identidade que
+
+78
+00:03:24,920 --> 00:03:29,400
+mostra um pouco das dos valores que a
+
+79
+00:03:27,519 --> 00:03:30,840
+gente estava vendo das dinâmicas ou das
+
+80
+00:03:29,400 --> 00:03:33,280
+coisas que a gente acha importantes no
+
+81
+00:03:30,840 --> 00:03:35,879
+semente Então a gente tá aqui hoje com o
+
+82
+00:03:33,280 --> 00:03:38,519
+Bernardo que é que foi na verdade o
+
+83
+00:03:35,879 --> 00:03:41,720
+designer responsável por toda a
+
+84
+00:03:38,519 --> 00:03:47,040
+concepção eh em parceria com o Instituto
+
+85
+00:03:41,720 --> 00:03:50,480
+Nels e comigo do do projeto Semente Eh a
+
+86
+00:03:47,040 --> 00:03:52,159
+Maira se se aproximou mais tarde mais
+
+87
+00:03:50,480 --> 00:03:55,120
+recentemente do projeto a gente tá
+
+88
+00:03:52,159 --> 00:03:57,920
+colaborando mais agora nessa nessa fase
+
+89
+00:03:55,120 --> 00:04:00,840
+atual da residência do
+
+90
+00:03:57,920 --> 00:04:03,000
+sementi meu nome é Felipe Fonseca e tô
+
+91
+00:04:00,840 --> 00:04:04,879
+há mais de duas décadas operando aí
+
+92
+00:04:03,000 --> 00:04:08,519
+nesses limites entre cultura tecnologia
+
+93
+00:04:04,879 --> 00:04:10,760
+ciência e sociedade Eh eu vou passar a
+
+94
+00:04:08,519 --> 00:04:12,720
+palavra agora pro Bernardo Ele vai fazer
+
+95
+00:04:10,760 --> 00:04:15,040
+essa apresentação do processo de
+
+96
+00:04:12,720 --> 00:04:16,320
+construção da identidade de semente Pode
+
+97
+00:04:15,040 --> 00:04:18,239
+complementar se eu esqueci de falar
+
+98
+00:04:16,320 --> 00:04:20,519
+alguma coisa também E depois a Mara
+
+99
+00:04:18,239 --> 00:04:22,479
+também vai puxar um pouco a conversa no
+
+100
+00:04:20,519 --> 00:04:24,440
+sentido de como a gente documenta
+
+101
+00:04:22,479 --> 00:04:26,919
+identidades dinâmicas como que a gente
+
+102
+00:04:24,440 --> 00:04:29,160
+faz para compartilhar e para construir
+
+103
+00:04:26,919 --> 00:04:32,800
+essa ideia de identidade de marca em
+
+104
+00:04:29,160 --> 00:04:34,639
+tempos eh que são diferentes de quando a
+
+105
+00:04:32,800 --> 00:04:38,280
+gente aprendeu um pouco mais sobre
+
+106
+00:04:34,639 --> 00:04:41,280
+design marca eh assim quem tava já nesse
+
+107
+00:04:38,280 --> 00:04:42,759
+caminho no fim do século passado Eu acho
+
+108
+00:04:41,280 --> 00:04:45,280
+que é isso Não sei se tem mais algo
+
+109
+00:04:42,759 --> 00:04:47,080
+paraa gente falar agora mas já passo a
+
+110
+00:04:45,280 --> 00:04:48,560
+palavra pro Bernardo mas se quiserem
+
+111
+00:04:47,080 --> 00:04:51,039
+fazer algum comentário Mária Bernardo
+
+112
+00:04:48,560 --> 00:04:53,199
+nesse momento daí podem fazer
+
+113
+00:04:51,039 --> 00:04:56,520
+Obrigado Tenho nada para acrescentar não
+
+114
+00:04:53,199 --> 00:04:59,440
+já foi uma introdução bem completa Eh
+
+115
+00:04:56,520 --> 00:05:02,039
+obrigado
+
+116
+00:04:59,440 --> 00:05:06,120
+Eh Mária você quer comentar alguma coisa
+
+117
+00:05:02,039 --> 00:05:09,639
+antes que eu comece Eu acho que eu posso
+
+118
+00:05:06,120 --> 00:05:12,400
+fazer uma breve introdução porque Felipe
+
+119
+00:05:09,639 --> 00:05:16,120
+eh Felipe disse que ele tá trabalhando
+
+120
+00:05:12,400 --> 00:05:21,240
+nisso há mais de duas décadas né Eu tô
+
+121
+00:05:16,120 --> 00:05:23,120
+nesses processos desde 2009 2008
+
+122
+00:05:21,240 --> 00:05:28,919
+2009
+
+123
+00:05:23,120 --> 00:05:31,360
+e acho que até 2015 e 2016 eu eh
+
+124
+00:05:28,919 --> 00:05:33,680
+participei de muitos desses processos
+
+125
+00:05:31,360 --> 00:05:38,520
+nessa intersecção de arte tecnologia
+
+126
+00:05:33,680 --> 00:05:41,880
+inovação meio ambiente mas eu não tinha
+
+127
+00:05:38,520 --> 00:05:45,000
+eh uma uma bagagem eu acho que
+
+128
+00:05:41,880 --> 00:05:48,919
+ferramentas insumos eh especificamente
+
+129
+00:05:45,000 --> 00:05:52,639
+relacionados à design Desde 2018 eh eu
+
+130
+00:05:48,919 --> 00:05:55,600
+passei a participar de forma eh mais pro
+
+131
+00:05:52,639 --> 00:05:59,120
+mercado e comercial de um estúdio que
+
+132
+00:05:55,600 --> 00:06:02,000
+era de eh design e depois agora ele é de
+
+133
+00:05:59,120 --> 00:06:05,360
+ilustração que chama Barca
+
+134
+00:06:02,000 --> 00:06:08,039
+E lá eu atuo como gerente de projetos
+
+135
+00:06:05,360 --> 00:06:13,240
+planejamento e eu aprendi muitas coisas
+
+136
+00:06:08,039 --> 00:06:16,840
+nesse processo inclusive e em trazer
+
+137
+00:06:13,240 --> 00:06:20,919
+eh essa essa intenção maior das pessoas
+
+138
+00:06:16,840 --> 00:06:24,440
+que colaboram e deixar eh os assets
+
+139
+00:06:20,919 --> 00:06:27,240
+livres e tudo mais Então eh hoje nessa
+
+140
+00:06:24,440 --> 00:06:30,120
+sessão pretendo compartilhar um pouco
+
+141
+00:06:27,240 --> 00:06:32,400
+disso que também pode servir para não só
+
+142
+00:06:30,120 --> 00:06:36,880
+para semente mas para quem escuta e
+
+143
+00:06:32,400 --> 00:06:36,880
+projetos de outras pessoas e coletivos
+
+144
+00:06:39,720 --> 00:06:46,520
+Tá joia Obrigado Maira Eh vocês
+
+145
+00:06:42,639 --> 00:06:46,520
+conseguem ver o arquivo
+
+146
+00:06:49,479 --> 00:06:53,520
+Mai Felipe vocês conseguem ver o arquivo
+
+147
+00:06:51,319 --> 00:06:55,280
+que eu tô colocando Ótimo obrigado pela
+
+148
+00:06:53,520 --> 00:06:56,759
+confirmação
+
+149
+00:06:55,280 --> 00:06:59,560
+Bom
+
+150
+00:06:56,759 --> 00:07:01,720
+eh meu nome é Bernardo como Felipe me
+
+151
+00:06:59,560 --> 00:07:05,160
+apresentou designer
+
+152
+00:07:01,720 --> 00:07:10,120
+eh trabalhando comercialmente já nos
+
+153
+00:07:05,160 --> 00:07:14,440
+últimos 25 anos ficando velho
+
+154
+00:07:10,120 --> 00:07:15,520
+e tive algumas incursões nesse espaço de
+
+155
+00:07:14,440 --> 00:07:17,240
+eh
+
+156
+00:07:15,520 --> 00:07:19,800
+trabalho
+
+157
+00:07:17,240 --> 00:07:21,840
+para um bem comum maior não
+
+158
+00:07:19,800 --> 00:07:25,039
+necessariamente a comercialização de
+
+159
+00:07:21,840 --> 00:07:27,400
+algum produto né de design a gente eu eu
+
+160
+00:07:25,039 --> 00:07:31,479
+tenho uma acredito muito no design como
+
+161
+00:07:27,400 --> 00:07:34,639
+uma ferramenta bem poderosa de modificar
+
+162
+00:07:31,479 --> 00:07:38,400
+realidades mas que vem sido abusada eh
+
+163
+00:07:34,639 --> 00:07:42,280
+usada e abusada só no universo eh
+
+164
+00:07:38,400 --> 00:07:44,599
+comercial né E eu gostaria já nessa épa
+
+165
+00:07:42,280 --> 00:07:46,440
+de usar essa força para trabalhos
+
+166
+00:07:44,599 --> 00:07:49,639
+sociais Acho que um tempão um interi de
+
+167
+00:07:46,440 --> 00:07:52,240
+uns bons anos sem avançar com nada
+
+168
+00:07:49,639 --> 00:07:55,919
+quando entrei em contato com o Felipe e
+
+169
+00:07:52,240 --> 00:07:57,960
+o projeto Sementes estava em andamento e
+
+170
+00:07:55,919 --> 00:08:01,120
+ele me explicou um pouco em linhas
+
+171
+00:07:57,960 --> 00:08:02,879
+gerais e eu tava ansioso para voltar a
+
+172
+00:08:01,120 --> 00:08:06,680
+usar a minha capacidade como designer
+
+173
+00:08:02,879 --> 00:08:08,960
+para atuar com projeto de impacto social
+
+174
+00:08:06,680 --> 00:08:10,960
+E a gente chegou nesse lugar assim o
+
+175
+00:08:08,960 --> 00:08:13,879
+semente tava ainda meio incipiente a
+
+176
+00:08:10,960 --> 00:08:17,680
+ideia de projeto de como avançar com
+
+177
+00:08:13,879 --> 00:08:19,199
+isso Eh eu interagi com o Instituto Nels
+
+178
+00:08:17,680 --> 00:08:21,639
+você vê aqui um pouco da marca do
+
+179
+00:08:19,199 --> 00:08:23,080
+Instituto Nels de onde que veio um dos
+
+180
+00:08:21,639 --> 00:08:25,120
+elementos que a gente chegou a explorar
+
+181
+00:08:23,080 --> 00:08:28,639
+de rotação e
+
+182
+00:08:25,120 --> 00:08:31,240
+giro Mas ficou muito claro já no começo
+
+183
+00:08:28,639 --> 00:08:36,000
+é que o que a gente queria comunicar é
+
+184
+00:08:31,240 --> 00:08:39,560
+uma uma deixar bem claro a ideia de
+
+185
+00:08:36,000 --> 00:08:41,919
+crescimento e nutrição e aí as metáforas
+
+186
+00:08:39,560 --> 00:08:46,080
+eh todas da do universo da
+
+187
+00:08:41,919 --> 00:08:49,839
+permacultura eh e da biologia do plantio
+
+188
+00:08:46,080 --> 00:08:51,680
+e cuidado vieram com muita força Então
+
+189
+00:08:49,839 --> 00:08:54,040
+aqui você vê por exemplo uma das
+
+190
+00:08:51,680 --> 00:08:57,839
+primeiras imagens já durante a conversa
+
+191
+00:08:54,040 --> 00:09:00,760
+que a gente encontrou que é essa esses
+
+192
+00:08:57,839 --> 00:09:04,680
+essas quatro fases aqui de
+
+193
+00:09:00,760 --> 00:09:08,240
+uma eh de uma semente em crescimento
+
+194
+00:09:04,680 --> 00:09:11,040
+E quando eu me deparei com isso ficou
+
+195
+00:09:08,240 --> 00:09:13,000
+muito claro que seja lá o que a gente
+
+196
+00:09:11,040 --> 00:09:14,440
+venha a desenvolver teria que ter
+
+197
+00:09:13,000 --> 00:09:15,880
+estágios porque a gente tá toda hora
+
+198
+00:09:14,440 --> 00:09:19,160
+discutindo dentro dos sementes a gente
+
+199
+00:09:15,880 --> 00:09:23,040
+tá discutindo estágios de crescimento de
+
+200
+00:09:19,160 --> 00:09:25,920
+maturação de nutrição e assim por diante
+
+201
+00:09:23,040 --> 00:09:28,880
+E dentro dessas investigações de coletar
+
+202
+00:09:25,920 --> 00:09:32,800
+eh imagens que pudessem representar a
+
+203
+00:09:28,880 --> 00:09:36,279
+intenção desse projeto a gente chegou eh
+
+204
+00:09:32,800 --> 00:09:38,240
+no Engá que sem entrar em muitos
+
+205
+00:09:36,279 --> 00:09:39,920
+detalhes técnicos o Engá é uma planta
+
+206
+00:09:38,240 --> 00:09:42,440
+muito muito utilizada aqui no Brasil
+
+207
+00:09:39,920 --> 00:09:43,959
+para revitalizar solos que estão
+
+208
+00:09:42,440 --> 00:09:47,399
+completamente
+
+209
+00:09:43,959 --> 00:09:48,680
+eh eh desprovidos de nenhum nutriente O
+
+210
+00:09:47,399 --> 00:09:50,560
+Ingai é uma força que tem uma
+
+211
+00:09:48,680 --> 00:09:53,360
+resistência forte é
+
+212
+00:09:50,560 --> 00:09:55,720
+plantada primeiro antes de começar
+
+213
+00:09:53,360 --> 00:09:57,279
+outros cultivos num projeto de água
+
+214
+00:09:55,720 --> 00:10:00,079
+floresta
+
+215
+00:09:57,279 --> 00:10:03,360
+E a gente achou que era um ótimo começo
+
+216
+00:10:00,079 --> 00:10:05,920
+investigar eh o ingá e elementos visuais
+
+217
+00:10:03,360 --> 00:10:09,480
+do ingá e como a gente poderia se
+
+218
+00:10:05,920 --> 00:10:11,720
+apropriar da força dessa semente para
+
+219
+00:10:09,480 --> 00:10:13,399
+dentro da comunicação do projeto Então
+
+220
+00:10:11,720 --> 00:10:18,920
+aqui você tem umas referências que eu
+
+221
+00:10:13,399 --> 00:10:18,920
+achei lá engá eh não dá muito para ler
+
+222
+00:10:18,959 --> 00:10:23,640
+dá
+
+223
+00:10:20,519 --> 00:10:27,000
+mirialia é um dos do das sementezinhas
+
+224
+00:10:23,640 --> 00:10:29,519
+aqui que é essa daqui da o número a
+
+225
+00:10:27,000 --> 00:10:33,399
+letra A E por aí foi Eu fui procurando
+
+226
+00:10:29,519 --> 00:10:37,480
+desenhos botânicos antigos eh do ingá da
+
+227
+00:10:33,399 --> 00:10:42,519
+semente Encontrei eh essa foto que era
+
+228
+00:10:37,480 --> 00:10:46,000
+um engá eh um broto de engá que a gente
+
+229
+00:10:42,519 --> 00:10:47,880
+achou interessante E voltando um pouco
+
+230
+00:10:46,000 --> 00:10:50,279
+no nessa ideia de crescimento desse
+
+231
+00:10:47,880 --> 00:10:51,880
+feijãozinho aqui que tem uma uma
+
+232
+00:10:50,279 --> 00:10:55,240
+representação muito mais gráfica do
+
+233
+00:10:51,880 --> 00:10:57,920
+crescimento da maturação da planta eh a
+
+234
+00:10:55,240 --> 00:11:00,680
+gente começou a explorar nesse caminho
+
+235
+00:10:57,920 --> 00:11:03,200
+Mas antes de avançar no que é no que
+
+236
+00:11:00,680 --> 00:11:05,000
+veio a ser a marca a gente explorou
+
+237
+00:11:03,200 --> 00:11:07,079
+outros caminhos Como tinha uma uma
+
+238
+00:11:05,000 --> 00:11:11,160
+parceria com o Instituto Nels na época
+
+239
+00:11:07,079 --> 00:11:14,000
+eles têm essa marca que é uma uma
+
+240
+00:11:11,160 --> 00:11:16,600
+mandala eles chamavam né um um ciclo de
+
+241
+00:11:14,000 --> 00:11:18,959
+fases e girando em torno de si
+
+242
+00:11:16,600 --> 00:11:21,920
+mesmo Eu comecei a explorar elementos
+
+243
+00:11:18,959 --> 00:11:23,360
+que poduderiam lembrar essa ideia eh mas
+
+244
+00:11:21,920 --> 00:11:25,760
+não necessariamente ter um conteúdo
+
+245
+00:11:23,360 --> 00:11:28,399
+fechado de giro de
+
+246
+00:11:25,760 --> 00:11:29,800
+crescimento E aí uma das imagens eh
+
+247
+00:11:28,399 --> 00:11:31,880
+também que eu encontrei não lembro mais
+
+248
+00:11:29,800 --> 00:11:34,240
+de cabeça o nome dessa planta mas também
+
+249
+00:11:31,880 --> 00:11:36,000
+é uma planta nativa brasileira
+
+250
+00:11:34,240 --> 00:11:37,880
+teve uma tentativa de transformar isso
+
+251
+00:11:36,000 --> 00:11:40,760
+num elemento gráfico que a gente pudesse
+
+252
+00:11:37,880 --> 00:11:42,079
+vir a usar né Então aqui você tem uns
+
+253
+00:11:40,760 --> 00:11:45,399
+primeiras
+
+254
+00:11:42,079 --> 00:11:47,519
+explorações As letras eram todas já num
+
+255
+00:11:45,399 --> 00:11:51,320
+primeiro momento muito
+
+256
+00:11:47,519 --> 00:11:55,839
+eh industriais mesmo né Eh letras sem
+
+257
+00:11:51,320 --> 00:11:58,560
+nenhuma eh representação humana
+
+258
+00:11:55,839 --> 00:12:01,120
+Eu eu não queria trazer tudo para esse
+
+259
+00:11:58,560 --> 00:12:04,279
+lado orgânico porque além de ter
+
+260
+00:12:01,120 --> 00:12:06,839
+questões técnicas de reprodutibilidade
+
+261
+00:12:04,279 --> 00:12:09,600
+da marca redução e expansão ia ficar
+
+262
+00:12:06,839 --> 00:12:11,800
+complicado mas a gente entendeu que a
+
+263
+00:12:09,600 --> 00:12:15,199
+gente tinha que ficar mais perto de uma
+
+264
+00:12:11,800 --> 00:12:17,160
+comunicação eh orgânica né Então a gente
+
+265
+00:12:15,199 --> 00:12:21,519
+conseguiu eu continuei procurando
+
+266
+00:12:17,160 --> 00:12:24,399
+referências do ingá da folha do ingá da
+
+267
+00:12:21,519 --> 00:12:26,680
+semente e a gente queria manter esse
+
+268
+00:12:24,399 --> 00:12:30,639
+conteúdo forte de um crescimento de como
+
+269
+00:12:26,680 --> 00:12:36,680
+isso poderia crescer exploramos eh
+
+270
+00:12:30,639 --> 00:12:36,680
+fontes que tem essa ideia mais eh
+
+271
+00:12:37,880 --> 00:12:44,560
+estilogravada à mão de uma maneira muito
+
+272
+00:12:41,320 --> 00:12:47,320
+eh espontânea né sem o mecanicismo mas
+
+273
+00:12:44,560 --> 00:12:50,440
+você vê fica super artificial né o e o e
+
+274
+00:12:47,320 --> 00:12:52,560
+o é os três sementes aqui é mecanizado
+
+275
+00:12:50,440 --> 00:12:55,440
+de qualquer forma porque mesmo a fonte
+
+276
+00:12:52,560 --> 00:12:58,360
+sendo muito fraqu muito
+
+277
+00:12:55,440 --> 00:13:00,600
+eh orgânica supostamente
+
+278
+00:12:58,360 --> 00:13:03,199
+ele cria ainda essa ideia de uma
+
+279
+00:13:00,600 --> 00:13:06,279
+repetição computadorizada e tal A gente
+
+280
+00:13:03,199 --> 00:13:09,360
+acabou se afastando desse universo E
+
+281
+00:13:06,279 --> 00:13:11,160
+seja qual for a marca na medida que a
+
+282
+00:13:09,360 --> 00:13:14,320
+gente foi discutindo o projeto essa
+
+283
+00:13:11,160 --> 00:13:16,240
+marca teria que coexistir com outras com
+
+284
+00:13:14,320 --> 00:13:18,160
+outros elementos da primeira interação
+
+285
+00:13:16,240 --> 00:13:21,320
+desse projeto a gente já sabia de
+
+286
+00:13:18,160 --> 00:13:24,440
+antemão que ia coexistir com o Tropixel
+
+287
+00:13:21,320 --> 00:13:26,680
+que foi eh o Felipe pode explicar o
+
+288
+00:13:24,440 --> 00:13:28,560
+Tropixel melhor mas esse específico
+
+289
+00:13:26,680 --> 00:13:31,480
+momento do Semente a gente decidiu que
+
+290
+00:13:28,560 --> 00:13:33,399
+ia apresentar durante um tropxel uma
+
+291
+00:13:31,480 --> 00:13:36,839
+sessão do Tropixel que aconteceu em
+
+292
+00:13:33,399 --> 00:13:39,639
+Umbatuba em 2022 onde a gente introduziu
+
+293
+00:13:36,839 --> 00:13:43,040
+a primeira versão do semente Aí você tem
+
+294
+00:13:39,639 --> 00:13:46,240
+aqui uma repetição de engá
+
+295
+00:13:43,040 --> 00:13:50,079
+folhas e também da fonte né de de
+
+296
+00:13:46,240 --> 00:13:52,920
+exploração de outras outros universos eh
+
+297
+00:13:50,079 --> 00:13:55,920
+gráficos que a gente podia usar
+
+298
+00:13:52,920 --> 00:13:57,639
+E desse desse caminho também olhando pro
+
+299
+00:13:55,920 --> 00:13:59,399
+próprio instituto o espaço físico do
+
+300
+00:13:57,639 --> 00:14:01,000
+instituto onde a gente ia receber eu
+
+301
+00:13:59,399 --> 00:14:02,920
+recebi algumas fotos do pessoal do
+
+302
+00:14:01,000 --> 00:14:05,959
+instituto na época eu não conhecia o
+
+303
+00:14:02,920 --> 00:14:07,120
+espaço ainda aonde eu fui eh olhando
+
+304
+00:14:05,959 --> 00:14:09,800
+para isso para ver como a gente
+
+305
+00:14:07,120 --> 00:14:11,880
+conseguiria traduzir esse universo para
+
+306
+00:14:09,800 --> 00:14:15,560
+dentro da marca guardadas as
+
+307
+00:14:11,880 --> 00:14:17,240
+proporções A ideia de crescimento já foi
+
+308
+00:14:15,560 --> 00:14:19,680
+eh muito patente Desde o começo a gente
+
+309
+00:14:17,240 --> 00:14:23,959
+começou a enxergar que iríamos trabalhar
+
+310
+00:14:19,680 --> 00:14:26,240
+fases diferentes do projeto eh da do da
+
+311
+00:14:23,959 --> 00:14:28,800
+ferramenta que a gente tá desenvolvendo
+
+312
+00:14:26,240 --> 00:14:31,160
+e ter diferentes momentos de maturidade
+
+313
+00:14:28,800 --> 00:14:33,040
+Então aqui já tem uma exploração nesse
+
+314
+00:14:31,160 --> 00:14:37,120
+rodapezinho aqui já tem uma exploração
+
+315
+00:14:33,040 --> 00:14:40,040
+de que a que momento do projeto aquela
+
+316
+00:14:37,120 --> 00:14:42,279
+aquele elemento gráfico pertenceria que
+
+317
+00:14:40,040 --> 00:14:44,079
+a ideia era associar diferentes níveis
+
+318
+00:14:42,279 --> 00:14:47,399
+de maturidade da semente a diferentes
+
+319
+00:14:44,079 --> 00:14:49,639
+momentos do projeto do
+
+320
+00:14:47,399 --> 00:14:50,480
+exercício ou da metodologia que a gente
+
+321
+00:14:49,639 --> 00:14:54,759
+tá
+
+322
+00:14:50,480 --> 00:14:58,639
+desenvolvendo desse universo botânico eh
+
+323
+00:14:54,759 --> 00:15:02,320
+antigo eu comecei a explorar também
+
+324
+00:14:58,639 --> 00:15:04,240
+eh outras ferramentas outros outros
+
+325
+00:15:02,320 --> 00:15:07,480
+pontos de vista mesmo né Que você tem
+
+326
+00:15:04,240 --> 00:15:09,399
+aqui por exemplo modo de integrar aí
+
+327
+00:15:07,480 --> 00:15:12,399
+Isso aqui é a questão que eu falei que
+
+328
+00:15:09,399 --> 00:15:15,600
+ia ficar muito eh difícil de reduzir o
+
+329
+00:15:12,399 --> 00:15:17,519
+grau de detalhe nessa exploração aqui
+
+330
+00:15:15,600 --> 00:15:20,519
+Essa mancha de café que a gente usou por
+
+331
+00:15:17,519 --> 00:15:23,440
+um tempo tem uma coisa interessante dela
+
+332
+00:15:20,519 --> 00:15:26,920
+abraçar a a semente então criaria um
+
+333
+00:15:23,440 --> 00:15:28,920
+símbolo fácil de ser reutilizado né
+
+334
+00:15:26,920 --> 00:15:33,240
+a gente depois passou para uma outra
+
+335
+00:15:28,920 --> 00:15:37,519
+investigação aonde essa sensação de
+
+336
+00:15:33,240 --> 00:15:42,240
+crescimento fosse aplicado direto no no
+
+337
+00:15:37,519 --> 00:15:45,360
+texto né na na marca mas eh a gente
+
+338
+00:15:42,240 --> 00:15:47,920
+entendeu que essa associação eh ia ser
+
+339
+00:15:45,360 --> 00:15:49,240
+difícil de usar esse símbolo sozinho mas
+
+340
+00:15:47,920 --> 00:15:51,600
+de novo a gente já tá desde o começo
+
+341
+00:15:49,240 --> 00:15:53,920
+falando de crescimento e maturidade mas
+
+342
+00:15:51,600 --> 00:15:57,120
+a gente não conseguiria usar essa essa
+
+343
+00:15:53,920 --> 00:15:59,720
+árvore sem com o T sem o T Aí plantou no
+
+344
+00:15:57,120 --> 00:16:02,279
+T Esse T deu uma leitura muitas vezes
+
+345
+00:15:59,720 --> 00:16:05,839
+muito equivocada né de virar uma leitura
+
+346
+00:16:02,279 --> 00:16:08,720
+uma cruz alguma coisa que não produzisse
+
+347
+00:16:05,839 --> 00:16:10,240
+a legibilidade Eu pedia pessoas próximas
+
+348
+00:16:08,720 --> 00:16:11,959
+a mim para ler o que que eles liam
+
+349
+00:16:10,240 --> 00:16:14,920
+Muitas vezes liam
+
+350
+00:16:11,959 --> 00:16:17,560
+semem sem ler o T e o e no final porque
+
+351
+00:16:14,920 --> 00:16:23,360
+o T não tava legível
+
+352
+00:16:17,560 --> 00:16:25,160
+Eh mas a gente sempre explorava essas eh
+
+353
+00:16:23,360 --> 00:16:27,240
+essa premissa de como capturar
+
+354
+00:16:25,160 --> 00:16:29,920
+crescimento A marca tinha que crescer em
+
+355
+00:16:27,240 --> 00:16:32,880
+diferentes momentos né
+
+356
+00:16:29,920 --> 00:16:35,920
+Aí aqui você tem uma outra exploração
+
+357
+00:16:32,880 --> 00:16:39,720
+uma outra tentativa Foi quando descolado
+
+358
+00:16:35,920 --> 00:16:42,880
+T para não criar essa leitura de eh
+
+359
+00:16:39,720 --> 00:16:46,759
+semen que eu pedi gente de diferentes
+
+360
+00:16:42,880 --> 00:16:48,480
+nacionalidades para ler e criou um
+
+361
+00:16:46,759 --> 00:16:51,360
+entendimento muito equivocado do que que
+
+362
+00:16:48,480 --> 00:16:52,920
+a gente queria dizer com a marca
+
+363
+00:16:51,360 --> 00:16:55,279
+A gente avançou eu vou voltar aqui
+
+364
+00:16:52,920 --> 00:16:59,279
+depois mas a gente avançou tirou do do
+
+365
+00:16:55,279 --> 00:17:01,519
+da letra T colocamos no E na expectativa
+
+366
+00:16:59,279 --> 00:17:04,280
+de usar o que você vê aqui uma primeira
+
+367
+00:17:01,519 --> 00:17:07,919
+tentativa do que virou a marca final
+
+368
+00:17:04,280 --> 00:17:09,480
+aonde esse e ia ter um enraizamento e o
+
+369
+00:17:07,919 --> 00:17:12,160
+crescimento ia ser representado pela
+
+370
+00:17:09,480 --> 00:17:13,039
+nossa letra E De qualquer forma isso a
+
+371
+00:17:12,160 --> 00:17:15,760
+gente achou que era um caminho
+
+372
+00:17:13,039 --> 00:17:18,919
+interessante de explorar Fomos avançando
+
+373
+00:17:15,760 --> 00:17:21,439
+e tentando finalizar o desenho mas de
+
+374
+00:17:18,919 --> 00:17:23,240
+novo redução Se eu vou reduzir esse e
+
+375
+00:17:21,439 --> 00:17:25,839
+aqui essas raízes vão virar uma coisa
+
+376
+00:17:23,240 --> 00:17:27,160
+muito ilegível no fundo ou mesmo os
+
+377
+00:17:25,839 --> 00:17:30,000
+detalhes das
+
+378
+00:17:27,160 --> 00:17:33,120
+folhas E uma coisa que a gente entendeu
+
+379
+00:17:30,000 --> 00:17:34,600
+vindo do ID21 e do Fonte Wick que a
+
+380
+00:17:33,120 --> 00:17:37,640
+gente queria traduzir os conteúdos
+
+381
+00:17:34,600 --> 00:17:41,120
+desses dois projetos anteriores para uso
+
+382
+00:17:37,640 --> 00:17:43,919
+durante essa dinâmica de elaboração de
+
+383
+00:17:41,120 --> 00:17:47,360
+projetos né O Felipe no começo queria
+
+384
+00:17:43,919 --> 00:17:48,840
+mais uma um livreto uma coisa educativa
+
+385
+00:17:47,360 --> 00:17:50,720
+mas a gente chegou na conclusão de que
+
+386
+00:17:48,840 --> 00:17:53,640
+era muito mais rico se a gente
+
+387
+00:17:50,720 --> 00:17:56,200
+provocasse os participantes a ter a próx
+
+388
+00:17:53,640 --> 00:17:59,200
+o próprio entendimento de como isso
+
+389
+00:17:56,200 --> 00:18:01,080
+seria organizado como eles poderiam usar
+
+390
+00:17:59,200 --> 00:18:04,840
+E a gente tem a ambição ainda temos já
+
+391
+00:18:01,080 --> 00:18:09,360
+na versão quatro do desenho eh de criar
+
+392
+00:18:04,840 --> 00:18:12,320
+essas cartas aonde essas cartas vão eh
+
+393
+00:18:09,360 --> 00:18:15,240
+disparar eh pensamentos para quem tiver
+
+394
+00:18:12,320 --> 00:18:17,200
+exercitando junto do da metodologia
+
+395
+00:18:15,240 --> 00:18:20,080
+sementes né que a gente tá desenvolvendo
+
+396
+00:18:17,200 --> 00:18:23,760
+essas cartas provocariam a conversa
+
+397
+00:18:20,080 --> 00:18:26,039
+entre os o os ideadores os quem
+
+398
+00:18:23,760 --> 00:18:29,240
+idealizou o projeto que eles querem
+
+399
+00:18:26,039 --> 00:18:32,799
+formalizar de uma forma mais eh sólida
+
+400
+00:18:29,240 --> 00:18:36,080
+ou quem é de fora ou até mesmo uma
+
+401
+00:18:32,799 --> 00:18:38,600
+pessoa de financiamento onde eles podiam
+
+402
+00:18:36,080 --> 00:18:41,000
+exercitar esse projeto usando essas
+
+403
+00:18:38,600 --> 00:18:42,600
+metáforas entre as fases diferentes solo
+
+404
+00:18:41,000 --> 00:18:45,440
+manejo fruto e
+
+405
+00:18:42,600 --> 00:18:47,840
+tempo A a ambição aqui nesse primeiro
+
+406
+00:18:45,440 --> 00:18:49,600
+protótipo é que os cartões teriam uma
+
+407
+00:18:47,840 --> 00:18:52,200
+descrição uma
+
+408
+00:18:49,600 --> 00:18:55,919
+provocação um uma introdução do que que
+
+409
+00:18:52,200 --> 00:18:59,159
+aquele eh aquela carta queria atingir ou
+
+410
+00:18:55,919 --> 00:19:02,240
+provocar a pessoa A nossa ambição é que
+
+411
+00:18:59,159 --> 00:19:04,440
+cada carta é tá conectada com alguma
+
+412
+00:19:02,240 --> 00:19:06,880
+ação é métodos aqui eu acho que a
+
+413
+00:19:04,440 --> 00:19:09,080
+palavra tá equivocada mas tem outros
+
+414
+00:19:06,880 --> 00:19:11,840
+itens relacionados dentro dessa desse
+
+415
+00:19:09,080 --> 00:19:15,320
+ecossistema de de jogo e facilitação que
+
+416
+00:19:11,840 --> 00:19:19,240
+a gente tá criando E aí emprestando de
+
+417
+00:19:15,320 --> 00:19:21,880
+livros de design cocriação facilitação
+
+418
+00:19:19,240 --> 00:19:24,640
+tem um um elemento de se isso tiver
+
+419
+00:19:21,880 --> 00:19:27,320
+descrevendo uma atividade essa atividade
+
+420
+00:19:24,640 --> 00:19:28,880
+espera que você vai usar eh 15 minutos e
+
+421
+00:19:27,320 --> 00:19:31,919
+espera que você tenha seis participantes
+
+422
+00:19:28,880 --> 00:19:34,360
+Claro que isso aqui é um é
+
+423
+00:19:31,919 --> 00:19:36,039
+uma é muito alto nível né Só os
+
+424
+00:19:34,360 --> 00:19:38,919
+elementos A gente entendeu que eu teria
+
+425
+00:19:36,039 --> 00:19:41,679
+uma comunicação que ia avançar entre as
+
+426
+00:19:38,919 --> 00:19:43,360
+diferentes áreas A gente entendeu que
+
+427
+00:19:41,679 --> 00:19:45,360
+essas cartas para que elas sejam
+
+428
+00:19:43,360 --> 00:19:47,360
+reutilizadas e recombinadas de acordo
+
+429
+00:19:45,360 --> 00:19:49,760
+com a natureza do projeto porque cada
+
+430
+00:19:47,360 --> 00:19:52,000
+projeto vai ter uma demanda diferente a
+
+431
+00:19:49,760 --> 00:19:55,679
+gente numeraria essas cartas para poder
+
+432
+00:19:52,000 --> 00:19:59,520
+fazer referências dentro da próprio eh
+
+433
+00:19:55,679 --> 00:20:02,559
+estrutura de jogo A paleta de cores veio
+
+434
+00:19:59,520 --> 00:20:05,919
+desse universo de eh
+
+435
+00:20:02,559 --> 00:20:07,679
+pesquisar desenhos boticos antigos né A
+
+436
+00:20:05,919 --> 00:20:11,200
+gente começou aqui com o ingá Isso aqui
+
+437
+00:20:07,679 --> 00:20:14,440
+é um desenho tem mostra
+
+438
+00:20:11,200 --> 00:20:19,600
+Ups isso aqui é um desenho
+
+439
+00:20:14,440 --> 00:20:19,600
+eh de difer
+
+440
+00:20:21,039 --> 00:20:28,679
+E aí essa ideia de eh
+
+441
+00:20:25,240 --> 00:20:30,679
+explorar esse conteúdo mais eh universal
+
+442
+00:20:28,679 --> 00:20:32,400
+mesmo né de comunicação visual em torno
+
+443
+00:20:30,679 --> 00:20:35,440
+em volta de biologia a gente foi para
+
+444
+00:20:32,400 --> 00:20:37,000
+esse caminho botânico e procurando
+
+445
+00:20:35,440 --> 00:20:40,120
+referências visuais desse caminho
+
+446
+00:20:37,000 --> 00:20:44,919
+botânico a gente chegou nesses
+
+447
+00:20:40,120 --> 00:20:47,720
+eh papéis de parede antigos Eh uma
+
+448
+00:20:44,919 --> 00:20:49,360
+referência que eu não sei se vale a pena
+
+449
+00:20:47,720 --> 00:20:53,080
+a gente continuar insistindo nela mas
+
+450
+00:20:49,360 --> 00:20:55,480
+foi de onde a gente eh abraçou a paleta
+
+451
+00:20:53,080 --> 00:20:59,520
+de cores A gente pegava essas
+
+452
+00:20:55,480 --> 00:21:02,960
+elementos desculpa cachorros eh a gente
+
+453
+00:20:59,520 --> 00:21:05,159
+pegava esse elemento visual para poder
+
+454
+00:21:02,960 --> 00:21:06,679
+resgatar a paleta de cores e entender o
+
+455
+00:21:05,159 --> 00:21:09,320
+que que funcionava ou não Você vê aqui
+
+456
+00:21:06,679 --> 00:21:11,039
+vários estudos de paletas diferentes né
+
+457
+00:21:09,320 --> 00:21:12,080
+com preocupações de legibilidade né
+
+458
+00:21:11,039 --> 00:21:13,720
+porque eu não posso ter uma cor muito
+
+459
+00:21:12,080 --> 00:21:17,240
+clara senão eu não consigo
+
+460
+00:21:13,720 --> 00:21:20,720
+ler e chegamos a essa paleta na versão
+
+461
+00:21:17,240 --> 00:21:26,000
+um do projeto foi a paleta que a gente
+
+462
+00:21:20,720 --> 00:21:29,799
+fez E chegamos também na versão do e com
+
+463
+00:21:26,000 --> 00:21:33,159
+raízes eh embaixo e a ideia de
+
+464
+00:21:29,799 --> 00:21:37,080
+crescimento podendo usar essa letra
+
+465
+00:21:33,159 --> 00:21:39,799
+eh e sozinha né para ela poder aplicar
+
+466
+00:21:37,080 --> 00:21:42,679
+Então uma coisa aqui na carta por
+
+467
+00:21:39,799 --> 00:21:45,000
+exemplo aqui tá escrito inteiro mas na
+
+468
+00:21:42,679 --> 00:21:48,480
+versão mais madura a gente ia colocar só
+
+469
+00:21:45,000 --> 00:21:51,880
+a letra E aqui E aí essa esse nível de
+
+470
+00:21:48,480 --> 00:21:53,840
+maturidade se tá em broto o crescimento
+
+471
+00:21:51,880 --> 00:21:56,880
+qual a maturidade que o R e representa
+
+472
+00:21:53,840 --> 00:21:59,320
+né Já é uma árvore ou só a semente vai
+
+473
+00:21:56,880 --> 00:22:01,320
+tá conectada com cada um dos dos
+
+474
+00:21:59,320 --> 00:22:04,240
+momentos que
+
+475
+00:22:01,320 --> 00:22:06,400
+o a metodologia propõe né você precisa
+
+476
+00:22:04,240 --> 00:22:07,880
+ter um solo fértil você precisa manter
+
+477
+00:22:06,400 --> 00:22:10,200
+aquilo para poder colher os frutos que
+
+478
+00:22:07,880 --> 00:22:12,159
+você quer E a nossa versão de tempo que
+
+479
+00:22:10,200 --> 00:22:14,720
+era uma área específica a gente entendeu
+
+480
+00:22:12,159 --> 00:22:18,440
+que não vale a pena ter o tempo estanque
+
+481
+00:22:14,720 --> 00:22:20,039
+com uma uma caixa mas é uma a gente
+
+482
+00:22:18,440 --> 00:22:21,799
+chegou agora na na concepção de uma
+
+483
+00:22:20,039 --> 00:22:25,400
+espiral
+
+484
+00:22:21,799 --> 00:22:28,760
+progressiva E aí desse visual aqui você
+
+485
+00:22:25,400 --> 00:22:31,799
+consegue ver algo que tá muito próximo
+
+486
+00:22:28,760 --> 00:22:34,240
+do da versão final Ainda tinha problemas
+
+487
+00:22:31,799 --> 00:22:37,520
+de legibilidade com esse T Porque
+
+488
+00:22:34,240 --> 00:22:40,400
+algumas pessoas ainda estavam lendo sem
+
+489
+00:22:37,520 --> 00:22:42,559
+uma cruz e no final Então isso não é uma
+
+490
+00:22:40,400 --> 00:22:45,679
+legibilidade que a gente quer A gente
+
+491
+00:22:42,559 --> 00:22:47,279
+corrigiu esse T Eu não sei se eu consigo
+
+492
+00:22:45,679 --> 00:22:47,919
+migrar de uma tela para outra Eu acho
+
+493
+00:22:47,279 --> 00:22:51,919
+que
+
+494
+00:22:47,919 --> 00:22:54,039
+não Eh eu vou parar de compartilhar aqui
+
+495
+00:22:51,919 --> 00:22:56,600
+enquanto isso abrir para perguntas se
+
+496
+00:22:54,039 --> 00:22:59,960
+vocês têm alguma pergunta
+
+497
+00:22:56,600 --> 00:23:03,960
+eh para avançar pro outro lado onde a
+
+498
+00:22:59,960 --> 00:23:06,640
+gente tem a marca final entre aspas foi
+
+499
+00:23:03,960 --> 00:23:09,520
+a marca que a gente chegou paraa versão
+
+500
+00:23:06,640 --> 00:23:12,840
+um do projeto que a gente apresentou no
+
+501
+00:23:09,520 --> 00:23:14,559
+Tropixel Eu não tenho perguntas mas eu
+
+502
+00:23:12,840 --> 00:23:19,240
+eh gostaria de fazer uma intervenção
+
+503
+00:23:14,559 --> 00:23:22,720
+agora eh colocando nessa nessa linha do
+
+504
+00:23:19,240 --> 00:23:25,880
+tempo aí do que eram esses projetos eh
+
+505
+00:23:22,720 --> 00:23:30,400
+vistos como até inclusão digital
+
+506
+00:23:25,880 --> 00:23:35,360
+tecnologias e hacker eh ali no início
+
+507
+00:23:30,400 --> 00:23:37,600
+dos anos 2000 que era algo muito assim
+
+508
+00:23:35,360 --> 00:23:40,640
+incipiente ainda né Então tinha essa
+
+509
+00:23:37,600 --> 00:23:43,720
+linguagem meio que de Matrix eh de
+
+510
+00:23:40,640 --> 00:23:46,080
+vários eh outros signos eh com
+
+511
+00:23:43,720 --> 00:23:48,559
+computadores e um universo meio
+
+512
+00:23:46,080 --> 00:23:50,919
+cyberpunk E à medida que a tecnologia
+
+513
+00:23:48,559 --> 00:23:55,760
+ela foi avançando e mudando com as
+
+514
+00:23:50,919 --> 00:23:58,760
+pessoas esses signos eles mudaram né E
+
+515
+00:23:55,760 --> 00:24:00,279
+hoje isso tudo é visto de uma forma
+
+516
+00:23:58,760 --> 00:24:03,559
+muito
+
+517
+00:24:00,279 --> 00:24:07,360
+minimalista clean sofisticada Então
+
+518
+00:24:03,559 --> 00:24:11,039
+esses dispositivos e as tecnologias elas
+
+519
+00:24:07,360 --> 00:24:14,000
+estão e não estão Tipo a Apple é um é um
+
+520
+00:24:11,039 --> 00:24:16,960
+grande exemplo disso né Eh o mundo
+
+521
+00:24:14,000 --> 00:24:21,919
+inteiro ovaciona o design do que seria
+
+522
+00:24:16,960 --> 00:24:25,480
+um MacBook ou que foram os iPads os os
+
+523
+00:24:21,919 --> 00:24:29,600
+iPods e e tudo mais assim
+
+524
+00:24:25,480 --> 00:24:32,080
+Então eh acho que hoje um grande desafio
+
+525
+00:24:29,600 --> 00:24:36,279
+para qualquer projeto que ele se
+
+526
+00:24:32,080 --> 00:24:38,679
+posiciona nesse lugar é entender que a
+
+527
+00:24:36,279 --> 00:24:42,960
+gente não vai utilizar
+
+528
+00:24:38,679 --> 00:24:47,480
+a eh a linguagem gráfica que
+
+529
+00:24:42,960 --> 00:24:52,399
+projetos eh de sei lá caridade entre
+
+530
+00:24:47,480 --> 00:24:55,279
+aspas utilizam eh usando
+
+531
+00:24:52,399 --> 00:24:58,440
+meramente eh qualquer cor ou a cor que a
+
+532
+00:24:55,279 --> 00:25:00,840
+gente prefere colocando ali mas também
+
+533
+00:24:58,440 --> 00:25:02,799
+não é esse design
+
+534
+00:25:00,840 --> 00:25:07,399
+eh quase
+
+535
+00:25:02,799 --> 00:25:11,399
+que é um formato já muito previsto e
+
+536
+00:25:07,399 --> 00:25:15,760
+assim previsível na verdade eh que esses
+
+537
+00:25:11,399 --> 00:25:19,360
+signos hoje de de tecnologia e de bigtec
+
+538
+00:25:15,760 --> 00:25:22,679
+eh utiliza Então como a gente chega no
+
+539
+00:25:19,360 --> 00:25:24,600
+meio do caminho né de
+
+540
+00:25:22,679 --> 00:25:28,080
+achar esses
+
+541
+00:25:24,600 --> 00:25:29,600
+significantes esses elementos gráficos e
+
+542
+00:25:28,080 --> 00:25:33,080
+também que são
+
+543
+00:25:29,600 --> 00:25:35,399
+traduzíveis de forma clara em em
+
+544
+00:25:33,080 --> 00:25:37,320
+posicionamento em diagramações que
+
+545
+00:25:35,399 --> 00:25:40,120
+consigam contar essa história de algo
+
+546
+00:25:37,320 --> 00:25:42,240
+que é muito peculiar mas tá inserido num
+
+547
+00:25:40,120 --> 00:25:44,919
+universo maior que é o contexto do mundo
+
+548
+00:25:42,240 --> 00:25:47,080
+e da importância que as tecnologias têm
+
+549
+00:25:44,919 --> 00:25:48,960
+para onde elas estão
+
+550
+00:25:47,080 --> 00:25:51,760
+permeando
+
+551
+00:25:48,960 --> 00:25:54,399
+Eh essa história que você conta de
+
+552
+00:25:51,760 --> 00:25:58,720
+alguma forma traduz muito isso né de
+
+553
+00:25:54,399 --> 00:26:03,039
+trazer esses elementos como engá eh como
+
+554
+00:25:58,720 --> 00:26:06,159
+a questão eh do posicionamento da de
+
+555
+00:26:03,039 --> 00:26:08,080
+tudo assim dos ciclos e de pensar nesse
+
+556
+00:26:06,159 --> 00:26:09,919
+jogo das cores que seja algo muito
+
+557
+00:26:08,080 --> 00:26:12,399
+proprietário mas também não esteja
+
+558
+00:26:09,919 --> 00:26:14,919
+descolado da realidade represente esse
+
+559
+00:26:12,399 --> 00:26:17,360
+novo momento que agora a gente a gente
+
+560
+00:26:14,919 --> 00:26:20,720
+vive né
+
+561
+00:26:17,360 --> 00:26:24,279
+Eh e tem uma coisa
+
+562
+00:26:20,720 --> 00:26:27,039
+eh que já no princípio a gente entendia
+
+563
+00:26:24,279 --> 00:26:29,080
+entendia que ah que é um pouco a
+
+564
+00:26:27,039 --> 00:26:30,880
+dificuldade até dentro da disciplina do
+
+565
+00:26:29,080 --> 00:26:33,880
+design né Você tenta fechar para criar
+
+566
+00:26:30,880 --> 00:26:37,559
+uma marca uma coisa que seja consistente
+
+567
+00:26:33,880 --> 00:26:39,520
+e reconhecível ao longo do tempo Eh a
+
+568
+00:26:37,559 --> 00:26:41,200
+gente tem tido o Felipe e eu temos esse
+
+569
+00:26:39,520 --> 00:26:42,640
+debate direto né de tem que mudar Não
+
+570
+00:26:41,200 --> 00:26:45,000
+não não é mais isso Não é mais isso Não
+
+571
+00:26:42,640 --> 00:26:48,120
+é mais isso A gente mudou nesses últimos
+
+572
+00:26:45,000 --> 00:26:49,960
+dois anos eh de interação Esse aqui foi
+
+573
+00:26:48,120 --> 00:26:52,200
+a primeira versão nessa apresentação que
+
+574
+00:26:49,960 --> 00:26:54,279
+tá visível na tela Agora a gente tá
+
+575
+00:26:52,200 --> 00:26:57,799
+agora no meu entendimento na quarta
+
+576
+00:26:54,279 --> 00:26:59,640
+iteração do desenho e a ideia agora é é
+
+577
+00:26:57,799 --> 00:27:01,640
+formalizar isso para começar a
+
+578
+00:26:59,640 --> 00:27:03,480
+compartilhar com comunidades para rever
+
+579
+00:27:01,640 --> 00:27:05,600
+mas muito logo depois que a gente
+
+580
+00:27:03,480 --> 00:27:07,120
+começar a receber feedback a gente vai
+
+581
+00:27:05,600 --> 00:27:10,240
+ter que
+
+582
+00:27:07,120 --> 00:27:11,960
+rever o o o desenho eu imagino ou até
+
+583
+00:27:10,240 --> 00:27:14,360
+mesmo modo de comunicar como a gente se
+
+584
+00:27:11,960 --> 00:27:16,480
+posiciona de acordo com o retorno que a
+
+585
+00:27:14,360 --> 00:27:18,919
+gente recebe Então essa ideia da marca
+
+586
+00:27:16,480 --> 00:27:20,840
+que é tradicionalmente articulada né no
+
+587
+00:27:18,919 --> 00:27:23,799
+universo de agências e design e
+
+588
+00:27:20,840 --> 00:27:25,880
+publicidade e tal eh eu imagino que a
+
+589
+00:27:23,799 --> 00:27:28,120
+gente vai lidar de de maneiras muito
+
+590
+00:27:25,880 --> 00:27:30,399
+mais orgânicas assim
+
+591
+00:27:28,120 --> 00:27:35,559
+Eh é eu gostaria mas ainda tem manter a
+
+592
+00:27:30,399 --> 00:27:38,679
+comunicação né que esse esse cenário eh
+
+593
+00:27:35,559 --> 00:27:42,159
+de uma marca super fechada por exemplo P
+
+594
+00:27:38,679 --> 00:27:44,519
+de Açúcar que ela manteve eh as duas
+
+595
+00:27:42,159 --> 00:27:48,960
+montanhas ali durante muito tempo e
+
+596
+00:27:44,519 --> 00:27:52,720
+depois ela foi fazendo eh ajustes assim
+
+597
+00:27:48,960 --> 00:27:56,440
+na fonte e no design isso já não é mais
+
+598
+00:27:52,720 --> 00:27:58,840
+tão rígido Você vê várias marcas
+
+599
+00:27:56,440 --> 00:28:02,159
+trabalhando com sistemas de ilustração
+
+600
+00:27:58,840 --> 00:28:04,200
+de apoio ou KVs que eles são
+
+601
+00:28:02,159 --> 00:28:08,399
+mutáveis
+
+602
+00:28:04,200 --> 00:28:11,720
+eh dependendo da época do ano eh de
+
+603
+00:28:08,399 --> 00:28:13,880
+ações específicas Então esse universo
+
+604
+00:28:11,720 --> 00:28:16,120
+também de agência de publicidade que ele
+
+605
+00:28:13,880 --> 00:28:19,799
+existia que as coisas eram muito rígidas
+
+606
+00:28:16,120 --> 00:28:22,559
+e fechadas o próprio mercado em resposta
+
+607
+00:28:19,799 --> 00:28:25,360
+a esse mundo que as coisas eh são tão
+
+608
+00:28:22,559 --> 00:28:29,159
+vorazes e tão rápidas isso não existe
+
+609
+00:28:25,360 --> 00:28:31,519
+mais E antes se era um design um grande
+
+610
+00:28:29,159 --> 00:28:34,760
+design responsável por aquilo e aquilo
+
+611
+00:28:31,519 --> 00:28:37,480
+era quase que um eh um santo grau isso
+
+612
+00:28:34,760 --> 00:28:40,360
+também não existe né tem alguns assets e
+
+613
+00:28:37,480 --> 00:28:42,559
+algumas coisas que elas não elas são
+
+614
+00:28:40,360 --> 00:28:44,880
+essenciais porque elas são quase que a
+
+615
+00:28:42,559 --> 00:28:49,720
+coerência
+
+616
+00:28:44,880 --> 00:28:53,679
+daquele espírito ali mas eh todo o resto
+
+617
+00:28:49,720 --> 00:28:56,720
+ele pode ser mudado e hoje inclusive
+
+618
+00:28:53,679 --> 00:28:59,919
+isso no mercado é valorizado
+
+619
+00:28:56,720 --> 00:29:06,559
+Então não faz mais sentido manter
+
+620
+00:28:59,919 --> 00:29:10,720
+eh eh formas e e e não só não só verbais
+
+621
+00:29:06,559 --> 00:29:15,159
+mas também gráficas para
+
+622
+00:29:10,720 --> 00:29:19,159
+eh deixar algo estático falando que isso
+
+623
+00:29:15,159 --> 00:29:23,880
+é a coerência se essa mesma coerência já
+
+624
+00:29:19,159 --> 00:29:26,440
+não acompanha o meio E nesse processo eh
+
+625
+00:29:23,880 --> 00:29:29,799
+semente e toda a construção dessa
+
+626
+00:29:26,440 --> 00:29:34,120
+narrativa de ciclos e tal ela acaba se
+
+627
+00:29:29,799 --> 00:29:37,279
+apropriando né desses ciclos do processo
+
+628
+00:29:34,120 --> 00:29:41,519
+eh e organicamente acabou indo para esse
+
+629
+00:29:37,279 --> 00:29:41,519
+ciclo do design em si
+
+630
+00:29:42,120 --> 00:29:49,039
+É na minha experiência trabalhando com
+
+631
+00:29:45,120 --> 00:29:52,000
+marcas ali que já vem né tem
+
+632
+00:29:49,039 --> 00:29:54,080
+uma tem essa postura até arrogante
+
+633
+00:29:52,000 --> 00:29:57,279
+muitas vezes dessa solidez né da
+
+634
+00:29:54,080 --> 00:30:01,000
+identidade Fedex Philips Tontom era mais
+
+635
+00:29:57,279 --> 00:30:03,360
+divertida de brincar com a marca mas a
+
+636
+00:30:01,000 --> 00:30:06,200
+própria Lisplan que era uma empresa de
+
+637
+00:30:03,360 --> 00:30:09,240
+de leasing aonde eu trabalhei eh a gente
+
+638
+00:30:06,200 --> 00:30:12,720
+fez uma uma revisão da da comunicação
+
+639
+00:30:09,240 --> 00:30:15,279
+visual mas ainda tinha um um batalhão de
+
+640
+00:30:12,720 --> 00:30:16,919
+profissionais mundo afora reutilizando e
+
+641
+00:30:15,279 --> 00:30:20,159
+se apropriando dessa marca Claro que é
+
+642
+00:30:16,919 --> 00:30:22,440
+Dons ou campanhas passa num outro lado
+
+643
+00:30:20,159 --> 00:30:27,640
+né Mas eu acho que a gente não precisa
+
+644
+00:30:22,440 --> 00:30:31,399
+discutir muito o o estado atual do da
+
+645
+00:30:27,640 --> 00:30:34,200
+da das discussões em branding mas para
+
+646
+00:30:31,399 --> 00:30:38,679
+representar um projeto que tem a ambição
+
+647
+00:30:34,200 --> 00:30:41,559
+de crescer e amadurecer continuamente
+
+648
+00:30:38,679 --> 00:30:43,320
+como a gente tem até essa essa conversa
+
+649
+00:30:41,559 --> 00:30:46,919
+com os projetos em si né de tá numa
+
+650
+00:30:43,320 --> 00:30:50,519
+espiral contínua de amadurecimento
+
+651
+00:30:46,919 --> 00:30:52,880
+eh a marca vai avançar até a ideia do
+
+652
+00:30:50,519 --> 00:30:55,320
+crescimento que tava ali nos nos
+
+653
+00:30:52,880 --> 00:30:56,799
+pequenos na letra E eh é para mostrar
+
+654
+00:30:55,320 --> 00:30:58,200
+que vai amadurecer Daqui a pouco a gente
+
+655
+00:30:56,799 --> 00:31:02,039
+pode ter uma versão que tem uma árvore A
+
+656
+00:30:58,200 --> 00:31:03,840
+gente não chegou nisso ainda mas eh tem
+
+657
+00:31:02,039 --> 00:31:05,639
+ao mesmo tempo uma ideia de se manter
+
+658
+00:31:03,840 --> 00:31:08,519
+reconhecível que as pessoas podem voltar
+
+659
+00:31:05,639 --> 00:31:12,720
+para utilizar né né Creative Commons faz
+
+660
+00:31:08,519 --> 00:31:14,639
+a mesma coisa com a comunicação deles Eh
+
+661
+00:31:12,720 --> 00:31:17,679
+mas a gente pode ter mais discussões
+
+662
+00:31:14,639 --> 00:31:21,919
+nesse universo do do branding Eu queria
+
+663
+00:31:17,679 --> 00:31:24,360
+só voltar um pouquinho para eh fechar o
+
+664
+00:31:21,919 --> 00:31:26,480
+aonde a gente chegou na versão que
+
+665
+00:31:24,360 --> 00:31:28,399
+apresentou no Tropixel Eu não sei se a
+
+666
+00:31:26,480 --> 00:31:31,399
+tela tá visível para vocês Para mim
+
+667
+00:31:28,399 --> 00:31:31,399
+ficou
+
+668
+00:31:31,480 --> 00:31:36,799
+não ela tá tipo um blur assim É
+
+669
+00:31:37,080 --> 00:31:43,240
+Deixa eu ver É tava embaçada e
+
+670
+00:31:40,039 --> 00:31:46,960
+dizia click to exit
+
+671
+00:31:43,240 --> 00:31:49,519
+Então mas é a minha ambição era
+
+672
+00:31:46,960 --> 00:31:52,880
+compartilhar uma
+
+673
+00:31:49,519 --> 00:31:56,440
+apresentação que tá aqui Se quiser me
+
+674
+00:31:52,880 --> 00:31:59,240
+manda o link que eu abro ela aqui e e
+
+675
+00:31:56,440 --> 00:32:01,080
+apresento
+
+676
+00:31:59,240 --> 00:32:03,559
+Eh eu acho que eu posso
+
+677
+00:32:01,080 --> 00:32:06,960
+apresentar dentro do do Chrome Eu posso
+
+678
+00:32:03,559 --> 00:32:12,440
+selecionar uma uma tab do Chrome em vez
+
+679
+00:32:06,960 --> 00:32:12,440
+de ter duas janelas abertas Vamos lá
+
+680
+00:32:12,760 --> 00:32:18,960
+Ótimo Aí agora aqui eu vou
+
+681
+00:32:15,919 --> 00:32:22,120
+compartilhar eh Chrome
+
+682
+00:32:18,960 --> 00:32:25,120
+Tab que é essa
+
+683
+00:32:22,120 --> 00:32:28,000
+daqui
+
+684
+00:32:25,120 --> 00:32:29,880
+Share Pronto Agora eu queria fazer ficar
+
+685
+00:32:28,000 --> 00:32:32,480
+em full screen nessa
+
+686
+00:32:29,880 --> 00:32:34,600
+apresentação Eh me diz o que que
+
+687
+00:32:32,480 --> 00:32:39,919
+acontece do lado de vocês Só um minuto
+
+688
+00:32:34,600 --> 00:32:39,919
+Vamos lá Eu vou colocar slide show
+
+689
+00:32:40,639 --> 00:32:45,399
+Como tá
+
+690
+00:32:42,840 --> 00:32:47,360
+Pronto Então o o Chrome dentro do Chrome
+
+691
+00:32:45,399 --> 00:32:51,320
+funcionou bem Eu tava no outro browser
+
+692
+00:32:47,360 --> 00:32:55,840
+não funcionou Bom isso aqui eh você
+
+693
+00:32:51,320 --> 00:33:00,039
+consegue eh ver a
+
+694
+00:32:55,840 --> 00:33:02,200
+versão que a gente concluiu que era a
+
+695
+00:33:00,039 --> 00:33:05,919
+legível né teve uma correção mínima ali
+
+696
+00:33:02,200 --> 00:33:09,639
+da da letra T para tirar a sensação de
+
+697
+00:33:05,919 --> 00:33:11,399
+cruz com uma adaptação de ter um uma
+
+698
+00:33:09,639 --> 00:33:12,760
+curva que não pertencia à fonte que a
+
+699
+00:33:11,399 --> 00:33:15,519
+gente começou a usar
+
+700
+00:33:12,760 --> 00:33:18,519
+originalmente e a horizontal do T
+
+701
+00:33:15,519 --> 00:33:20,279
+conectando mais próximo ali tipo lei
+
+702
+00:33:18,519 --> 00:33:22,120
+gestáltáica básica de ter essa
+
+703
+00:33:20,279 --> 00:33:25,120
+proximidade e ler tudo como um elemento
+
+704
+00:33:22,120 --> 00:33:28,080
+só Essa apresentação que tá aberta aqui
+
+705
+00:33:25,120 --> 00:33:32,519
+para vocês foi a apresentação final que
+
+706
+00:33:28,080 --> 00:33:35,399
+a gente fez em 2022 para compartilhar
+
+707
+00:33:32,519 --> 00:33:36,960
+com o Bristol na época que eles ajudaram
+
+708
+00:33:35,399 --> 00:33:38,840
+a gente com o projeto deram um
+
+709
+00:33:36,960 --> 00:33:41,639
+financiamento pra gente acontecer eh
+
+710
+00:33:38,840 --> 00:33:43,760
+para fazer esse essa sessão do Tropixel
+
+711
+00:33:41,639 --> 00:33:47,080
+acontecer Mas aqui você já vê a marca
+
+712
+00:33:43,760 --> 00:33:48,799
+sendo usada e mas a marca sozinha Aí
+
+713
+00:33:47,080 --> 00:33:51,000
+volta um pouco que a Mária tava falando
+
+714
+00:33:48,799 --> 00:33:52,480
+de que a marca não é cristalizada as
+
+715
+00:33:51,000 --> 00:33:55,120
+marcas mais contemporâneas estão fazendo
+
+716
+00:33:52,480 --> 00:33:56,919
+isso né de ter elementos em volta da
+
+717
+00:33:55,120 --> 00:33:58,679
+marca em si para poder ajudar numa
+
+718
+00:33:56,919 --> 00:34:00,279
+determinada história que querem contar
+
+719
+00:33:58,679 --> 00:34:01,760
+hoje e no verão que vem vai ser uma
+
+720
+00:34:00,279 --> 00:34:05,039
+outra
+
+721
+00:34:01,760 --> 00:34:07,200
+história Eh eu vou passar de uma maneira
+
+722
+00:34:05,039 --> 00:34:08,520
+mais eu não vou entrar nos detalhes de
+
+723
+00:34:07,200 --> 00:34:10,879
+todas os
+
+724
+00:34:08,520 --> 00:34:13,520
+slides mas
+
+725
+00:34:10,879 --> 00:34:15,480
+eh se você tiver interesse em ver mais
+
+726
+00:34:13,520 --> 00:34:19,320
+tarde a gente vai compartilhar Mas aqui
+
+727
+00:34:15,480 --> 00:34:22,399
+você tem a as ideias que eu já expliquei
+
+728
+00:34:19,320 --> 00:34:25,679
+naquele outro arquivo aonde a gente foi
+
+729
+00:34:22,399 --> 00:34:28,760
+caminhando a a partir da inspiração do
+
+730
+00:34:25,679 --> 00:34:31,800
+ingá e o elemento de comunicação de
+
+731
+00:34:28,760 --> 00:34:35,399
+crescimento Eh a gente chegou nessa
+
+732
+00:34:31,800 --> 00:34:38,119
+ideia de que o eho com uma raiz e o
+
+733
+00:34:35,399 --> 00:34:41,320
+crescimento ser representado dentro a
+
+734
+00:34:38,119 --> 00:34:44,200
+partir da letra E E junto disso da
+
+735
+00:34:41,320 --> 00:34:47,280
+paleta de cores que a gente identificou
+
+736
+00:34:44,200 --> 00:34:51,800
+a gente começou a resgatar esses padrões
+
+737
+00:34:47,280 --> 00:34:53,720
+eh botânicos eh mais eh antigos ali de
+
+738
+00:34:51,800 --> 00:34:57,320
+ilustração botânica do começo do século
+
+739
+00:34:53,720 --> 00:35:00,200
+eh XIX aonde a gente
+
+740
+00:34:57,320 --> 00:35:02,240
+eh tinha a pretensão a gente vai
+
+741
+00:35:00,200 --> 00:35:04,160
+precisar revisitar isso agora de ter
+
+742
+00:35:02,240 --> 00:35:09,079
+essas diferentes áreas que a gente chama
+
+743
+00:35:04,160 --> 00:35:12,640
+hoje de vetores no método de de na
+
+744
+00:35:09,079 --> 00:35:14,440
+metodologia ia que a gente quer divulgar
+
+745
+00:35:12,640 --> 00:35:16,480
+eh a gente vai ter uma comunicação
+
+746
+00:35:14,440 --> 00:35:18,200
+representando cada um desses vetores Aí
+
+747
+00:35:16,480 --> 00:35:20,320
+isso é o experimento que você vê aqui na
+
+748
+00:35:18,200 --> 00:35:23,520
+coluna para mim tá na direita do meu
+
+749
+00:35:20,320 --> 00:35:23,520
+slide tá na direita para
+
+750
+00:35:24,960 --> 00:35:30,839
+vocês Aí a gente veio esse esse conteúdo
+
+751
+00:35:28,720 --> 00:35:34,119
+veio de vários workshops que foram
+
+752
+00:35:30,839 --> 00:35:36,359
+feitos antes da sessão propriamente dita
+
+753
+00:35:34,119 --> 00:35:39,520
+aonde discutimos com diferentes
+
+754
+00:35:36,359 --> 00:35:43,920
+profissionais eh da época E durante a
+
+755
+00:35:39,520 --> 00:35:45,640
+sessão eh lá no no Tropixel tinha uma
+
+756
+00:35:43,920 --> 00:35:49,520
+ilustradora que foi
+
+757
+00:35:45,640 --> 00:35:51,319
+capturando as conversas e os materiais
+
+758
+00:35:49,520 --> 00:35:53,760
+aonde a gente tinha uma dessa cada um
+
+759
+00:35:51,319 --> 00:35:56,480
+desses vetores nesse caso solo pro
+
+760
+00:35:53,760 --> 00:35:59,440
+projeto semente capturado com diferentes
+
+761
+00:35:56,480 --> 00:36:02,359
+pessoas opiniões Eh você vê os detalhes
+
+762
+00:35:59,440 --> 00:36:06,119
+de quem tava fazendo parte aonde as as
+
+763
+00:36:02,359 --> 00:36:08,359
+frases que foram capturadas vieram
+
+764
+00:36:06,119 --> 00:36:10,319
+Aí tem um aqui do manejo que é um outro
+
+765
+00:36:08,359 --> 00:36:15,800
+vetor dentro do nosso modelo A gente
+
+766
+00:36:10,319 --> 00:36:21,359
+mudou o modelo de de propagação entre eh
+
+767
+00:36:15,800 --> 00:36:24,400
+solo manejo frutos e eh regeneração mas
+
+768
+00:36:21,359 --> 00:36:26,960
+os elementos que estão aqui ainda nutrem
+
+769
+00:36:24,400 --> 00:36:29,359
+a reflexão sobre o desenvolvimento do
+
+770
+00:36:26,960 --> 00:36:31,319
+projeto Aqui de novo é um caso né que o
+
+771
+00:36:29,359 --> 00:36:34,160
+semente tá assinando mas a gente chegou
+
+772
+00:36:31,319 --> 00:36:36,880
+a gente desenvolveu uma comunidade uma
+
+773
+00:36:34,160 --> 00:36:38,520
+uma com a ajuda da ilustradora eh
+
+774
+00:36:36,880 --> 00:36:41,640
+desenhando em loco a gente desenvolveu
+
+775
+00:36:38,520 --> 00:36:44,520
+uma comunicação visual
+
+776
+00:36:41,640 --> 00:36:47,040
+para contribuir com a história que a
+
+777
+00:36:44,520 --> 00:36:48,680
+gente queria contar do projeto semente
+
+778
+00:36:47,040 --> 00:36:50,319
+Aí você tem o tempo que o tempo hoje em
+
+779
+00:36:48,680 --> 00:36:54,520
+dia a gente foi a
+
+780
+00:36:50,319 --> 00:36:57,720
+parte que a gente mudou mais no
+
+781
+00:36:54,520 --> 00:36:59,599
+modelo E aí essa essa ideia que ficou
+
+782
+00:36:57,720 --> 00:37:03,359
+muito clara pra gente já no começo que
+
+783
+00:36:59,599 --> 00:37:06,200
+não era um manual um livreto no inglês
+
+784
+00:37:03,359 --> 00:37:09,599
+aqui playbook mas a gente queria alguma
+
+785
+00:37:06,200 --> 00:37:12,880
+coisa que fosse eh dinâmica e adaptável
+
+786
+00:37:09,599 --> 00:37:12,880
+pras várias e
+
+787
+00:37:12,920 --> 00:37:18,920
+realidades Então dentro dessa ideia de
+
+788
+00:37:15,960 --> 00:37:21,119
+ter um manual um playbook a gente
+
+789
+00:37:18,920 --> 00:37:25,119
+resolveu ir para esse caminho das cartas
+
+790
+00:37:21,119 --> 00:37:28,520
+E aqui você vê no fundo uma imagem
+
+791
+00:37:25,119 --> 00:37:31,680
+da das primeiras versões do que que
+
+792
+00:37:28,520 --> 00:37:34,359
+seria esse material como essas cartas
+
+793
+00:37:31,680 --> 00:37:35,720
+funcionariam se funcionam ou não A gente
+
+794
+00:37:34,359 --> 00:37:38,000
+foi também provocando muito com os
+
+795
+00:37:35,720 --> 00:37:40,000
+participantes da primeiração que foi
+
+796
+00:37:38,000 --> 00:37:42,040
+impactando no design A gente chegou à
+
+797
+00:37:40,000 --> 00:37:43,680
+conclusão de que tinha que ter outras
+
+798
+00:37:42,040 --> 00:37:47,119
+cartas que a gente não previu que teriam
+
+799
+00:37:43,680 --> 00:37:49,480
+que ter outras áreas Eh mas a conversa
+
+800
+00:37:47,119 --> 00:37:51,319
+foi super rica e dinâmica atualizou
+
+801
+00:37:49,480 --> 00:37:53,839
+muito a primeira versão que a gente
+
+802
+00:37:51,319 --> 00:37:57,760
+tinha do nosso modelo Então o design tá
+
+803
+00:37:53,839 --> 00:38:00,079
+sempre ali junto e tentando correr atrás
+
+804
+00:37:57,760 --> 00:38:02,599
+das respostas que a gente recebeu
+
+805
+00:38:00,079 --> 00:38:05,640
+durante as facilitações
+
+806
+00:38:02,599 --> 00:38:09,640
+todas Eh aqui eu vou passar mais rápido
+
+807
+00:38:05,640 --> 00:38:12,599
+porque é uma impressão geral do de como
+
+808
+00:38:09,640 --> 00:38:14,319
+foi o evento do Tropixel Aqui você vê
+
+809
+00:38:12,599 --> 00:38:16,079
+sessões que a gente facilitava com
+
+810
+00:38:14,319 --> 00:38:19,040
+diferentes profissionais que estavam
+
+811
+00:38:16,079 --> 00:38:20,760
+visitando e anotando Aí dava também
+
+812
+00:38:19,040 --> 00:38:22,240
+esses A4 ali eram os próprios
+
+813
+00:38:20,760 --> 00:38:24,079
+participantes Ah não acho que esse esse
+
+814
+00:38:22,240 --> 00:38:25,240
+modelo tinha que ser dessa forma tem que
+
+815
+00:38:24,079 --> 00:38:28,040
+ser dessa forma E a gente foi
+
+816
+00:38:25,240 --> 00:38:31,520
+incorporando isso depois Mas isso de
+
+817
+00:38:28,040 --> 00:38:36,160
+novo reforça a ideia contínua de uma
+
+818
+00:38:31,520 --> 00:38:39,880
+adaptação do projeto eh de facilitação
+
+819
+00:38:36,160 --> 00:38:42,920
+que a gente tem a ambição de desenvolver
+
+820
+00:38:39,880 --> 00:38:45,960
+Aqui de novo era na salinha onde o o
+
+821
+00:38:42,920 --> 00:38:48,359
+semente tava sendo eh apresentado para
+
+822
+00:38:45,960 --> 00:38:51,560
+poder provocar conversas com a
+
+823
+00:38:48,359 --> 00:38:53,760
+comunidade Aqui você tem uma visão do da
+
+824
+00:38:51,560 --> 00:38:56,440
+possibilidade do deck e também das áreas
+
+825
+00:38:53,760 --> 00:39:00,079
+de facilitação do canvas que a gente
+
+826
+00:38:56,440 --> 00:39:00,079
+tava usando na época
+
+827
+00:39:02,880 --> 00:39:08,000
+Aqui você ter a gente teve a
+
+828
+00:39:04,960 --> 00:39:09,839
+oportunidade de de novo com sempre o
+
+829
+00:39:08,000 --> 00:39:12,200
+tabuleiro ali na mão e a cada pessoa que
+
+830
+00:39:09,839 --> 00:39:14,319
+a gente facilitava a gente revia o que
+
+831
+00:39:12,200 --> 00:39:17,240
+tava na mesa assim a gente atualizava
+
+832
+00:39:14,319 --> 00:39:18,960
+escrevia desenhava de novo e fomos
+
+833
+00:39:17,240 --> 00:39:23,040
+revendo que você vê a ilustradora que
+
+834
+00:39:18,960 --> 00:39:26,599
+cada sessão ela ilustrava durante o o as
+
+835
+00:39:23,040 --> 00:39:29,960
+apresentações do da disconferência que é
+
+836
+00:39:26,599 --> 00:39:29,960
+um exemplo da ilustração que ela
+
+837
+00:39:31,119 --> 00:39:37,079
+produziu E e aí foi uma reflexão que a
+
+838
+00:39:34,880 --> 00:39:38,880
+gente fez do dessa primeira versão dos
+
+839
+00:39:37,079 --> 00:39:44,480
+sementes com a
+
+840
+00:39:38,880 --> 00:39:46,000
+a primeira variação de de tabuleiro
+
+841
+00:39:44,480 --> 00:39:48,400
+canvas
+
+842
+00:39:46,000 --> 00:39:51,640
+modelo eh apresentando para todos os
+
+843
+00:39:48,400 --> 00:39:54,400
+participantes no último dia do
+
+844
+00:39:51,640 --> 00:39:56,839
+Tropixo E aí a gente capturou tudo que
+
+845
+00:39:54,400 --> 00:39:59,680
+veio e a gente vai chegar na versão
+
+846
+00:39:56,839 --> 00:40:01,200
+quatro que a gente e agora acabou de
+
+847
+00:39:59,680 --> 00:40:03,359
+validar lá dentro
+
+848
+00:40:01,200 --> 00:40:07,319
+do
+
+849
+00:40:03,359 --> 00:40:09,040
+do Gaiato que é foi a última versão que
+
+850
+00:40:07,319 --> 00:40:12,800
+a gente chegou Passamos uma residência
+
+851
+00:40:09,040 --> 00:40:15,079
+lá de duas semanas que influenciou muito
+
+852
+00:40:12,800 --> 00:40:16,839
+eh confirmou algumas suspeitas a ideia
+
+853
+00:40:15,079 --> 00:40:19,280
+do Felipe que ele insistia de o tempo
+
+854
+00:40:16,839 --> 00:40:20,319
+não é uma caixa é um contínuo Isso foi
+
+855
+00:40:19,280 --> 00:40:22,920
+muito bem
+
+856
+00:40:20,319 --> 00:40:24,560
+entendido e outros elementos de
+
+857
+00:40:22,920 --> 00:40:26,359
+facilitação Até olhando essa
+
+858
+00:40:24,560 --> 00:40:28,200
+apresentação hoje antes dessa chamada
+
+859
+00:40:26,359 --> 00:40:31,359
+nossa eu reconheço que muita coisa a
+
+860
+00:40:28,200 --> 00:40:33,280
+gente pode trazer de volta pro desenho
+
+861
+00:40:31,359 --> 00:40:37,119
+final
+
+862
+00:40:33,280 --> 00:40:38,599
+Então a gente teve Ah legal Felipe quer
+
+863
+00:40:37,119 --> 00:40:41,000
+é não só o comentário que eu ia fazer
+
+864
+00:40:38,599 --> 00:40:45,319
+que eh provavelmente ao longo desse
+
+865
+00:40:41,000 --> 00:40:48,440
+próximo mês assim além de trabalhar na
+
+866
+00:40:45,319 --> 00:40:52,119
+nesse desenho dessa versão atualizada do
+
+867
+00:40:48,440 --> 00:40:53,319
+desenho da metodologia a gente faz a
+
+868
+00:40:52,119 --> 00:40:55,359
+gente provavelmente vai fazer também uma
+
+869
+00:40:53,319 --> 00:40:56,839
+apresentação final gravada então
+
+870
+00:40:55,359 --> 00:40:58,200
+provavelmente vamos fazer um outro vídeo
+
+871
+00:40:56,839 --> 00:41:00,359
+quando a gente chegar nesse ponto de
+
+872
+00:40:58,200 --> 00:41:04,960
+publicar Claro que é a intenção para
+
+873
+00:41:00,359 --> 00:41:07,280
+esse próximo mês Claro É e é a gente
+
+874
+00:41:04,960 --> 00:41:09,839
+colheu umas coisas bem fortes Então a
+
+875
+00:41:07,280 --> 00:41:11,800
+gente por exemplo aqui são retornos que
+
+876
+00:41:09,839 --> 00:41:15,160
+a gente recebeu na época que o o a
+
+877
+00:41:11,800 --> 00:41:16,880
+prancha precisava eh ser modificada né
+
+878
+00:41:15,160 --> 00:41:19,119
+Eles identificamos as sessões que tinham
+
+879
+00:41:16,880 --> 00:41:20,960
+dois espaços que a gente não tava
+
+880
+00:41:19,119 --> 00:41:22,640
+contemplando nas primeiras versões Isso
+
+881
+00:41:20,960 --> 00:41:25,040
+já tá agora na versão quatro que a gente
+
+882
+00:41:22,640 --> 00:41:26,040
+pretende publicar
+
+883
+00:41:25,040 --> 00:41:29,160
+os
+
+884
+00:41:26,040 --> 00:41:31,960
+hã os desafios né Essas cartas iam ser
+
+885
+00:41:29,160 --> 00:41:34,400
+para facilitar ou desafiar a pessoa que
+
+886
+00:41:31,960 --> 00:41:35,800
+tá pensando um projeto em cima do nosso
+
+887
+00:41:34,400 --> 00:41:41,040
+do
+
+888
+00:41:35,800 --> 00:41:42,839
+nosso eh kit de de pensamento Eh
+
+889
+00:41:41,040 --> 00:41:44,920
+precisam de maturar muito a parte de
+
+890
+00:41:42,839 --> 00:41:46,079
+linguagem e tal Acho que depois dessa
+
+891
+00:41:44,920 --> 00:41:49,040
+residência a gente tá muito mais
+
+892
+00:41:46,079 --> 00:41:52,280
+preparado para escrever essas cartas
+
+893
+00:41:49,040 --> 00:41:53,680
+Ah como o a gente melhorou já isso a
+
+894
+00:41:52,280 --> 00:41:57,760
+coisa de da
+
+895
+00:41:53,680 --> 00:42:01,040
+metáfora botânica já tá ficando mais eh
+
+896
+00:41:57,760 --> 00:42:03,040
+auto eh
+
+897
+00:42:01,040 --> 00:42:05,240
+explicativa Vocabulário é uma coisa que
+
+898
+00:42:03,040 --> 00:42:07,920
+a gente ainda tem que trabalhar melhor E
+
+899
+00:42:05,240 --> 00:42:09,760
+e os grupos e os temas a gente vai a
+
+900
+00:42:07,920 --> 00:42:12,200
+gente entendeu já na primeira versão que
+
+901
+00:42:09,760 --> 00:42:14,760
+talvez seria um deck de cartas não só os
+
+902
+00:42:12,200 --> 00:42:17,839
+vetores que a gente tem no nosso modelo
+
+903
+00:42:14,760 --> 00:42:20,720
+de pensamento mas talvez eh um jogo de
+
+904
+00:42:17,839 --> 00:42:24,440
+cartas um deck de cartas que é só sobre
+
+905
+00:42:20,720 --> 00:42:29,040
+eh comunidade e educação eh ou
+
+906
+00:42:24,440 --> 00:42:31,680
+apropriação digital ou impacto eh
+
+907
+00:42:29,040 --> 00:42:34,800
+ecológico Eh e a gente ainda tem a ideia
+
+908
+00:42:31,680 --> 00:42:36,520
+de ter uns coringas assim tipo e se o
+
+909
+00:42:34,800 --> 00:42:38,880
+governo mudou completamente a política
+
+910
+00:42:36,520 --> 00:42:41,079
+de de ação social como é que você lida
+
+911
+00:42:38,880 --> 00:42:43,240
+com o seu projeto para provocar quem tá
+
+912
+00:42:41,079 --> 00:42:45,240
+usando nossa metodologia para pensar os
+
+913
+00:42:43,240 --> 00:42:48,880
+próprios projetos em contextos que eles
+
+914
+00:42:45,240 --> 00:42:48,880
+não controlam necessariamente
+
+915
+00:42:49,119 --> 00:42:52,880
+E aí a gente tá aqui eu acho que dá para
+
+916
+00:42:51,280 --> 00:42:58,480
+ter uma boa conclusão porque a gente
+
+917
+00:42:52,880 --> 00:43:01,040
+isso aqui era fase eh dois Felipe
+
+918
+00:42:58,480 --> 00:43:03,200
+Não não era só esse pedido pra gente
+
+919
+00:43:01,040 --> 00:43:05,680
+encaminhar pra conclusão porque o foco
+
+920
+00:43:03,200 --> 00:43:07,000
+hoje é pensar mais na identidade marca e
+
+921
+00:43:05,680 --> 00:43:09,680
+depois a gente vai falar mais sobre o
+
+922
+00:43:07,000 --> 00:43:12,040
+tabuleiro e enfim playfield acho que na
+
+923
+00:43:09,680 --> 00:43:13,760
+próxima sessão Ah pronto Eu tinha
+
+924
+00:43:12,040 --> 00:43:15,359
+entendido que era comunicação visual de
+
+925
+00:43:13,760 --> 00:43:18,079
+uma maneira mais abrangente assim né o
+
+926
+00:43:15,359 --> 00:43:22,880
+tabuleiro a marca as cartas tá tudo no
+
+927
+00:43:18,079 --> 00:43:24,640
+mesmo eh espaço para mim mais do que eh
+
+928
+00:43:22,880 --> 00:43:27,520
+falar da marca propriamente dita A marca
+
+929
+00:43:24,640 --> 00:43:30,760
+propriamente dita não ela não tem a
+
+930
+00:43:27,520 --> 00:43:32,480
+força eh sozinho É a minha visão Ah mas
+
+931
+00:43:30,760 --> 00:43:35,520
+Ah bom sim É mas é que como a gente vai
+
+932
+00:43:32,480 --> 00:43:38,280
+evoluir ainda eh acho que a gente pode
+
+933
+00:43:35,520 --> 00:43:41,800
+deixar um pouco para aprofundar no
+
+934
+00:43:38,280 --> 00:43:44,839
+método eh e no design da interação a
+
+935
+00:43:41,800 --> 00:43:47,839
+partir da da tabuleiro catas paraa
+
+936
+00:43:44,839 --> 00:43:49,359
+próxima etapa tá bom Ah aqui mas a gente
+
+937
+00:43:47,839 --> 00:43:50,839
+também chegou no final a apresentação
+
+938
+00:43:49,359 --> 00:43:53,800
+esses próximos passos que a gente
+
+939
+00:43:50,839 --> 00:43:56,520
+colocou em 2002 eh várias a gente deu
+
+940
+00:43:53,800 --> 00:44:00,400
+vários passos depois desse momento aqui
+
+941
+00:43:56,520 --> 00:44:04,000
+né A gente já tá na versão quatro eh a
+
+942
+00:44:00,400 --> 00:44:07,400
+todas as ideias de cocriação de como
+
+943
+00:44:04,000 --> 00:44:10,280
+entender a gente maturou muito com a
+
+944
+00:44:07,400 --> 00:44:12,000
+residência com Gaiato na semanas
+
+945
+00:44:10,280 --> 00:44:14,359
+passadas
+
+946
+00:44:12,000 --> 00:44:17,800
+Aí eh eu acho que é isso Na verdade esse
+
+947
+00:44:14,359 --> 00:44:17,800
+é o último slide
+
+948
+00:44:18,119 --> 00:44:24,760
+Vamos pro Eni
+
+949
+00:44:21,240 --> 00:44:26,440
+Beleza obrigado Eh acho que a Mara pode
+
+950
+00:44:24,760 --> 00:44:28,440
+continuar a partir daí tentando
+
+951
+00:44:26,440 --> 00:44:30,839
+conversar um pouco sobre essa coisa de
+
+952
+00:44:28,440 --> 00:44:34,200
+de como a gente documentar e
+
+953
+00:44:30,839 --> 00:44:36,880
+compartilhar a identidade Sim
+
+954
+00:44:34,200 --> 00:44:38,720
+Eh eu acho que são muitas são algumas
+
+955
+00:44:36,880 --> 00:44:41,880
+questões né que a gente tinha feito para
+
+956
+00:44:38,720 --> 00:44:46,480
+nortear isso tudo
+
+957
+00:44:41,880 --> 00:44:50,480
+Eh e são questões mais internas que a
+
+958
+00:44:46,480 --> 00:44:50,480
+gente pretende
+
+959
+00:44:50,760 --> 00:44:58,680
+eh eh sistematizar e distribuir no que
+
+960
+00:44:54,440 --> 00:45:02,280
+seria eh esse brand brand guide mas que
+
+961
+00:44:58,680 --> 00:45:06,680
+seja algo mais de uma forma de ser um
+
+962
+00:45:02,280 --> 00:45:09,559
+tutorial aberto e mixável do que ser
+
+963
+00:45:06,680 --> 00:45:10,839
+algo engessado e seguir uma receita de
+
+964
+00:45:09,559 --> 00:45:13,319
+bolo né
+
+965
+00:45:10,839 --> 00:45:15,800
+Eh eu gostaria de fazer algumas
+
+966
+00:45:13,319 --> 00:45:17,880
+perguntas aí bem abertas para Felipe e
+
+967
+00:45:15,800 --> 00:45:19,720
+Bernardo Fiquem à vontade para quem
+
+968
+00:45:17,880 --> 00:45:22,520
+quiser eh
+
+969
+00:45:19,720 --> 00:45:26,240
+responder Mas
+
+970
+00:45:22,520 --> 00:45:29,680
+eh quando você criou começou a criação
+
+971
+00:45:26,240 --> 00:45:33,440
+dessa marca Bernardo qual a maior
+
+972
+00:45:29,680 --> 00:45:36,599
+diferença que você imaginou do que você
+
+973
+00:45:33,440 --> 00:45:40,000
+estava criando para outras iniciativas
+
+974
+00:45:36,599 --> 00:45:40,000
+desse segmento
+
+975
+00:45:44,160 --> 00:45:51,920
+Hã não tivemos
+
+976
+00:45:47,240 --> 00:45:54,160
+essa preocupação de comparar com outros
+
+977
+00:45:51,920 --> 00:45:55,680
+eh iniciativas necessariamente Tem um
+
+978
+00:45:54,160 --> 00:45:59,319
+universo gigante principalmente nessa
+
+979
+00:45:55,680 --> 00:46:01,119
+parte do design de facilitação e tal tem
+
+980
+00:45:59,319 --> 00:46:03,160
+um universo gigante de
+
+981
+00:46:01,119 --> 00:46:07,960
+de
+
+982
+00:46:03,160 --> 00:46:10,440
+eh jogo de cartas e nomes eh cheio de
+
+983
+00:46:07,960 --> 00:46:13,559
+cat phrases né para poder as pessoas
+
+984
+00:46:10,440 --> 00:46:16,920
+usarem A gente partiu muito mais
+
+985
+00:46:13,559 --> 00:46:18,640
+internamente assim como traduzir um e
+
+986
+00:46:16,920 --> 00:46:21,839
+fonte wick de uma maneira que seja
+
+987
+00:46:18,640 --> 00:46:24,480
+educativa e que seja prazerosa de ver
+
+988
+00:46:21,839 --> 00:46:27,400
+manipular Então foi muito mais fechado
+
+989
+00:46:24,480 --> 00:46:30,079
+eh no que a gente queria construir e
+
+990
+00:46:27,400 --> 00:46:31,680
+menos preocupado no que tá acontecendo
+
+991
+00:46:30,079 --> 00:46:35,079
+fora Não teve uma pesquisa por exemplo
+
+992
+00:46:31,680 --> 00:46:38,960
+de ver como outras
+
+993
+00:46:35,079 --> 00:46:41,480
+eh instituições que têm nome semente se
+
+994
+00:46:38,960 --> 00:46:45,160
+posicionam graficamente ou visualmente
+
+995
+00:46:41,480 --> 00:46:49,119
+ou mesmo uma um outro grupo de
+
+996
+00:46:45,160 --> 00:46:53,559
+facilitação eh que use os formatos Eh
+
+997
+00:46:49,119 --> 00:46:55,440
+não teve essa essa preocupação não
+
+998
+00:46:53,559 --> 00:46:57,280
+deliberadamente Sim O que eu tô
+
+999
+00:46:55,440 --> 00:47:00,079
+perguntando não é nem no sentido de ter
+
+1000
+00:46:57,280 --> 00:47:03,200
+outro grupo que chama semente ou eh ter
+
+1001
+00:47:00,079 --> 00:47:05,079
+pesquisado concorrentes mas diante do
+
+1002
+00:47:03,200 --> 00:47:08,680
+que você vê no
+
+1003
+00:47:05,079 --> 00:47:10,559
+universo eh porque isso é informação e
+
+1004
+00:47:08,680 --> 00:47:13,200
+de alguma forma fica armazenado aí no
+
+1005
+00:47:10,559 --> 00:47:17,160
+nosso inconsciente né e a gente transpõe
+
+1006
+00:47:13,200 --> 00:47:20,280
+isso para trabalho Então do que você vê
+
+1007
+00:47:17,160 --> 00:47:22,680
+assim ao seu redor e e tava entendendo e
+
+1008
+00:47:20,280 --> 00:47:27,000
+sentindo eh do
+
+1009
+00:47:22,680 --> 00:47:29,960
+ambiente o que você não queria eh que
+
+1010
+00:47:27,000 --> 00:47:32,520
+isso eh se transformasse Tinha balizado
+
+1011
+00:47:29,960 --> 00:47:36,559
+isso de alguma forma ou você acha que
+
+1012
+00:47:32,520 --> 00:47:39,559
+foi mais processual também
+
+1013
+00:47:36,559 --> 00:47:42,240
+Eu só consigo ver do lado processual
+
+1014
+00:47:39,559 --> 00:47:45,640
+assim como responder à demanda de ter
+
+1015
+00:47:42,240 --> 00:47:47,880
+uma uma comunicação visual que
+
+1016
+00:47:45,640 --> 00:47:51,119
+represente recombinações e um
+
+1017
+00:47:47,880 --> 00:47:54,240
+crescimento contínuo Então veio desse
+
+1018
+00:47:51,119 --> 00:47:56,920
+lugar assim eh a
+
+1019
+00:47:54,240 --> 00:47:59,000
+minha o meu posicionamento pessoal
+
+1020
+00:47:56,920 --> 00:48:02,079
+político as minhas sensações não
+
+1021
+00:47:59,000 --> 00:48:04,200
+passaram por esse tipo de decisão não
+
+1022
+00:48:02,079 --> 00:48:05,920
+Foi mais uma interação na época contínua
+
+1023
+00:48:04,200 --> 00:48:07,040
+com a Priscila que ela tava muito
+
+1024
+00:48:05,920 --> 00:48:08,800
+interessada nesse universo de
+
+1025
+00:48:07,040 --> 00:48:11,720
+comunicação Priscila foi uma
+
+1026
+00:48:08,800 --> 00:48:14,920
+participaante participante do grupo
+
+1027
+00:48:11,720 --> 00:48:19,920
+Nels e muitas vezes ela trazia um
+
+1028
+00:48:14,920 --> 00:48:23,760
+elemento mais subjetivo eh de leitura de
+
+1029
+00:48:19,920 --> 00:48:25,040
+cores ou não E eu trazia a dimensão mais
+
+1030
+00:48:23,760 --> 00:48:27,400
+técnica Ah essa cor a gente não pode
+
+1031
+00:48:25,040 --> 00:48:31,559
+usar porque vai dar uma legibilidade
+
+1032
+00:48:27,400 --> 00:48:33,880
+difícil ou eh isso aqui é melhor a gente
+
+1033
+00:48:31,559 --> 00:48:37,400
+manter de uma forma simplificada para
+
+1034
+00:48:33,880 --> 00:48:42,400
+poder aplicar em várias dimensões desde
+
+1035
+00:48:37,400 --> 00:48:46,280
+um um ICO ali na URL do browser até uma
+
+1036
+00:48:42,400 --> 00:48:47,520
+impressão larga assim Ma você congelou
+
+1037
+00:48:46,280 --> 00:48:50,520
+para mim aqui um pouco Você tá me
+
+1038
+00:48:47,520 --> 00:48:50,520
+ouvindo
+
+1039
+00:48:54,920 --> 00:49:00,240
+É aqui também me dá a impressão que a
+
+1040
+00:48:56,599 --> 00:49:02,839
+Mara tá congelada Ah ok É não o seu
+
+1041
+00:49:00,240 --> 00:49:07,680
+vídeo o seu vídeo congelou mas o áudio
+
+1042
+00:49:02,839 --> 00:49:07,680
+que eu falei você ouviu Sim
+
+1043
+00:49:09,520 --> 00:49:15,680
+Será Ouvi tudo Ah então bom Tô desliguei
+
+1044
+00:49:13,240 --> 00:49:18,480
+aqui para vocês É o seu vídeo tava
+
+1045
+00:49:15,680 --> 00:49:22,000
+congelando Eh mas você entende a sua
+
+1046
+00:49:18,480 --> 00:49:25,319
+pergunta aí eh da minha subjetividade ou
+
+1047
+00:49:22,000 --> 00:49:28,280
+da minha posição diante do mundo eh
+
+1048
+00:49:25,319 --> 00:49:29,680
+passa mais pelo viés assim de é uma
+
+1049
+00:49:28,280 --> 00:49:34,119
+oportunidade de usar o conhecimento que
+
+1050
+00:49:29,680 --> 00:49:36,720
+eu tenho para fomentar outras forças eh
+
+1051
+00:49:34,119 --> 00:49:40,480
+de vida mesmo né Políticas de de vida e
+
+1052
+00:49:36,720 --> 00:49:43,119
+não política de morte eh que eu acho que
+
+1053
+00:49:40,480 --> 00:49:47,000
+vale mas isso
+
+1054
+00:49:43,119 --> 00:49:50,000
+eh corre ao lado das decisões de marca
+
+1055
+00:49:47,000 --> 00:49:52,160
+que a gente fez
+
+1056
+00:49:50,000 --> 00:49:55,160
+na minha no meu entendimento né Sim
+
+1057
+00:49:52,160 --> 00:49:55,160
+entendi
+
+1058
+00:49:57,200 --> 00:50:02,280
+É eu tô agora acho que eu não tô mais
+
+1059
+00:49:59,640 --> 00:50:04,680
+ouvindo
+
+1060
+00:50:02,280 --> 00:50:06,799
+Eu eu parei de falar então talvez por
+
+1061
+00:50:04,680 --> 00:50:09,280
+isso Ah então tá bom Não acho que foi
+
+1062
+00:50:06,799 --> 00:50:12,079
+isso Mas é que deu uma travada na sua
+
+1063
+00:50:09,280 --> 00:50:15,040
+câmera eu não não entendi o que que era
+
+1064
+00:50:12,079 --> 00:50:18,359
+Eh e aí nesse contexto Bernardo quando
+
+1065
+00:50:15,040 --> 00:50:20,559
+você começou a fazer a marca ela foi
+
+1066
+00:50:18,359 --> 00:50:23,799
+totalmente sempre nesse processo
+
+1067
+00:50:20,559 --> 00:50:26,520
+intuitivo ou você esperava que fosse
+
+1068
+00:50:23,799 --> 00:50:29,000
+algo inovador
+
+1069
+00:50:26,520 --> 00:50:33,200
+disruptivo e você
+
+1070
+00:50:29,000 --> 00:50:35,520
+tinha eh e é assim que esse processo que
+
+1071
+00:50:33,200 --> 00:50:38,599
+eu tô conduzindo ele vai ter essa
+
+1072
+00:50:35,520 --> 00:50:41,040
+funcionalidade essa entrega mas no final
+
+1073
+00:50:38,599 --> 00:50:43,520
+eu também espero que seja algo que ainda
+
+1074
+00:50:41,040 --> 00:50:46,280
+não foi visto visto nesse segmento de
+
+1075
+00:50:43,520 --> 00:50:48,280
+repente como que foi essa construção
+
+1076
+00:50:46,280 --> 00:50:50,480
+É não eu não
+
+1077
+00:50:48,280 --> 00:50:54,079
+tinha pessoalmente falando eu não tinha
+
+1078
+00:50:50,480 --> 00:50:55,720
+nenhuma pretensão de que fosse eh a
+
+1079
+00:50:54,079 --> 00:50:57,720
+marca falando da marca especificamente
+
+1080
+00:50:55,720 --> 00:50:59,559
+que fosse inovadora
+
+1081
+00:50:57,720 --> 00:51:02,760
+eh ou
+
+1082
+00:50:59,559 --> 00:51:06,119
+exclusiva ou
+
+1083
+00:51:02,760 --> 00:51:08,559
+hã a expectativa era como
+
+1084
+00:51:06,119 --> 00:51:11,480
+comunicar esses elementos de
+
+1085
+00:51:08,559 --> 00:51:13,440
+recombinação e crescimento Então isso
+
+1086
+00:51:11,480 --> 00:51:15,400
+foi coisas que ficaram pra gente o tempo
+
+1087
+00:51:13,440 --> 00:51:19,880
+todo mas
+
+1088
+00:51:15,400 --> 00:51:21,960
+eh a marca sozinha não faz isso né Tipo
+
+1089
+00:51:19,880 --> 00:51:23,880
+a marca podia ser lá voltar lá naquela
+
+1090
+00:51:21,960 --> 00:51:25,720
+primeira naquele primeiro elemento
+
+1091
+00:51:23,880 --> 00:51:29,280
+gráfico da mancha de café que em algum
+
+1092
+00:51:25,720 --> 00:51:31,559
+lugar a gente eh brincou com isso e
+
+1093
+00:51:29,280 --> 00:51:34,240
+ainda pode existir em outros lugares mas
+
+1094
+00:51:31,559 --> 00:51:38,680
+o que faz o semente ser o Semente como
+
+1095
+00:51:34,240 --> 00:51:42,680
+um conceito é a ideia de
+
+1096
+00:51:38,680 --> 00:51:44,319
+eh ser o mais traduzível possível paraas
+
+1097
+00:51:42,680 --> 00:51:46,119
+mais
+
+1098
+00:51:44,319 --> 00:51:49,200
+variedades
+
+1099
+00:51:46,119 --> 00:51:50,559
+eh de origem com quem tá olhando o que
+
+1100
+00:51:49,200 --> 00:51:53,280
+que tá olhando e aquilo ainda ser
+
+1101
+00:51:50,559 --> 00:51:57,240
+entendível de uma maneira que eles podem
+
+1102
+00:51:53,280 --> 00:52:00,200
+se apropriar e usar Então é muito menos
+
+1103
+00:51:57,240 --> 00:52:02,760
+eh a minha ambição de criar alguma coisa
+
+1104
+00:52:00,200 --> 00:52:05,119
+inovadora Eu nem acredito muito nesse
+
+1105
+00:52:02,760 --> 00:52:06,599
+nesse discurso Eh eu acho que o que a
+
+1106
+00:52:05,119 --> 00:52:07,720
+gente tá fazendo que é inovador é a
+
+1107
+00:52:06,599 --> 00:52:11,720
+ideia
+
+1108
+00:52:07,720 --> 00:52:14,520
+de ouvir e dar espaço para pessoas que
+
+1109
+00:52:11,720 --> 00:52:16,079
+não enxergam esse espaço com frequência
+
+1110
+00:52:14,520 --> 00:52:17,680
+a criar os seus próprios projetos e
+
+1111
+00:52:16,079 --> 00:52:20,040
+articular os próprios projetos em vez de
+
+1112
+00:52:17,680 --> 00:52:23,160
+receber uma coisa pré-cozida Isso para
+
+1113
+00:52:20,040 --> 00:52:25,240
+mim é inovação socialmente falando a
+
+1114
+00:52:23,160 --> 00:52:27,319
+marca em si podia ser outra outro
+
+1115
+00:52:25,240 --> 00:52:31,240
+lettering outra
+
+1116
+00:52:27,319 --> 00:52:34,240
+estrutura eh outra paleta de
+
+1117
+00:52:31,240 --> 00:52:37,520
+cores mas ainda nutrindo a mesma ideia
+
+1118
+00:52:34,240 --> 00:52:40,400
+de apropriação recombinação e
+
+1119
+00:52:37,520 --> 00:52:43,000
+crescimento dos das comunidades com quem
+
+1120
+00:52:40,400 --> 00:52:46,599
+a gente pode vir a trabalhar Você
+
+1121
+00:52:43,000 --> 00:52:49,839
+entende Eu não nunca viemos de uma coisa
+
+1122
+00:52:46,599 --> 00:52:51,920
+assim eh criar um destaque pro semente
+
+1123
+00:52:49,839 --> 00:52:55,599
+em si do ponto de vista da marca que a
+
+1124
+00:52:51,920 --> 00:52:58,799
+marca tava criando uma comunicação que a
+
+1125
+00:52:55,599 --> 00:53:00,960
+ambição toda da comunicação é nutrir o
+
+1126
+00:52:58,799 --> 00:53:02,920
+uso reuso e o crescimento e a
+
+1127
+00:53:00,960 --> 00:53:05,760
+recombinação por pessoas não que não a
+
+1128
+00:53:02,920 --> 00:53:07,839
+gente Eu acho que essas pessoas com base
+
+1129
+00:53:05,760 --> 00:53:08,799
+em algumas pessoas que a gente conversou
+
+1130
+00:53:07,839 --> 00:53:12,400
+eu não acho que eles vão estar se
+
+1131
+00:53:08,799 --> 00:53:16,799
+importando muito com a marca se a cor a
+
+1132
+00:53:12,400 --> 00:53:19,200
+paleta se entende o é ou não eh como uma
+
+1133
+00:53:16,799 --> 00:53:21,240
+plantinha que tá crescendo a gente tenta
+
+1134
+00:53:19,200 --> 00:53:22,920
+manter a coisa
+
+1135
+00:53:21,240 --> 00:53:26,880
+mais
+
+1136
+00:53:22,920 --> 00:53:29,559
+eh simples e reconhecível possível para
+
+1137
+00:53:26,880 --> 00:53:32,319
+lidar com vários níveis de letramento né
+
+1138
+00:53:29,559 --> 00:53:34,000
+em projetos sociais Sim o que é uma
+
+1139
+00:53:32,319 --> 00:53:37,400
+subversão da
+
+1140
+00:53:34,000 --> 00:53:39,960
+própria da das próprias expectativas do
+
+1141
+00:53:37,400 --> 00:53:41,920
+design né e de como as coisas acontecem
+
+1142
+00:53:39,960 --> 00:53:44,440
+Você que veio do mercado porque
+
+1143
+00:53:41,920 --> 00:53:45,920
+geralmente se olha quem é o público né
+
+1144
+00:53:44,440 --> 00:53:48,079
+Então qual que são os desejos
+
+1145
+00:53:45,920 --> 00:53:50,079
+aspiracionais desse público Então como a
+
+1146
+00:53:48,079 --> 00:53:53,799
+gente vai criar algo que comunique tudo
+
+1147
+00:53:50,079 --> 00:53:56,520
+isso que a pessoa quer receber consumir
+
+1148
+00:53:53,799 --> 00:53:57,520
+E a entrega ela é quase que secundária
+
+1149
+00:53:56,520 --> 00:54:01,839
+né
+
+1150
+00:53:57,520 --> 00:54:05,760
+Eh não é colocado isso como primordial
+
+1151
+00:54:01,839 --> 00:54:08,319
+como o objetivo em si A entrega é isso
+
+1152
+00:54:05,760 --> 00:54:10,880
+Poderia ser qualquer coisa desde que
+
+1153
+00:54:08,319 --> 00:54:14,240
+esteja comunicando os anseios de
+
+1154
+00:54:10,880 --> 00:54:16,640
+determinada pessoa ou público Então é
+
+1155
+00:54:14,240 --> 00:54:20,119
+meio que uma subversão também das
+
+1156
+00:54:16,640 --> 00:54:23,480
+expectativas do design em si
+
+1157
+00:54:20,119 --> 00:54:26,079
+É se você pensar num design mais eh
+
+1158
+00:54:23,480 --> 00:54:30,160
+clássico né de de discurso de branding
+
+1159
+00:54:26,079 --> 00:54:31,480
+ali dos anos 70 80 eh pode eu não
+
+1160
+00:54:30,160 --> 00:54:35,319
+chamaria de subversão eu acho que é uma
+
+1161
+00:54:31,480 --> 00:54:39,040
+palavra forte mas é mais
+
+1162
+00:54:35,319 --> 00:54:42,839
+eh brincalhão assim de de não se
+
+1163
+00:54:39,040 --> 00:54:44,400
+preocupar eh com o uso estruturado mas
+
+1164
+00:54:42,839 --> 00:54:46,640
+precisa por causa dessa parte de
+
+1165
+00:54:44,400 --> 00:54:48,880
+letramento e a gente sabe que essa
+
+1166
+00:54:46,640 --> 00:54:52,079
+ferramenta vai ser utilizada por pessoas
+
+1167
+00:54:48,880 --> 00:54:55,400
+de de níveis eh educacionais e
+
+1168
+00:54:52,079 --> 00:54:59,079
+inteligência emocional e maturidade
+
+1169
+00:54:55,400 --> 00:55:01,319
+comunitária bem distintas Então a coisa
+
+1170
+00:54:59,079 --> 00:55:04,000
+mais importante seja qual for a marca é
+
+1171
+00:55:01,319 --> 00:55:06,920
+que seja reconhecível e entendível nesse
+
+1172
+00:55:04,000 --> 00:55:09,040
+sentido ir para essa base da base de a
+
+1173
+00:55:06,920 --> 00:55:10,680
+sementinha o feijãozinho que você bota
+
+1174
+00:55:09,040 --> 00:55:13,040
+no algodão que qualquer pessoa que tenha
+
+1175
+00:55:10,680 --> 00:55:14,599
+qualquer mínimo contato com esse
+
+1176
+00:55:13,040 --> 00:55:17,040
+universo vai reconhecer a ideia de
+
+1177
+00:55:14,599 --> 00:55:19,119
+crescimento e maturidade
+
+1178
+00:55:17,040 --> 00:55:21,839
+Eh isso nesse sentido foi assertivo
+
+1179
+00:55:19,119 --> 00:55:24,680
+assim mas de novo não pela forma em si
+
+1180
+00:55:21,839 --> 00:55:26,799
+mas pelo que ela comunica de uma forma
+
+1181
+00:55:24,680 --> 00:55:29,559
+bem
+
+1182
+00:55:26,799 --> 00:55:32,480
+eh reconhecível que isso aqui vai me
+
+1183
+00:55:29,559 --> 00:55:34,039
+ajudar a crescer com o meu projeto Uhum
+
+1184
+00:55:32,480 --> 00:55:38,599
+E vai me ajudar a pensar o que deu
+
+1185
+00:55:34,039 --> 00:55:40,359
+errado antes para nutrir um projeto novo
+
+1186
+00:55:38,599 --> 00:55:42,720
+Essa eu acho que era a preocupação esse
+
+1187
+00:55:40,359 --> 00:55:45,599
+é o viés principal da conversa né
+
+1188
+00:55:42,720 --> 00:55:49,000
+E além disso eh essa possibilidade de
+
+1189
+00:55:45,599 --> 00:55:52,280
+você trazer sementes de diversas
+
+1190
+00:55:49,000 --> 00:55:54,200
+espécies e mudas de diversas espécies se
+
+1191
+00:55:52,280 --> 00:55:56,119
+aproximando ainda mais da realidade
+
+1192
+00:55:54,200 --> 00:55:58,680
+dessas pessoas de acordo com a
+
+1193
+00:55:56,119 --> 00:56:00,680
+localidade que isso tá aplicado É eu tô
+
+1194
+00:55:58,680 --> 00:56:02,680
+aqui vizinho a um banco de sementes que
+
+1195
+00:56:00,680 --> 00:56:06,760
+eu tô colaborando com eles para poder
+
+1196
+00:56:02,680 --> 00:56:10,160
+olhar eh como criar um banco de sementes
+
+1197
+00:56:06,760 --> 00:56:13,119
+eh com sementes nativas da Amazônia para
+
+1198
+00:56:10,160 --> 00:56:17,160
+financiar financiar nutrir e
+
+1199
+00:56:13,119 --> 00:56:19,119
+reflorestamento né eh a diversidade e a
+
+1200
+00:56:17,160 --> 00:56:22,079
+riqueza da semente A gente trabalhou
+
+1201
+00:56:19,119 --> 00:56:24,480
+essa versão agora com ingá mas eu posso
+
+1202
+00:56:22,079 --> 00:56:30,520
+vir a usar várias outras sementes Tem
+
+1203
+00:56:24,480 --> 00:56:32,599
+umas que são tipo boy isso Eh tem vários
+
+1204
+00:56:30,520 --> 00:56:35,039
+outros elementos que a gente podia usar
+
+1205
+00:56:32,599 --> 00:56:37,400
+eh e ainda manter essa mesma ideia É uma
+
+1206
+00:56:35,039 --> 00:56:41,000
+coisa que eu reconheço planta nutre
+
+1207
+00:56:37,400 --> 00:56:42,680
+cresce e eu colho os frutos Essa ideia é
+
+1208
+00:56:41,000 --> 00:56:46,039
+a essência do que a gente tá propondo
+
+1209
+00:56:42,680 --> 00:56:48,160
+muito mais do que a marca em si
+
+1210
+00:56:46,039 --> 00:56:51,240
+Do meu ponto de vista É E você tinha
+
+1211
+00:56:48,160 --> 00:56:55,960
+falado de design em brincalhão agora a
+
+1212
+00:56:51,240 --> 00:56:58,720
+pouco mas eh hoje tem muitas pessoas
+
+1213
+00:56:55,960 --> 00:57:01,599
+trabalhando com tipografia e palavras
+
+1214
+00:56:58,720 --> 00:57:03,680
+divertidas eh transformadas em elementos
+
+1215
+00:57:01,599 --> 00:57:07,319
+gráficos
+
+1216
+00:57:03,680 --> 00:57:09,359
+E de alguma forma né eu entendi o que
+
+1217
+00:57:07,319 --> 00:57:10,160
+você disse com brincalhão que é talvez
+
+1218
+00:57:09,359 --> 00:57:13,599
+um
+
+1219
+00:57:10,160 --> 00:57:17,240
+customizável um remixável um apropriado
+
+1220
+00:57:13,599 --> 00:57:19,200
+da cultura do local mas semente não é
+
+1221
+00:57:17,240 --> 00:57:23,640
+necessariamente uma
+
+1222
+00:57:19,200 --> 00:57:25,880
+marca que ela é divertida em si né com
+
+1223
+00:57:23,640 --> 00:57:29,280
+essa questão do tipo quase que
+
+1224
+00:57:25,880 --> 00:57:33,359
+memegráfica assim eh mas também ela não
+
+1225
+00:57:29,280 --> 00:57:39,079
+é séria como você assim como criador aí
+
+1226
+00:57:33,359 --> 00:57:43,039
+definiria isso de novo A ambição é ter
+
+1227
+00:57:39,079 --> 00:57:45,799
+essa entrada cognitiva mais simples
+
+1228
+00:57:43,039 --> 00:57:47,960
+possível assim que se eu mostrar pras
+
+1229
+00:57:45,799 --> 00:57:49,200
+minhas sobrinhas minhas sobrinhas nem
+
+1230
+00:57:47,960 --> 00:57:51,319
+acho que são uma referência mas eu acho
+
+1231
+00:57:49,200 --> 00:57:53,599
+que se eu mostrar para o pessoal que eu
+
+1232
+00:57:51,319 --> 00:57:55,400
+vou na Oldia Maguarito amanhã eu acho
+
+1233
+00:57:53,599 --> 00:57:58,599
+que eles vão reconhecer o que é seja lá
+
+1234
+00:57:55,400 --> 00:58:00,960
+o que for não é é engar é a letra e não
+
+1235
+00:57:58,599 --> 00:58:03,480
+é a letra e mas o crescimento eu acho
+
+1236
+00:58:00,960 --> 00:58:06,799
+que é uma referência muito patente Então
+
+1237
+00:58:03,480 --> 00:58:09,000
+essa ideia de ter uma entrada qualquer
+
+1238
+00:58:06,799 --> 00:58:11,079
+pessoa que pegar o modelo que a gente tá
+
+1239
+00:58:09,000 --> 00:58:13,520
+desenvolvendo e começar a brincar com as
+
+1240
+00:58:11,079 --> 00:58:15,400
+cartas mesmo de de como se fosse jogar
+
+1241
+00:58:13,520 --> 00:58:19,280
+paciência com eles com com eles mesmos
+
+1242
+00:58:15,400 --> 00:58:21,200
+para poder pensar o projeto A entrada
+
+1243
+00:58:19,280 --> 00:58:24,400
+é
+
+1244
+00:58:21,200 --> 00:58:26,760
+hum a metáfora tipo a barra né Tipo é
+
+1245
+00:58:24,400 --> 00:58:29,200
+baixar essa barra tipo não ter nenhum
+
+1246
+00:58:26,760 --> 00:58:30,760
+obstáculo para você entrar e brincar com
+
+1247
+00:58:29,200 --> 00:58:34,000
+aquilo Uma das coisas que avançou muito
+
+1248
+00:58:30,760 --> 00:58:36,280
+no modelo na última versão eh já era uma
+
+1249
+00:58:34,000 --> 00:58:38,520
+questão pra gente antes mas você pode
+
+1250
+00:58:36,280 --> 00:58:40,720
+começar como alguém que tá jogando as
+
+1251
+00:58:38,520 --> 00:58:44,079
+cartas você pode entrar em qualquer
+
+1252
+00:58:40,720 --> 00:58:46,319
+ponto daquele ciclo ou até ver vir de um
+
+1253
+00:58:44,079 --> 00:58:47,960
+lugar anterior ao ciclo no momento que a
+
+1254
+00:58:46,319 --> 00:58:50,200
+gente mudou o tempo para uma espiral
+
+1255
+00:58:47,960 --> 00:58:52,079
+contínua mesmo que eu tô falando de uma
+
+1256
+00:58:50,200 --> 00:58:53,880
+volta de um projeto de manejo que é a
+
+1257
+00:58:52,079 --> 00:58:56,720
+questão onde o projeto a gente define o
+
+1258
+00:58:53,880 --> 00:58:59,000
+projeto acontece ali né tem uma
+
+1259
+00:58:56,720 --> 00:59:03,240
+experiência anterior que já veio daquilo
+
+1260
+00:58:59,000 --> 00:59:05,559
+se a pessoa pode entrar com a a intenção
+
+1261
+00:59:03,240 --> 00:59:07,839
+de projeto ou de desenvolvimento de
+
+1262
+00:59:05,559 --> 00:59:10,319
+alguma ideia um sonho eh em qualquer
+
+1263
+00:59:07,839 --> 00:59:12,720
+ponto Então isso de novo é uma ideia de
+
+1264
+00:59:10,319 --> 00:59:15,400
+baixar essa barra de entendimento
+
+1265
+00:59:12,720 --> 00:59:18,760
+abstrato para que qualquer pessoa com
+
+1266
+00:59:15,400 --> 00:59:22,960
+qualquer repertório e letramento consiga
+
+1267
+00:59:18,760 --> 00:59:25,280
+eh jogar brincar sem grandes
+
+1268
+00:59:22,960 --> 00:59:26,839
+eh compromissos Eu acho que isso nesse
+
+1269
+00:59:25,280 --> 00:59:29,000
+sentido vale até se a gente for quando
+
+1270
+00:59:26,839 --> 00:59:31,520
+for criar o baralho ter uma carta de
+
+1271
+00:59:29,000 --> 00:59:34,200
+introdução aqui não tem set errado não
+
+1272
+00:59:31,520 --> 00:59:36,119
+tem lugar certo para entrar você faz vai
+
+1273
+00:59:34,200 --> 00:59:40,520
+só mapeando já fez algum projeto
+
+1274
+00:59:36,119 --> 00:59:42,240
+sugestar sugerir algumas eh eh questões
+
+1275
+00:59:40,520 --> 00:59:45,240
+mais reflexivas paraa pessoa que vai
+
+1276
+00:59:42,240 --> 00:59:47,119
+jogar com as nossas cartas Eh mas a
+
+1277
+00:59:45,240 --> 00:59:49,680
+ambição de novo da marca é ter um
+
+1278
+00:59:47,119 --> 00:59:51,480
+entendimento claro mesmo que não consiga
+
+1279
+00:59:49,680 --> 00:59:54,240
+ler a palavra semente eu acho que a
+
+1280
+00:59:51,480 --> 00:59:55,839
+plantinha ali tá na margem do de
+
+1281
+00:59:54,240 --> 01:00:00,280
+universal assim de qualquer pessoa vai
+
+1282
+00:59:55,839 --> 01:00:02,280
+chegar lá e entender esperamos
+
+1283
+01:00:00,280 --> 01:00:04,000
+tá legal Muito mais é muito mais do que
+
+1284
+01:00:02,280 --> 01:00:05,559
+contexualizar com outras marcas de
+
+1285
+01:00:04,000 --> 01:00:09,839
+outras instituições que estão fazendo
+
+1286
+01:00:05,559 --> 01:00:13,359
+coisas parecidas né Legal Eh e aí acho
+
+1287
+01:00:09,839 --> 01:00:18,000
+que uma última pergunta assim eh para
+
+1288
+01:00:13,359 --> 01:00:21,160
+fechar eh se você tivesse se você fosse
+
+1289
+01:00:18,000 --> 01:00:26,079
+personificar né aquela história aí mais
+
+1290
+01:00:21,160 --> 01:00:27,079
+do brand mesmo semente como alguém ou
+
+1291
+01:00:26,079 --> 01:00:30,880
+uma
+
+1292
+01:00:27,079 --> 01:00:33,799
+entidade eh como você vê isso
+
+1293
+01:00:30,880 --> 01:00:36,280
+Bernardo Nossa quem seria essa pessoa
+
+1294
+01:00:33,799 --> 01:00:38,559
+Quem é essa marca personificada para
+
+1295
+01:00:36,280 --> 01:00:42,200
+você
+
+1296
+01:00:38,559 --> 01:00:43,880
+Eu acho esse exercício bem abstrato mas
+
+1297
+01:00:42,200 --> 01:00:46,640
+durante você tá a sua pergunta e aonde
+
+1298
+01:00:43,880 --> 01:00:50,920
+eu tô aqui tipo numa no meio de uma mata
+
+1299
+01:00:46,640 --> 01:00:52,200
+ciliar eh da Amazônia eh a primeira
+
+1300
+01:00:50,920 --> 01:00:53,760
+imagem que veio na minha cabeça foi o
+
+1301
+01:00:52,200 --> 01:00:58,280
+curupira
+
+1302
+01:00:53,760 --> 01:00:58,280
+Ah o que é incrível Eh eh mas
+
+1303
+01:01:00,559 --> 01:01:06,760
+não eu imagino Bom é é a minha angústia
+
+1304
+01:01:03,839 --> 01:01:07,640
+ao mesmo tempo é o que me atrai Curioso
+
+1305
+01:01:06,760 --> 01:01:10,839
+Eh
+
+1306
+01:01:07,640 --> 01:01:13,839
+eh eu imagino que o semente
+
+1307
+01:01:10,839 --> 01:01:15,280
+é vai continuar crescendo e amadurecendo
+
+1308
+01:01:13,839 --> 01:01:18,760
+né Então amanhã eu vou ter a
+
+1309
+01:01:15,280 --> 01:01:20,520
+oportunidade de visitar essa suma uma de
+
+1310
+01:01:18,760 --> 01:01:22,799
+800
+
+1311
+01:01:20,520 --> 01:01:25,640
+anos Porque que essa suma uma não podia
+
+1312
+01:01:22,799 --> 01:01:28,359
+também ser um símbolo do semente podia
+
+1313
+01:01:25,640 --> 01:01:31,240
+se ela representasse a ideia de eh
+
+1314
+01:01:28,359 --> 01:01:34,760
+plantil manutenção
+
+1315
+01:01:31,240 --> 01:01:37,480
+crescimento e manejo e as cartas e o
+
+1316
+01:01:34,760 --> 01:01:39,160
+tabuleiro continua lá eu podia trocar
+
+1317
+01:01:37,480 --> 01:01:41,960
+toda a linguagem que a gente desenvolveu
+
+1318
+01:01:39,160 --> 01:01:44,480
+a partir do ingá para uma linguagem de
+
+1319
+01:01:41,960 --> 01:01:45,559
+uma árvore eh quase milenar que a gente
+
+1320
+01:01:44,480 --> 01:01:49,000
+tem acesso
+
+1321
+01:01:45,559 --> 01:01:50,760
+aqui Não sei se eu consigo dar uma
+
+1322
+01:01:49,000 --> 01:01:53,760
+personalidade sabe Até eu acho que isso
+
+1323
+01:01:50,760 --> 01:01:56,319
+empobreceria um pouco o conceito
+
+1324
+01:01:53,760 --> 01:01:57,520
+Eu eu quero fazer um comentário que para
+
+1325
+01:01:56,319 --> 01:02:00,599
+mim a resposta do meninado foi
+
+1326
+01:01:57,520 --> 01:02:02,960
+interessante porque ele pensou numa
+
+1327
+01:02:00,599 --> 01:02:05,559
+pessoa que representa semente mas é uma
+
+1328
+01:02:02,960 --> 01:02:07,079
+pessoa não humana Eu acho que isso é um
+
+1329
+01:02:05,559 --> 01:02:08,599
+encantado
+
+1330
+01:02:07,079 --> 01:02:11,680
+É eu acho que é
+
+1331
+01:02:08,599 --> 01:02:13,720
+é interessante a gente pensar que como a
+
+1332
+01:02:11,680 --> 01:02:16,640
+gente tá nesse processo de construção de
+
+1333
+01:02:13,720 --> 01:02:19,559
+uma identidade de de uma de um método
+
+1334
+01:02:16,640 --> 01:02:21,039
+uma metodologia para trabalho em
+
+1335
+01:02:19,559 --> 01:02:22,559
+comunidade é interessante a gente pensar
+
+1336
+01:02:21,039 --> 01:02:25,599
+que não necessariamente a gente precisa
+
+1337
+01:02:22,559 --> 01:02:27,720
+que a marca seja um ser humano pode ser
+
+1338
+01:02:25,599 --> 01:02:30,200
+uma pessoa não humana e assim pode ser o
+
+1339
+01:02:27,720 --> 01:02:32,200
+curupira e a própria suma também eh pode
+
+1340
+01:02:30,200 --> 01:02:34,400
+ser considerada uma pessoa não humana né
+
+1341
+01:02:32,200 --> 01:02:37,160
+ou mais que humana ou enfim tomar uma
+
+1342
+01:02:34,400 --> 01:02:40,640
+onde eu vou eles chamam de
+
+1343
+01:02:37,160 --> 01:02:44,240
+Vozona Eu vou visitar a Vovozona amanhã
+
+1344
+01:02:40,640 --> 01:02:49,240
+Então isso já acho de uma força
+
+1345
+01:02:44,240 --> 01:02:52,839
+eh bem bem marcante
+
+1346
+01:02:49,240 --> 01:02:54,799
+também o valor né e o significado que as
+
+1347
+01:02:52,839 --> 01:02:58,319
+comunidades e cada
+
+1348
+01:02:54,799 --> 01:03:01,200
+indivíduo dá para cada elemento É é
+
+1349
+01:02:58,319 --> 01:03:04,640
+muito único é singular Vovózona tá aqui
+
+1350
+01:03:01,200 --> 01:03:08,240
+há 800 anos
+
+1351
+01:03:04,640 --> 01:03:10,480
+Eh eh por mais que eu entenda o número
+
+1352
+01:03:08,240 --> 01:03:12,799
+conceber isso no tempo histórico do
+
+1353
+01:03:10,480 --> 01:03:17,760
+Brasil de tudo que a gente veu e e
+
+1354
+01:03:12,799 --> 01:03:20,599
+colonizações e abusos sistêmicos dos eh
+
+1355
+01:03:17,760 --> 01:03:23,520
+povos originários aqui eh essa árvore tá
+
+1356
+01:03:20,599 --> 01:03:27,520
+lá em pé firme
+
+1357
+01:03:23,520 --> 01:03:29,559
+E e mais né olhando até na na escala
+
+1358
+01:03:27,520 --> 01:03:32,359
+global o que
+
+1359
+01:03:29,559 --> 01:03:34,920
+essa agora com com a questão do do
+
+1360
+01:03:32,359 --> 01:03:36,520
+colapso climático e toda a alteração
+
+1361
+01:03:34,920 --> 01:03:40,160
+drástica dos
+
+1362
+01:03:36,520 --> 01:03:43,119
+ecossistemas eh ela vivenciou um mundo
+
+1363
+01:03:40,160 --> 01:03:46,440
+né não só um país que não existe mais
+
+1364
+01:03:43,119 --> 01:03:49,400
+Ela viu né Ela tava lá ela tipo é uma
+
+1365
+01:03:46,440 --> 01:03:52,680
+testemunha de todas essas eh
+
+1366
+01:03:49,400 --> 01:03:55,359
+modificações atmosféricas e de tudo que
+
+1367
+01:03:52,680 --> 01:03:57,079
+a gente nem imagina Nossa eu vou dormir
+
+1368
+01:03:55,359 --> 01:04:00,079
+aos pés dela Vamos ver se o curupira
+
+1369
+01:03:57,079 --> 01:04:00,079
+aparece
+
+1370
+01:04:00,960 --> 01:04:07,720
+Tomara que sim né
+
+1371
+01:04:03,279 --> 01:04:10,119
+Eh mas da minha parte acho que é isso
+
+1372
+01:04:07,720 --> 01:04:12,240
+Gente acho que a pretensão nossa
+
+1373
+01:04:10,119 --> 01:04:16,760
+pretensão nossa ambição como diz
+
+1374
+01:04:12,240 --> 01:04:19,079
+Bernardo eh sistematizar esses esses
+
+1375
+01:04:16,760 --> 01:04:20,720
+pontos de uma forma que estejam
+
+1376
+01:04:19,079 --> 01:04:24,640
+acessíveis
+
+1377
+01:04:20,720 --> 01:04:28,599
+eh e sumarizados para outras pessoas eh
+
+1378
+01:04:24,640 --> 01:04:31,880
+acessarem e compartilharem e também
+
+1379
+01:04:28,599 --> 01:04:36,039
+criarem os seus fluxos baseados nas suas
+
+1380
+01:04:31,880 --> 01:04:38,799
+sementes e mudas e processos eh
+
+1381
+01:04:36,039 --> 01:04:42,440
+coletivos Então essa ideia de levantar
+
+1382
+01:04:38,799 --> 01:04:45,839
+esses pontos e criar o brand guide muito
+
+1383
+01:04:42,440 --> 01:04:48,160
+mais de criar uma receita de bolo que as
+
+1384
+01:04:45,839 --> 01:04:49,559
+pessoas precisam seguir a risca ou
+
+1385
+01:04:48,160 --> 01:04:51,920
+respeitar
+
+1386
+01:04:49,559 --> 01:04:54,640
+veementemente porque é uma marca ou
+
+1387
+01:04:51,920 --> 01:04:58,400
+qualquer outra coisa do tipo
+
+1388
+01:04:54,640 --> 01:04:58,400
+Qual que é a a o que que a gente
+
+1389
+01:04:58,799 --> 01:05:08,720
+quer não sei se palavra é construir qual
+
+1390
+01:05:02,319 --> 01:05:10,960
+é a ampão de ter esse esse ahã
+
+1391
+01:05:08,720 --> 01:05:13,319
+esse livreto
+
+1392
+01:05:10,960 --> 01:05:14,960
+explicando a nossa marca É para que
+
+1393
+01:05:13,319 --> 01:05:17,480
+outras pessoas podem se apropriar e
+
+1394
+01:05:14,960 --> 01:05:20,640
+reproduzir ou modificar também também na
+
+1395
+01:05:17,480 --> 01:05:24,440
+a ideia inicial que eu e Felipe
+
+1396
+01:05:20,640 --> 01:05:26,200
+conversamos era de criar um Figma eh
+
+1397
+01:05:24,440 --> 01:05:28,079
+contando essa história né que ela pode
+
+1398
+01:05:26,200 --> 01:05:31,079
+ser transcrita e também pode ser
+
+1399
+01:05:28,079 --> 01:05:35,039
+balizada naquelas questões estão no
+
+1400
+01:05:31,079 --> 01:05:39,400
+documento eh expor isso no sentido de
+
+1401
+01:05:35,039 --> 01:05:42,680
+publicizar e eh colocar as
+
+1402
+01:05:39,400 --> 01:05:47,400
+versões eh e tudo de uma forma visual É
+
+1403
+01:05:42,680 --> 01:05:50,039
+isso sistematizada da forma mais entendi
+
+1404
+01:05:47,400 --> 01:05:53,559
+Barreiras baixar o sarrafo mesmo para
+
+1405
+01:05:50,039 --> 01:05:55,839
+qualquer pessoa no sentido E eu tô com
+
+1406
+01:05:53,559 --> 01:05:57,920
+um arquivo no Figma com esses materiais
+
+1407
+01:05:55,839 --> 01:06:00,039
+O que eu mostrei aqui tava navegando eu
+
+1408
+01:05:57,920 --> 01:06:02,400
+acabei fazendo no Illustrator mas eu tô
+
+1409
+01:06:00,039 --> 01:06:06,240
+transpondo aos poucos pro Figma
+
+1410
+01:06:02,400 --> 01:06:08,480
+E também a última versão do nosso da do
+
+1411
+01:06:06,240 --> 01:06:13,520
+nosso eu não vou falar
+
+1412
+01:06:08,480 --> 01:06:16,520
+pr do nosso modelo ali Eh também tô
+
+1413
+01:06:13,520 --> 01:06:18,000
+colocando lá no Figma E eu acho que a
+
+1414
+01:06:16,520 --> 01:06:20,200
+gente tinha que também ter na conclusão
+
+1415
+01:06:18,000 --> 01:06:22,599
+desse mês de março agora não vão ser
+
+1416
+01:06:20,200 --> 01:06:26,319
+todas as cartas porque tem muita
+
+1417
+01:06:22,599 --> 01:06:27,480
+eh uma parte eh de vocabulário que a
+
+1418
+01:06:26,319 --> 01:06:29,279
+gente vai ter que trabalhar e amadurecer
+
+1419
+01:06:27,480 --> 01:06:33,520
+muito mas a gente vai ter um
+
+1420
+01:06:29,279 --> 01:06:37,760
+comecinho eh nesse Figma mas também ter
+
+1421
+01:06:33,520 --> 01:06:39,319
+por exemplo eh publicar no Miroverse se
+
+1422
+01:06:37,760 --> 01:06:41,920
+alguém quiser usar isso
+
+1423
+01:06:39,319 --> 01:06:43,680
+digitalmente publicar nessas ferramentas
+
+1424
+01:06:41,920 --> 01:06:45,839
+de colaboração online criar uns
+
+1425
+01:06:43,680 --> 01:06:47,839
+templatezinhos assim assim semente para
+
+1426
+01:06:45,839 --> 01:06:50,319
+que outras pessoas possam se apropriar e
+
+1427
+01:06:47,839 --> 01:06:52,359
+usar Nesse sentido ter uma explicação do
+
+1428
+01:06:50,319 --> 01:06:55,279
+que que é de onde a marca nasceu como
+
+1429
+01:06:52,359 --> 01:06:58,240
+ela é e até talvez estimular a
+
+1430
+01:06:55,279 --> 01:07:00,640
+apropriação Pode ser interessante Uhum
+
+1431
+01:06:58,240 --> 01:07:04,599
+Então o esse esse guideline ia ser mais
+
+1432
+01:07:00,640 --> 01:07:08,319
+assim tipo modifique e nos informe Sim É
+
+1433
+01:07:04,599 --> 01:07:09,960
+é isso A primeira escala é facilitar pra
+
+1434
+01:07:08,319 --> 01:07:11,599
+gente Inclusive quando eu fui fazer o
+
+1435
+01:07:09,960 --> 01:07:13,960
+sitezinho semente lá eu tive que fazer
+
+1436
+01:07:11,599 --> 01:07:16,079
+um screenshot da apresentação do do
+
+1437
+01:07:13,960 --> 01:07:19,160
+slide lá porque não tinha a gente não
+
+1438
+01:07:16,079 --> 01:07:21,400
+tinha organizado isso na época Eh aquela
+
+1439
+01:07:19,160 --> 01:07:23,680
+coisa o santo de casa não faz milagre né
+
+1440
+01:07:21,400 --> 01:07:26,000
+Mas acho que também tem essa esse
+
+1441
+01:07:23,680 --> 01:07:28,119
+cenário da gente adotar essas práticas
+
+1442
+01:07:26,000 --> 01:07:30,160
+com templates no Figma Canva seja lá
+
+1443
+01:07:28,119 --> 01:07:33,920
+onde for para possibilitar que as
+
+1444
+01:07:30,160 --> 01:07:37,119
+pessoas se apropriem e que a coisa da
+
+1445
+01:07:33,920 --> 01:07:39,160
+gente publicar essa ideia de no fim do
+
+1446
+01:07:37,119 --> 01:07:40,480
+mês de março a gente publicar alguma
+
+1447
+01:07:39,160 --> 01:07:42,160
+coisa não seja simplesmente essa coisa A
+
+1448
+01:07:40,480 --> 01:07:45,000
+gente vai publicar um PDF que as pessoas
+
+1449
+01:07:42,160 --> 01:07:49,480
+podem acessar mas que seja essa coisa de
+
+1450
+01:07:45,000 --> 01:07:53,440
+eh abrir para outras pessoas usarem a
+
+1451
+01:07:49,480 --> 01:07:57,079
+versão final A versão 4 a versão 4 do
+
+1452
+01:07:53,440 --> 01:07:59,039
+momento a versão 3.99 virando 4 mas
+
+1453
+01:07:57,079 --> 01:08:00,920
+também que possam derivar outras versões
+
+1454
+01:07:59,039 --> 01:08:03,760
+a partir daí possam usar as partes que
+
+1455
+01:08:00,920 --> 01:08:06,599
+quiserem e não somente submeter-se a
+
+1456
+01:08:03,760 --> 01:08:08,079
+decisões eh que a gente tome Mas enfim é
+
+1457
+01:08:06,599 --> 01:08:10,279
+esse exercício de abertura que eu acho
+
+1458
+01:08:08,079 --> 01:08:13,000
+que faz parte Mas também fiquei bastante
+
+1459
+01:08:10,279 --> 01:08:14,920
+feliz com essa a descrição e essa
+
+1460
+01:08:13,000 --> 01:08:17,359
+decomposição do processo de criação que
+
+1461
+01:08:14,920 --> 01:08:19,799
+eu acho importante Eu acho que se faz
+
+1462
+01:08:17,359 --> 01:08:21,199
+pouco disso dentro do universo de
+
+1463
+01:08:19,799 --> 01:08:22,799
+projetos de impacto projetos de
+
+1464
+01:08:21,199 --> 01:08:24,679
+comunidade Não se conversa tanto sobre
+
+1465
+01:08:22,799 --> 01:08:27,440
+isso quanto se conversa dentro do
+
+1466
+01:08:24,679 --> 01:08:28,799
+universo mais acadêmico do design E para
+
+1467
+01:08:27,440 --> 01:08:30,440
+mim acho que é uma contribuição também
+
+1468
+01:08:28,799 --> 01:08:33,120
+que essa conversa pode dar do universo
+
+1469
+01:08:30,440 --> 01:08:36,040
+com de vista né É sim
+
+1470
+01:08:33,120 --> 01:08:37,640
+também Mas enfim por mim acho que é isso
+
+1471
+01:08:36,040 --> 01:08:39,839
+Posso parar de gravar ou querem falar
+
+1472
+01:08:37,640 --> 01:08:42,839
+mais alguma coisa
+
+1473
+01:08:39,839 --> 01:08:44,960
+record Não eu acho que a gente cobriu
+
+1474
+01:08:42,839 --> 01:08:46,600
+todos os aspectos Vamos ver onde a gente
+
+1475
+01:08:44,960 --> 01:08:47,679
+tá em março quando a gente fizer o
+
+1476
+01:08:46,600 --> 01:08:48,839
+próximo vídeo Acho que a gente vai poder
+
+1477
+01:08:47,679 --> 01:08:50,159
+refletir bastante no que a gente
+
+1478
+01:08:48,839 --> 01:08:52,880
+capturou até
+
+1479
+01:08:50,159 --> 01:08:56,839
+aqui
+
+1480
+01:08:52,880 --> 01:08:58,920
+Eh eu Beleza Então para quem assistiu
+
+1481
+01:08:56,839 --> 01:09:02,000
+esse vídeo se é que alguém assistiu até
+
+1482
+01:08:58,920 --> 01:09:05,000
+agora obrigado pela atenção E a gente tá
+
+1483
+01:09:02,000 --> 01:09:07,080
+você falou o dia né do vídeo Hã falei o
+
+1484
+01:09:05,000 --> 01:09:09,199
+quê Você você na na sua introdução você
+
+1485
+01:09:07,080 --> 01:09:11,440
+mencionou que que nós estamos no dia 24
+
+1486
+01:09:09,199 --> 01:09:13,120
+de fevereiro
+
+1487
+01:09:11,440 --> 01:09:16,640
+Ah não falei ainda Hoje é dia 24 de
+
+1488
+01:09:13,120 --> 01:09:18,759
+fevereiro 2025 e 24 de fevereiro 202 É
+
+1489
+01:09:16,640 --> 01:09:21,799
+isso Estamos sempre disponíveis para
+
+1490
+01:09:18,759 --> 01:09:24,560
+conversa sobre semente o site é
+
+1491
+01:09:21,799 --> 01:09:27,159
+semente.de e tem nossos e-mails por aí
+
+1492
+01:09:24,560 --> 01:09:31,480
+também Então é isso Valeu Vou par Valeu
+
+1493
+01:09:27,159 --> 01:09:31,480
+demais Obrigado Obrigada
+
