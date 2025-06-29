@@ -18,6 +18,6 @@ The interloop can be approached from any point. A group willing to use it can st
 
 At any point in the cycle, the group can make use of the composter. It's meant to temporarily hold the decisions yet to be made, the requirements and conditions that are not yet ideal, or the need to achieve consensus on particular topics.
 
-An interactive version of the interloop can be accessed on [Figma](https://www.figma.com/design/AILcWjAeOrk6CDak08Ky9v/semente-entrela%C3%A7o-FF-simplificado?node-id=0-1&p=f&t=9jUDs8mcJH0QhGsi-0).
+An interactive version of the interloop can be accessed on [Figma](https://www.figma.com/design/6UaNh9tnCJpTi8UwRzhslG/Semente-V.4?node-id=0-1&t=BkKnDf2GTIINvvuG-1).
 
 In addition to visualising the elements of the interloop cycle and their relationships, semente also offers [sets of cards](../cards) to activate deeper levels of conversation, discussion and planning.

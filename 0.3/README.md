@@ -6,7 +6,9 @@
 
 [![cards](cards/cards.png)](cards)
 
-The [visual identity](identity) of semente was also updated in this phase, making it more versatile.
+The complete set (interloop + cards) is available from [Figma](https://www.figma.com/design/6UaNh9tnCJpTi8UwRzhslG/Semente-V.4?node-id=0-1&t=BkKnDf2GTIINvvuG-1).
+
+The [visual identity](identity) of semente was also updated in this phase.
 
 ## Process
 
