@@ -16,13 +16,13 @@ The semente cards can be used to activate the [interloop](../interloop) and faci
 | **CO-CREATION** | *Shape the work together and share responsibility.* | Community, roles, collaboration, partnership, trust. |
 | **RITUALS** | *Mark moments and care for group culture.* | Closure, celebration, rhythm, emotional pace, and team dynamics. |
 
-💡 Many prompt types, especially Vision, Intent, and Context, have a future-facing angle. Use these to imagine what’s next, rehearse possible futures, or explore the seeds of long-term change.  
+_Many prompt types, especially Vision, Intent, and Context, have a future-facing angle. Use these to imagine what’s next, rehearse possible futures, or explore the seeds of long-term change._
 
 ---
 
-# **🃏 Prompt Cards – Full Deck**
+## Prompt Cards – Full Deck
 
-SOWING  
+### SOWING
 Ideas, Hunches, Questions, Roots, Intent, Listening, Potential, Timing, Conditions, Readiness  
 Every project starts long before it starts.
 
@@ -324,7 +324,7 @@ Every seed has its rhythm. What pace helps you feel grounded?
 
 ---
 
-HANDLING
+### HANDLING
 
 Effort, Tending, Care, Support, Growth, Trust, Feedback, Focus, Collaboration, Adjustment
 
@@ -628,7 +628,7 @@ Knowing what not to do right now is part of wise action.
 
 ---
 
-REGENERATION
+### REGENERATION
 
 Reflection, Harvest, Stories, Continuity, Memory, Legacy, Learning, Handover, Cycles, Reuse
 
@@ -934,7 +934,7 @@ Some things are fragile. Regeneration also means stewardship.
 
 ---
 
-COMPOST
+### COMPOSTER
 
 Release, Letting go, Unused, Residue, Missteps, Reframing, Humility, Patterns, Transformation, Rest
 
@@ -1238,7 +1238,11 @@ Even the “failures” held effort, hope, and time. Gratitude helps turn them o
 
 ---
 
-Wildcard Tags – Definitions
+### WILDCARDS
+
+**WILDCARDS — PRODUCTIVE DISCOMFORT**
+
+*Reflections, Challenges, Provocations, Reality-Checks, What-ifs and What-if-not*
 
 | Tag | Definition |
 | ----- | ----- |
@@ -1253,12 +1257,6 @@ Wildcard Tags – Definitions
 | **Evidence** | Making impact visible — through metrics, stories, or signals of success |
 
 ---
-
-WILDCARDS
-
-**WILDCARDS — PRODUCTIVE DISCOMFORT**
-
-*Reflections, Challenges, Provocations, Reality-Checks, What-ifs and What-if-not*
 
 ---
 
@@ -1434,7 +1432,7 @@ Not everyone says it out loud. What signs would you notice early, and what would
 
 **What if your project became a model others wanted to copy?**
 
-When your work inspires others, it feels good—and risky. Would you open it up, protect it, or set terms? Could copyleft strengthen your values or blur them?
+When your work inspires others, it feels good — and risky. Would you open it up, protect it, or set terms? Could copyleft strengthen your values or blur them?
 
 ---
 
