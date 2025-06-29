@@ -11,6 +11,6 @@ Unlike traditional models, *semente* proposes a **flexible and adaptable approac
 *   by the **practices** to be developed;
 *   by **previous experiences**.
 
-The *semente* method inverts the linear logic of projects, **valuing the complete and spiral cycle**. The element of renewal at each turn of the spiral is the **seedbag** (a combination of ideas, dreams, intentions, desires, and people, communities, groups). The seedbag is the starting point of the cycle, where ideas, desires, and people come together.
+The *semente* method inverts the linear logic of projects, **valuing a complete spiralled shape**. The element of renewal at each turn of the spiral are the **seeds** (a combination of ideas, dreams, intentions, desires, and people, communities, groups). The seeds are the iterative starting point of the cycle, where ideas, desires, and people come together.
 
 - Read more in the [wiki](https://fonte.wiki/projetos/semente_en) and [semente website](https://semente.de).

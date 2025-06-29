@@ -2,13 +2,17 @@
 
 > **Update** on 29/06/2025: a new version of semente is available. It is based on a 3-vector visualisation called [interloop](interloop) and a set of [activation cards](cards). This version replaces all the previous ones and is to be considered the canonical one from now on. semente is available under the [CC-BY](https://creativecommons.org/licenses/by/4.0/) 4.0 licence.
 
-![interloop](interloop/interloop.png)
+[![interloop](interloop/interloop.png)](interloop)
+
+[![cards](cards/cards.png)](cards)
+
+The [visual identity](identity) of semente was also updated in this phase, making it more versatile.
 
 ## Process
 
 The third development iteration for semente took place between the end of 2024 and mid-2025 through a series of activities:
 
-- Ongoing [reflecting](reflecting) by the semente team on the toolkit, its shape, and its methods.
+- Ongoing [reflection](reflecting) on the toolkit, its shape, and its methods.
 - Further development of the semente canvas, mechanics and cards. Early sketches can be found [here](sketching). The final versions can be found on the [interloop](interloop) and [cards](cards) folders.
 - A residency in Ubatuba, Brazil with [gaiato](gaiato) in February 2025 and a collaborative workshop in [Instituto Neos](neos).
 - Discussion about potential pilot uses of semente.
@@ -16,7 +20,7 @@ The third development iteration for semente took place between the end of 2024 a
 
 ## Goals
 
-For semente 0.3, worked to achieve the following:
+For semente 0.3, the team sought to achieve the following:
 
 - A streamlined version of the semente canvas.
 - At least one set of cards.
