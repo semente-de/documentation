@@ -23,10 +23,13 @@ _Many prompt types, especially Vision, Intent, and Context, have a future-facing
 ## Prompt Cards – Full Deck
 
 ### SOWING
+
 Ideas, Hunches, Questions, Roots, Intent, Listening, Potential, Timing, Conditions, Readiness  
 Every project starts long before it starts.
 
 Before the work begins, hunches, needs, values, and conditions shape what’s possible. This phase is about noticing what wants to grow and asking if the ground is ready. The SEEDs might be skills, insights, or questions and along this vector is the time of intent, care, and connection.
+
+![sowing cards](cards-sowing.png)
 
 ---
 
@@ -331,6 +334,8 @@ Effort, Tending, Care, Support, Growth, Trust, Feedback, Focus, Collaboration, A
 Once an idea is planted, it needs care.
 
 The Handling phase is where things take shape through coordination, feedback, effort, and support. It’s about nurturing what’s growing, letting go of what doesn’t serve, and recognising the signs of early harvest. This is where the work becomes real.
+
+![handling cards](cards-handling.png)
 
 ---
 
@@ -638,6 +643,8 @@ What was harvested? What was handed over? What still holds potential?
 
 In Regeneration, we reuse skills, stories, and results, and begin mapping what might come next. This is a time for composting, celebration, handovers, and new seeds.
 
+![regeneration cards](cards-regeneration.png)
+
 ---
 
 RG.0001 · VISION
@@ -941,6 +948,8 @@ Release, Letting go, Unused, Residue, Missteps, Reframing, Humility, Patterns, T
 No project is perfect or unfolds in a straight line.
 
 Even the missteps, side paths, and half-formed ideas may hold value. They might not serve you now, but they could spark insight for someone else later. Don’t discard them — compost them. Composting is about reflection, release, and transformation.
+
+![composter cards](cards-composter.png)
 
 ---
 
@@ -1265,6 +1274,8 @@ Even the “failures” held effort, hope, and time. Gratitude helps turn them o
 **When the ground shifts, how do you move?**
 
 These cards challenge your assumptions and test your project’s adaptability. Pull one when things feel too sure — or when you want to stress-test your path forward.
+
+![wildcards](cards-wildcard.png)
 
 ---
 
