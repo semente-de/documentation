@@ -22,8 +22,6 @@ The cards are used to generate seven types of prompts:
 
 Each vector of the interloop has a subset of cards: _Sowing_, _Handling_, _Regeneration_. Additionally, there are also subsets for the _Composter_, and more open-ended _Wildcards_.
 
-
-```markdown
 #### Sowing
 
 - **SW.0001 · Intent**  
@@ -440,6 +438,3 @@ Each vector of the interloop has a subset of cards: _Sowing_, _Handling_, _Regen
 
 - **WLD.0021 · Alignment · Visibility**  
   What if your project became a model others wanted to copy?
-```
-
-[1] https://ppl-ai-file-upload.s3.amazonaws.com/web/direct-files/attachments/16664272/0e1aa976-8474-458b-8f30-ee71c383c6fb/Please-give-me-the-cards-in-a-markdown-file-with.pdf
