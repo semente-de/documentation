@@ -1,7 +1,7 @@
 # Semente 0.3
 
 - ~[Seeding Just Transitions](2024-09-18_Seeding\ Just\ Transitions.pdf) (PDF Version, September 2024).~ **Update:** an updated version of this text was published here: [Climate fatigue and convivial futures](https://is.efeefe.me/stuff/fbr/climate-fatigue-convivial-futures).
-- [Spiral View](https://semente.de/lab/spiral-view/) (describing progressive spirals).
+- Reflecting on spirals: [Spiral View](https://semente.de/lab/spiral-view/) + [Arrows and Spirals](https://semente.de/lab/arrows-and-spirals/).
 - [Community Ways](https://semente.de/lab/community-ways/) (on communities).
 - [What if...](https://semente.de/lab/what-if/) (reporting on presentation about semente and other projects in Bristol).
 - Background and context: [Ubatuba](../karumbe/Ubatuba-2025.md) (text about the context in Ubatuba, where the residency with [GAIATO](../gaiato) is planned to happen).
@@ -10,12 +10,20 @@ See also: [Seeds of digital reforestation](https://is.efeefe.me/stuff/seeds-digi
 
 ## Videos
 
-While developing v0.3, we recorded a series of videos.
+While developing v0.3 of semente, we released a series of videos.
 
-### October 2024
 
-- A first set of two videos (in Portuguese) about earlier phases of semente ([archive.org](https://archive.org/details/2024-semente-02) / ([YouTube 1](https://www.youtube.com/watch?v=835XcMYHLgg&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=3), [YouTube 2](https://www.youtube.com/watch?v=XlBeTCCfTnc&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=4)).
-- A video, also in Portuguese, starting to brainstorm on a potential alternative shape of the semente canvas ([archive.org](https://archive.org/details/semente-cycles) / [YouTube](https://www.youtube.com/watch?v=KMt-VVZk9-o)).
+### May 2025
+
+- _semente design workshop_, recorded on November 2024 and available from the [internet archive](https://archive.org/details/workshop-semente_11-24) and [YouTube](https://www.youtube.com/watch?v=QZ5N1hMrrU4)
+- _semente - identidade e comunicação_, workshop from February 2024 on the background of developing the visual identity of semente (video in Portuguese), available from [archive.org](https://archive.org/details/semente-identidade-comunicacao) and [YouTube](https://www.youtube.com/watch?v=ISYXjBHd8gs).
+
+### December 2024
+
+- prototyping the semente canvas on paper, available on YouTube: [semente - paper prototyping](https://youtube.com/video/exaneu79dYc/)
+- short documentation in Portuguese about the semente canvas, available on YouTube: [semente tabuleiro](https://youtube.com/video/fMjzSjBr4-o/).
+- While preparing to use the evolving version of semente for a workshop with members of [GIG's](../gig) education group, Felipe felt the need to make another video - this one about the limitations of a straight-arrow-shaped perspective on projects ([archive.org](https://archive.org/details/semente-arrows-and-spirals) / [YouTube](https://www.youtube.com/watch?v=3Jit6GcCBqQ)). The slides used for the video are available [here](spirals-arrows.pdf).
+
 
 ### November 2024
 
@@ -24,6 +32,8 @@ While developing v0.3, we recorded a series of videos.
 - Short notes on the shape of semente canvas, in Portuguese ([archive.org](https://archive.org/details/2024-11-25-semente-tabuleiro) / [YouTube](https://www.youtube.com/watch?v=fMjzSjBr4-o)).
 - As experimentation went on, we also started making videos in English to document the experimentation with spiralled and cyclical shapes. While making the first one ([archive.org](https://archive.org/details/semente_paper-prototyping) / [YouTube](https://www.youtube.com/watch?v=exaneu79dYc)), the camera failed. So a second video was shot ([archive.org](https://archive.org/details/semente-spiral-shaped-communities) / [YouTube](https://www.youtube.com/watch?v=cjYhaq-wibQ)). A slightly edited automated transcription is [here](spiral-shaped_video_transcription.txt). 
 
-### December
 
-- While preparing to use the evolving version of semente for a workshop with members of [GIG's](../gig) education group, Felipe felt the need to make another video - this one about the limitations of a straight-arrow-shaped perspective on projects ([archive.org](https://archive.org/details/semente-arrows-and-spirals) / [YouTube](https://www.youtube.com/watch?v=3Jit6GcCBqQ)). The slides used for the video are available [here](spirals-arrows.pdf).
+### October 2024
+
+- A first set of two videos (in Portuguese) about earlier phases of semente ([archive.org](https://archive.org/details/2024-semente-02) / ([YouTube 1](https://www.youtube.com/watch?v=835XcMYHLgg&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=3), [YouTube 2](https://www.youtube.com/watch?v=XlBeTCCfTnc&list=PLSHdLCc8rAquu46BlqJEdqhrHafv-kIHU&index=4)).
+- A video, also in Portuguese, starting to brainstorm on a potential alternative shape of the semente canvas ([archive.org](https://archive.org/details/semente-cycles) / [YouTube](https://www.youtube.com/watch?v=KMt-VVZk9-o)).

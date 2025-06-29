@@ -4,6 +4,8 @@
 
 GAIATO is a nonprofit organisation based in Ubatuba, Brazil. It hosted the semente residency in February 2025. The toolkit was used to help visualise and develop the organisations' projects.
 
+**Update:** see this blog post about the residency: [GAIATO Residency](https://semente.de/lab/gaiato-residency/).
+
 ## About GAIATO
 
 Translated from [their website](https://www.gaiato.org/):
@@ -20,4 +22,4 @@ Translated from [their website](https://www.gaiato.org/):
 - First Workshop: [conversation with GAIATO: mapping](2024-11-11_workshop.md) on 11.11.2024. 
 - Second Workshop: [semente team design discussion](2024-11-19_workshop.md) on 19.11.2024.
 - Third Workshop: [conversation with GAIATO: elaborating](2024-11-25_workshop.md) on 25.11.2024.
-- Residency [documentation](residencia).
+- Residency [documentation](residencia) and [final blog post](https://semente.de/lab/gaiato-residency/).
