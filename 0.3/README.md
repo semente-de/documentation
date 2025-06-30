@@ -1,6 +1,6 @@
 # Semente 0.3
 
-> **Update** on 29/06/2025: a new version of semente is available. It is based on a 3-vector visualisation called [interloop](interloop) and a set of [activation cards](cards). This version replaces all the previous ones and is to be considered the canonical one from now on. semente is available under the [CC-BY](https://creativecommons.org/licenses/by/4.0/) 4.0 licence.
+> **Update** on 29/06/2025: this is the most recent version of _semente_. It is based on a 3-vector visualisation called [interloop](interloop) and a set of [activation cards](cards). This version replaces all the previous ones and is to be considered the canonical one from now on. _semente_ is available under the [CC-BY](https://creativecommons.org/licenses/by/4.0/) 4.0 licence.
 
 [![interloop](interloop/interloop.png)](interloop)
 
@@ -8,7 +8,7 @@
 
 The complete set (interloop + cards) is available from [Figma](https://www.figma.com/design/6UaNh9tnCJpTi8UwRzhslG/Semente-V.4?node-id=0-1&t=BkKnDf2GTIINvvuG-1).
 
-The [visual identity](identity) of semente was also updated in this phase.
+The [visual identity](identity) of _semente_ was also updated in this phase.
 
 ## Process
 
