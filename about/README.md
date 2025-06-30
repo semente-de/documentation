@@ -18,5 +18,16 @@ Our **Interloop** Model supports community-led projects through three evolving v
 
 The Interloop proposes a continuous cycle — a reminder that projects don’t follow a straight path, but evolve, grow, and transform with time.
 
-- Read more about [the Interloop](../0.3/interloop).
-- Read more about semente in the [wiki](https://fonte.wiki/projetos/semente_en) and [semente website](https://semente.de).
+We believe that projects don’t move in straight lines. Rather, they spiral forward. Even when we return to a previous idea, we may bring new learning, stronger relationships, and lived experience. Each loop strengthens what might come next.
+
+We can enter wherever we are now — and revisit different phases as the work progresses. Already leading a more developed project? You can head straight to the Handling prompts. Just getting started? Begin at the Seed — where shared intent takes root.
+
+Each vector offers a set of prompts to help us reflect, adapt, and create together. At any moment, we’re free to explore the **Wildcards**, which bring __“what if…”__ questions — provoking new thinking and fresh perspective, helping us act with resilience in uncertain times.
+
+We believe everyone contributes, and anyone can lead. There’s no need for a single facilitator or expert at the centre. Leadership grows through care, curiosity, and shared purpose.
+The Interloop is not a tool for control, but a pattern for growing together.
+
+---
+
+- Read in more detail about [the Interloop](../0.3/interloop).
+- Learn more about the _semente_ toolkit in the [wiki](https://fonte.wiki/projetos/semente_en) and [semente website](https://semente.de).
