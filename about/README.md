@@ -1,16 +1,22 @@
 # About semente
 
-*semente* (Portuguese for "seed") is a **collaborative method** for **designing and visualizing collective projects and processes in a cyclical and regenerative way**. It arises from a **discomfort with the traditional format of projects**, which usually have a defined beginning, middle, and end, disconnected from the lives and experiences of the people involved.
+_semente_ is a method created for people working together on community-based projects. It emerged as an alternative to rigid planning models that often don’t reflect how communities truly live, act, and grow together.
 
-- *[This page in Portuguese](/projetos/semente).*
+We use a vocabulary inspired by community gardening, permaculture and re-foresting — with elements familiar and rooted in human experience that helps us talk across different realities about care, time, effort, and transformation.
 
-Unlike traditional models, *semente* proposes a **flexible and adaptable approach**, which allows the project to be started from different points:
+Instead of offering fixed steps, _semente_ supports our work as it is — right now. Whether we are starting out, reorganising, or deepening work that is already underway, it helps us reflect, adapt, and move forward together.
 
-*   by the **idea / people** (the seed);
-*   by the **questions** to be addressed;
-*   by the **practices** to be developed;
-*   by **previous experiences**.
+There’s no need for formal roles or titles to take part. Leadership can be shared, and everyone has something to offer.
 
-The *semente* method inverts the linear logic of projects, **valuing a complete spiralled shape**. The element of renewal at each turn of the spiral are the **seeds** (a combination of ideas, dreams, intentions, desires, and people, communities, groups). The seeds are the iterative starting point of the cycle, where ideas, desires, and people come together.
+Each cycle brings new **Seeds** — shaped by what we’ve learned, lived, and hoped for. We don’t return to the starting point — we move forward in a spiral: wiser, stronger, and ready to grow again. One cycle might strengthen an existing project or give rise to something completely new. When we revisit past ideas, we do so with fresh perspective, deeper understanding, and greater resilience.
 
-- Read more in the [wiki](https://fonte.wiki/projetos/semente_en) and [semente website](https://semente.de).
+## The Interloop Model: Cycles, Not a Line
+
+Our **Interloop** Model supports community-led projects through three evolving vectors of action: **Sowing**, **Handling**, and **Regeneration**. Cutting across all of them is the **Composter**, acting as a repository for everything we wish to set aside, allow to mature, and return to when the time is right.
+
+![Interloop](../03/interloop/interloop.png)
+
+The Interloop proposes a continuous cycle — a reminder that projects don’t follow a straight path, but evolve, grow, and transform with time.
+
+- Read more about [the Interloop](../0.3/interloop).
+- Read more about semente in the [wiki](https://fonte.wiki/projetos/semente_en) and [semente website](https://semente.de).
