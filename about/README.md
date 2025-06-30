@@ -14,7 +14,7 @@ Each cycle brings new **Seeds** — shaped by what we’ve learned, lived, and h
 
 Our **Interloop** Model supports community-led projects through three evolving vectors of action: **Sowing**, **Handling**, and **Regeneration**. Cutting across all of them is the **Composter**, acting as a repository for everything we wish to set aside, allow to mature, and return to when the time is right.
 
-![Interloop](../03/interloop/interloop.png)
+![Interloop](../0.3/interloop/interloop.png)
 
 The Interloop proposes a continuous cycle — a reminder that projects don’t follow a straight path, but evolve, grow, and transform with time.
 
