@@ -8,4 +8,4 @@ In February 2024, the semente team hosted a workshop presenting the initial phas
 
 ## See also
 
-- semente's visual identity documentation is available on [miro](https://miro.com/app/board/uXjVIEuVadM=/).
+- semente's visual identity documentation is available on [Figma](https://www.figma.com/design/ypCip3jSUu2Halyg2gG32e/semente-identity-v4?node-id=83-1136&t=CmIVOCiNbMv7GMXK-1) (identity v.4) and [miro](https://miro.com/app/board/uXjVIEuVadM=/) (previous versions and initial research).
