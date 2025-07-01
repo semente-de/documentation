@@ -1,6 +1,6 @@
 # Cards
 
-The semente cards can be used to activate the [interloop](../interloop) and facilitate deep levels of collective conversation on community initiatives. The first set released in 2025 can be seen below. It's also available from [Figma](https://www.figma.com/design/6UaNh9tnCJpTi8UwRzhslG/Semente-V.4?node-id=0-1&t=BkKnDf2GTIINvvuG-1) under a CC-BY licence 4.0.
+The semente cards can be used to activate the [interloop](../interloop) and facilitate deep levels of collective conversation on community initiatives. The first set released in 2025 can be seen below. It's also available from [Figma](https://www.figma.com/design/6UaNh9tnCJpTi8UwRzhslG/Semente-V.4?node-id=0-1&t=BkKnDf2GTIINvvuG-1) under a licence [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) licence.
 
 ![cards](cards.png)
 
