@@ -8,7 +8,7 @@ The interloop has three sequential vectors, moving counter-clockwise from the ce
 
 - The _Seed_ - a combination of people and groups, and their intentions, desires, dreams;
 - _Soil_ - everything that the group builds on whenever a new initiative starts - past experience, legacy, available infrastructure and knowledge, etc)
-- _Sprout_ - the first expression of the project, which may take the form of a prototype, a MVP, an agreed description of grant application.
+- _Seedling_ - the first expression of the project, which may take the form of a prototype, a MVP, an agreed description of grant application.
 - _Fruits_ - the concrete and explicit outputs of collective construction, which can be traded in the market or kept for future use.
 - The _Silo_ - where shared values and principles are collected among the harvest to generate new seeds.
 
